@@ -1,0 +1,4520 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-17T11:04:41.344Z",
+  "articleCount": 300,
+  "collection": {
+    "state": "ok",
+    "availableSources": 14,
+    "totalSources": 14
+  },
+  "translation": {
+    "state": "missing_api_key",
+    "model": null,
+    "translated": 0,
+    "fallback": 300,
+    "pending": 0,
+    "message": "번역 키가 없어 원문을 표시합니다."
+  },
+  "articles": [
+    {
+      "id": "9764d66e1ce4d4a3",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "IDF expected to reinforce West Bank presence amid violence surrounding Palestinian olive harvest",
+      "titleKo": "IDF expected to reinforce West Bank presence amid violence surrounding Palestinian olive harvest",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911965",
+      "publishedAt": "2026-10-17T13:08:16.000Z",
+      "collectedAt": "2026-10-17T11:04:20.111Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "1469bfd944b2d3ef",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Voices from the Arab press: Yemen’s fight to retake Sana'a mirrors Syria’s liberation of Damascus",
+      "titleKo": "Voices from the Arab press: Yemen’s fight to retake Sana'a mirrors Syria’s liberation of Damascus",
+      "url": "https://www.jpost.com/middle-east/article-911798",
+      "publishedAt": "2026-10-17T13:05:21.000Z",
+      "collectedAt": "2026-10-17T11:04:20.110Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "fe0887315b29736b",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Syria’s Kurdish autonomy is fading as Arab unrest challenges Damascus’s control",
+      "titleKo": "Syria’s Kurdish autonomy is fading as Arab unrest challenges Damascus’s control",
+      "url": "https://www.jpost.com/middle-east/article-911880",
+      "publishedAt": "2026-10-17T13:00:17.000Z",
+      "collectedAt": "2026-10-17T11:04:20.110Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "dff5d5b2f46e517c",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Gilad Schalit’s release, 15 years later: Why Israel must remember joy of his homecoming - opinion",
+      "titleKo": "Gilad Schalit’s release, 15 years later: Why Israel must remember joy of his homecoming - opinion",
+      "url": "https://www.jpost.com/opinion/article-911819",
+      "publishedAt": "2026-10-17T12:59:58.000Z",
+      "collectedAt": "2026-10-17T11:04:20.111Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3364ecaafa993e13",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Two injured in clash between Israelis, Palestinians near Kedumim in West Bank, IDF investigating",
+      "titleKo": "Two injured in clash between Israelis, Palestinians near Kedumim in West Bank, IDF investigating",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911963",
+      "publishedAt": "2026-10-17T12:55:10.000Z",
+      "collectedAt": "2026-10-17T11:04:20.111Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "32df8bbd4bb87245",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Egypt's Sisi says his presidency will end in 2030 after over a decade in role",
+      "titleKo": "Egypt's Sisi says his presidency will end in 2030 after over a decade in role",
+      "url": "https://www.jpost.com/middle-east/article-911964",
+      "publishedAt": "2026-10-17T12:47:46.000Z",
+      "collectedAt": "2026-10-17T11:04:20.110Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "59f61a1c9f103b82",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Iran-backed militias funnel money to IRGC amid economic crisis, CENTCOM commander Cooper says",
+      "titleKo": "Iran-backed militias funnel money to IRGC amid economic crisis, CENTCOM commander Cooper says",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-911962",
+      "publishedAt": "2026-10-17T11:51:15.000Z",
+      "collectedAt": "2026-10-17T11:04:20.110Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "234bad12bcca3a5a",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "US lawmakers condemn settler violence after Washington Post journalist wounded in West Bank clashes",
+      "titleKo": "US lawmakers condemn settler violence after Washington Post journalist wounded in West Bank clashes",
+      "url": "https://www.jpost.com/israel-news/article-911961",
+      "publishedAt": "2026-10-17T11:04:11.000Z",
+      "collectedAt": "2026-10-17T11:04:20.110Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e5ef98d32cc24089",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "【動画】Pickup NEWS（10月17日）",
+      "titleKo": "【動画】Pickup NEWS（10月17日）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60703",
+      "publishedAt": "2026-10-17T10:58:17.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "feb0b57ffeb63f17",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "titleKo": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T10:46:41.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "4448e17d158a0a01",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "沖縄 辺野古事故の遺族 古謝知事に修学旅行の安全確保求める",
+      "titleKo": "沖縄 辺野古事故の遺族 古謝知事に修学旅行の安全確保求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de61000",
+      "publishedAt": "2026-10-17T10:43:36.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "2bca40a31a12d021",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Reported attacks on ships around Strait of Hormuz reach record highs",
+      "titleKo": "Reported attacks on ships around Strait of Hormuz reach record highs",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia",
+      "publishedAt": "2026-10-17T10:37:08.000Z",
+      "collectedAt": "2026-10-17T11:04:26.000Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "bac8f8b60f18f039",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Israeli firm exploited online ads to spy on Al Jazeera and Palestinian sites, researchers say",
+      "titleKo": "Israeli firm exploited online ads to spy on Al Jazeera and Palestinian sites, researchers say",
+      "url": "https://www.haaretz.com/israel-news/security-aviation/2026-10-17/ty-article/israeli-firm-exploited-online-ads-to-spy-on-al-jazeera-and-palestinian-sites/000001a1-4931-d358-a7b5-fb3b34df0000",
+      "publishedAt": "2026-10-17T10:33:10.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3549b8e06b03eb74",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Journalist undergoes surgery, suffers broken vertebrae after Israeli settler attack",
+      "titleKo": "Journalist undergoes surgery, suffers broken vertebrae after Israeli settler attack",
+      "url": "https://www.timesofisrael.com/liveblog_entry/journalist-undergoes-surgery-suffers-broken-vertebrae-after-israeli-settler-attack",
+      "publishedAt": "2026-10-17T10:32:02.000Z",
+      "collectedAt": "2026-10-17T11:04:16.639Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e23f8b77c0d51564",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Israeli chess players say they were barred from world championship in Malaysia",
+      "titleKo": "Israeli chess players say they were barred from world championship in Malaysia",
+      "url": "https://www.timesofisrael.com/israeli-chess-players-say-they-were-barred-from-world-championship-in-malaysia",
+      "publishedAt": "2026-10-17T10:30:03.000Z",
+      "collectedAt": "2026-10-17T11:04:16.639Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3f1e67cfb26ad581",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "The Uplift: The Hundred Acre Wood",
+      "titleKo": "The Uplift: The Hundred Acre Wood",
+      "url": "https://www.cbsnews.com/video/101726-the-uplift",
+      "publishedAt": "2026-10-17T10:30:00.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "c754e53c811b6114",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "The gate of Eden: In Israel’s Valley of Springs, ancient history offers a new journey of healing",
+      "titleKo": "The gate of Eden: In Israel’s Valley of Springs, ancient history offers a new journey of healing",
+      "url": "https://www.jpost.com/travel/article-911785",
+      "publishedAt": "2026-10-17T10:25:24.000Z",
+      "collectedAt": "2026-10-17T11:04:20.110Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8329f64041953cd1",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Planting hope in Samaria: A journey through vineyards, springs, and ancient history",
+      "titleKo": "Planting hope in Samaria: A journey through vineyards, springs, and ancient history",
+      "url": "https://www.jpost.com/travel/article-911840",
+      "publishedAt": "2026-10-17T10:24:57.000Z",
+      "collectedAt": "2026-10-17T11:04:20.110Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3fdf087a179c971c",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "aitech"
+      ],
+      "titleOriginal": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
+      "titleKo": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
+      "url": "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
+      "publishedAt": "2026-10-17T10:19:32.000Z",
+      "collectedAt": "2026-10-17T11:04:13.566Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b5f84d599d68cd61",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "3 men sentenced to 158 years for the killings of Australian, US surfers in Mexico",
+      "titleKo": "3 men sentenced to 158 years for the killings of Australian, US surfers in Mexico",
+      "url": "https://abcnews.com/International/wireStory/3-men-sentenced-158-years-killings-australian-us-137340778",
+      "publishedAt": "2026-10-17T10:18:41.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "d1b324d7cc2c39d0",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Pope Leo to be discharged from hospital on Saturday, Vatican says",
+      "titleKo": "Pope Leo to be discharged from hospital on Saturday, Vatican says",
+      "url": "https://www.cbsnews.com/news/pope-leo-hospital-released-discharged-saturday-appearance",
+      "publishedAt": "2026-10-17T10:16:39.000Z",
+      "collectedAt": "2026-10-17T11:04:26.000Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "64d54cd3f696d93c",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Saudi Arabia executes five Saudis convicted of ‘terrorism-related’ offenses",
+      "titleKo": "Saudi Arabia executes five Saudis convicted of ‘terrorism-related’ offenses",
+      "url": "https://www.timesofisrael.com/liveblog_entry/saudi-arabia-executes-five-saudis-convicted-of-terrorism-related-offenses",
+      "publishedAt": "2026-10-17T10:13:46.000Z",
+      "collectedAt": "2026-10-17T11:04:16.639Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e9e6ad47f9085ee4",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "愛子さま 鳥取で防災推進国民大会に出席",
+      "titleKo": "愛子さま 鳥取で防災推進国民大会に出席",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60971",
+      "publishedAt": "2026-10-17T10:12:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "7c82b63e298be271",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Netanyahu wants security chiefs to tell him the truth? Yalla, it&#x27;s time",
+      "titleKo": "Netanyahu wants security chiefs to tell him the truth? Yalla, it&#x27;s time",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-17/ty-article-magazine/.premium/netanyahu-wants-security-chiefs-to-tell-him-the-truth-its-now-or-never/000001a1-48c3-ddef-a5b7-dcff79bf0000",
+      "publishedAt": "2026-10-17T10:11:50.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ac63f317b3bc35c4",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Protesters across France rally over rising living costs, joining students' grievances",
+      "titleKo": "Protesters across France rally over rising living costs, joining students' grievances",
+      "url": "https://abcnews.com/International/wireStory/protesters-france-rally-rising-living-costs-joining-students-137342706",
+      "publishedAt": "2026-10-17T10:08:15.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "0bb2206ad35ea49c",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Fire guts a Bangladeshi beach resort, killing 10 people",
+      "titleKo": "Fire guts a Bangladeshi beach resort, killing 10 people",
+      "url": "https://abcnews.com/International/wireStory/fire-guts-bangladeshi-beach-resort-killing-10-people-137342617",
+      "publishedAt": "2026-10-17T10:06:51.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "37c71e0000281910",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Pope Leo to be discharged from hospital, Vatican says",
+      "titleKo": "Pope Leo to be discharged from hospital, Vatican says",
+      "url": "https://www.timesofisrael.com/liveblog_entry/pope-leo-to-be-discharged-from-hospital-vatican-says",
+      "publishedAt": "2026-10-17T10:02:11.000Z",
+      "collectedAt": "2026-10-17T11:04:16.639Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b9527f03ad44c03a",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "‘Countries are defying gravity’: how much longer can global economy resist chaos?",
+      "titleKo": "‘Countries are defying gravity’: how much longer can global economy resist chaos?",
+      "url": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
+      "publishedAt": "2026-10-17T10:00:27.000Z",
+      "collectedAt": "2026-10-17T11:04:13.197Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e375868842ca0a09",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Latest news bulletin | October 17th, 2026 – Midday",
+      "titleKo": "Latest news bulletin | October 17th, 2026 – Midday",
+      "url": "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-midday",
+      "publishedAt": "2026-10-17T10:00:15.000Z",
+      "collectedAt": "2026-10-17T11:04:07.067Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "87c5de0989941f17",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "茨城 ひたちなか 高齢の男女2人海で溺れる 搬送時意識なし",
+      "titleKo": "茨城 ひたちなか 高齢の男女2人海で溺れる 搬送時意識なし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60962",
+      "publishedAt": "2026-10-17T09:59:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "4daaf8a95ab94bfa",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "titleKo": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T09:58:17.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e766a8babf85f471",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Egypt’s Sisi says his presidency will end in 2030",
+      "titleKo": "Egypt’s Sisi says his presidency will end in 2030",
+      "url": "https://www.timesofisrael.com/liveblog_entry/egypts-sisi-says-his-presidency-will-end-in-2030",
+      "publishedAt": "2026-10-17T09:57:59.000Z",
+      "collectedAt": "2026-10-17T11:04:16.639Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "41512ffd9bca7272",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "IDF: Troops dispatched to West Bank village after Israeli injured in clash",
+      "titleKo": "IDF: Troops dispatched to West Bank village after Israeli injured in clash",
+      "url": "https://www.timesofisrael.com/liveblog_entry/idf-troops-dispatched-to-west-bank-village-after-israeli-injured-in-clash",
+      "publishedAt": "2026-10-17T09:50:40.000Z",
+      "collectedAt": "2026-10-17T11:04:16.639Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e8d3327e9a6891d2",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "titleKo": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T09:42:13.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "c6555025c0b93d36",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Ligue 1: Paris Saint-Germain aim to build on recent progress at Strasbourg",
+      "titleKo": "Ligue 1: Paris Saint-Germain aim to build on recent progress at Strasbourg",
+      "url": "https://www.france24.com/en/tv-shows/sports/20261017-ligue-1-paris-saint-germain-aim-to-build-on-recent-progress-at-strasbourg",
+      "publishedAt": "2026-10-17T09:41:44.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "fbd299378c123507",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Trump waives tariffs on largest buyers of Russian oil",
+      "titleKo": "Trump waives tariffs on largest buyers of Russian oil",
+      "url": "https://www.cbsnews.com/news/trump-waives-sanctions-tariffs-russian-oil-lindsey-graham",
+      "publishedAt": "2026-10-17T09:39:30.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "0cb4c94a65da96ab",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "A top economist sees Israel’s fiscal future on the ballot as costs of war, division mount",
+      "titleKo": "A top economist sees Israel’s fiscal future on the ballot as costs of war, division mount",
+      "url": "https://www.timesofisrael.com/a-top-economist-sees-israels-fiscal-future-on-the-ballot-as-costs-of-war-division-mount",
+      "publishedAt": "2026-10-17T09:32:03.000Z",
+      "collectedAt": "2026-10-17T11:04:16.639Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6fb54ee5f338c2a0",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Zelensky drums up European backing as Trump ties slump",
+      "titleKo": "Zelensky drums up European backing as Trump ties slump",
+      "url": "https://www.france24.com/en/video/20261017-zelensky-drums-up-european-backing-as-trump-ties-slump",
+      "publishedAt": "2026-10-17T09:25:20.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "937fbb54fa23adaa",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "消防から地震が起きた際の対応学ぶイベント 東京 新宿",
+      "titleKo": "消防から地震が起きた際の対応学ぶイベント 東京 新宿",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60957",
+      "publishedAt": "2026-10-17T09:24:18.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "c7e67917229ea174",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Trump waives new Russia sanctions as Ukraine ties slump",
+      "titleKo": "Trump waives new Russia sanctions as Ukraine ties slump",
+      "url": "https://www.france24.com/en/video/20261017-trump-waives-new-russia-sanctions-as-ukraine-ties-slump",
+      "publishedAt": "2026-10-17T09:23:52.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "af45e2c7ed1e47ee",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "奨学金受給の高校生 約2割が進学断念や変更を検討 物価高影響",
+      "titleKo": "奨学金受給の高校生 約2割が進学断念や変更を検討 物価高影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60940",
+      "publishedAt": "2026-10-17T09:23:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "963de1843669585f",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Super tanker ablaze after striking mine in Strait of Hormuz, IRGC says",
+      "titleKo": "Super tanker ablaze after striking mine in Strait of Hormuz, IRGC says",
+      "url": "https://www.euronews.com/2026/10/17/super-tanker-ablaze-after-striking-mine-in-strait-of-hormuz-irgc-says",
+      "publishedAt": "2026-10-17T09:22:41.000Z",
+      "collectedAt": "2026-10-17T11:04:07.067Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b76ce15004e5f67d",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "福岡 久山町 廃棄車両集積場所の火事鎮圧 けが人の情報なし",
+      "titleKo": "福岡 久山町 廃棄車両集積場所の火事鎮圧 けが人の情報なし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60886",
+      "publishedAt": "2026-10-17T09:22:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "9bce678f41e29653",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦略相ら参拝",
+      "titleKo": "靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦略相ら参拝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60815",
+      "publishedAt": "2026-10-17T09:18:48.000Z",
+      "collectedAt": "2026-10-17T11:04:31.613Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "489d694f376e3c44",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Katie Zacharia leaving White House role less than five days into job",
+      "titleKo": "Katie Zacharia leaving White House role less than five days into job",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T09:14:10.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6c4cad054379e661",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Students, trade unions and Yellow Vests set to protest across France",
+      "titleKo": "Students, trade unions and Yellow Vests set to protest across France",
+      "url": "https://www.france24.com/en/video/20261017-students-trade-unions-and-yellow-vests-set-to-protest-across-france",
+      "publishedAt": "2026-10-17T09:11:24.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "1ae2eaf1cc6162ef",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Saudi airstrikes killed three children in Yemen, Houthis say",
+      "titleKo": "Saudi airstrikes killed three children in Yemen, Houthis say",
+      "url": "https://www.timesofisrael.com/liveblog_entry/saudi-airstrikes-killed-three-children-in-yemen-houthis-say",
+      "publishedAt": "2026-10-17T09:10:30.000Z",
+      "collectedAt": "2026-10-17T11:04:16.639Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "183dcc7fd4a0e504",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "All the president’s women: a familiar downward trajectory in Trump’s cabinet",
+      "titleKo": "All the president’s women: a familiar downward trajectory in Trump’s cabinet",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-female-cabinet-officials-departures",
+      "publishedAt": "2026-10-17T09:00:28.000Z",
+      "collectedAt": "2026-10-17T11:04:12.784Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "d59d461e8a3fb992",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "Squash down: smaller pumpkins expected this Halloween after drought in England",
+      "titleKo": "Squash down: smaller pumpkins expected this Halloween after drought in England",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/17/smaller-pumpkins-halloween-drought-england",
+      "publishedAt": "2026-10-17T09:00:26.000Z",
+      "collectedAt": "2026-10-17T11:04:13.197Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "363914146ba21db2",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
+      "titleKo": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill",
+      "publishedAt": "2026-10-17T09:00:26.000Z",
+      "collectedAt": "2026-10-17T11:04:13.197Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "80924bb82f8a6c30",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Ben Gvir’s visit to Ramle market sparks joy and outrage in mixed Arab-Jewish city",
+      "titleKo": "Ben Gvir’s visit to Ramle market sparks joy and outrage in mixed Arab-Jewish city",
+      "url": "https://www.timesofisrael.com/ben-gvirs-visit-to-ramle-market-sparks-joy-and-outrage-in-mixed-arab-jewish-city",
+      "publishedAt": "2026-10-17T08:48:27.000Z",
+      "collectedAt": "2026-10-17T11:04:16.639Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3920bcb6e0816413",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Iran giving Yemen's Houthis target intelligence for drone, missile strikes on Saudi Arabia - report",
+      "titleKo": "Iran giving Yemen's Houthis target intelligence for drone, missile strikes on Saudi Arabia - report",
+      "url": "https://www.jpost.com/middle-east/article-911957",
+      "publishedAt": "2026-10-17T08:46:46.000Z",
+      "collectedAt": "2026-10-17T11:04:20.110Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "bd1ccd4bd586b003",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Settlers stab to death some 20 Palestinian-owned sheep in West Bank — report",
+      "titleKo": "Settlers stab to death some 20 Palestinian-owned sheep in West Bank — report",
+      "url": "https://www.timesofisrael.com/liveblog_entry/settlers-stab-to-death-some-20-palestinian-owned-sheep-in-west-bank-report",
+      "publishedAt": "2026-10-17T08:45:07.000Z",
+      "collectedAt": "2026-10-17T11:04:16.640Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "464871afb51d8103",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "'The emotional cost has been unbelievable': How three years of war have changed Israelis - study",
+      "titleKo": "'The emotional cost has been unbelievable': How three years of war have changed Israelis - study",
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-911838",
+      "publishedAt": "2026-10-17T08:44:52.000Z",
+      "collectedAt": "2026-10-17T11:04:20.110Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "7ed374610b610313",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "WATCH: Rhode Island farmer sets new record for world's biggest pumpkin",
+      "titleKo": "WATCH: Rhode Island farmer sets new record for world's biggest pumpkin",
+      "url": "https://abcnews.com/video/137305086",
+      "publishedAt": "2026-10-17T08:34:20.000Z",
+      "collectedAt": "2026-10-17T11:04:27.289Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "d52a89846903d7aa",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "自民 小林政調会長 消費税減税法案成立へ多くの野党に働きかけ",
+      "titleKo": "自民 小林政調会長 消費税減税法案成立へ多くの野党に働きかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60929",
+      "publishedAt": "2026-10-17T08:30:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.613Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "503c921cb424c3c1",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "‘Ozu showed the way’: A documentarian looks for the man behind the legend",
+      "titleKo": "‘Ozu showed the way’: A documentarian looks for the man behind the legend",
+      "url": "https://www.japantimes.co.jp/culture/2026/10/17/film/daniel-raim-ozu-diaries",
+      "publishedAt": "2026-10-17T08:30:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b25d107f75c58027",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "‘The Apartment’: Why this 1960 film about adultery is a comedy icon today",
+      "titleKo": "‘The Apartment’: Why this 1960 film about adultery is a comedy icon today",
+      "url": "https://www.timesofisrael.com/the-apartment-why-this-1960-film-about-adultery-is-a-comedy-icon-today",
+      "publishedAt": "2026-10-17T08:07:14.000Z",
+      "collectedAt": "2026-10-17T11:04:16.640Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8c4956309d1bbb68",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "安全保障3文書改定に向け 非核三原則「持ち込ませず」論点に",
+      "titleKo": "安全保障3文書改定に向け 非核三原則「持ち込ませず」論点に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60926",
+      "publishedAt": "2026-10-17T08:04:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.613Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "efdc8d19442887d5",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "France braces for nationwide protests",
+      "titleKo": "France braces for nationwide protests",
+      "url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-17T08:02:00.000Z",
+      "collectedAt": "2026-10-17T11:04:06.826Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "1cd69611642e62d6",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "North Korea says it tested new AI-powered torpedo system",
+      "titleKo": "North Korea says it tested new AI-powered torpedo system",
+      "url": "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system",
+      "publishedAt": "2026-10-17T07:52:50.000Z",
+      "collectedAt": "2026-10-17T11:04:07.067Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b54a4d607210d6a5",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Report: One Palestinian killed in strike near Gaza City school",
+      "titleKo": "Report: One Palestinian killed in strike near Gaza City school",
+      "url": "https://www.timesofisrael.com/liveblog_entry/report-one-killed-dozens-injured-in-strike-on-gaza-city-school",
+      "publishedAt": "2026-10-17T07:43:31.000Z",
+      "collectedAt": "2026-10-17T11:04:16.640Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "69bb4e41baa2f2f6",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "&#x27;Israel should stay out of Trump&#x27;s oil war. Netanyahu is doing the opposite&#x27;",
+      "titleKo": "&#x27;Israel should stay out of Trump&#x27;s oil war. Netanyahu is doing the opposite&#x27;",
+      "url": "https://www.haaretz.com/israel-news/podcasts/2026-10-17/ty-article-podcast/israel-should-stay-out-of-trumps-oil-war-netanyahu-is-doing-the-opposite/000001a1-44dc-d7d5-a9ab-44dff7640000",
+      "publishedAt": "2026-10-17T07:38:55.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "d1cf189392d3e80e",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Israel faces a nationwide mental health crisis post-October 7, Clalit experts warn - study",
+      "titleKo": "Israel faces a nationwide mental health crisis post-October 7, Clalit experts warn - study",
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-911848",
+      "publishedAt": "2026-10-17T07:37:11.000Z",
+      "collectedAt": "2026-10-17T11:04:20.110Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "763903e2d46ef0a4",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Detroit summit boosts Israeli business in face of pro-Palestinian wave",
+      "titleKo": "Detroit summit boosts Israeli business in face of pro-Palestinian wave",
+      "url": "https://www.timesofisrael.com/detroit-summit-boosts-israeli-business-in-face-of-pro-palestinian-wave",
+      "publishedAt": "2026-10-17T07:28:30.000Z",
+      "collectedAt": "2026-10-17T11:04:16.640Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5284602d2c0abf3b",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "My son’s backpack was shot and that wasn’t even the craziest part of the story",
+      "titleKo": "My son’s backpack was shot and that wasn’t even the craziest part of the story",
+      "url": "https://www.timesofisrael.com/1524413-my-sons-backpack-was-shot-and-that-wasnt-even-the-craziest-part-of-the-story",
+      "publishedAt": "2026-10-17T07:26:12.000Z",
+      "collectedAt": "2026-10-17T11:04:16.640Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b24919749b130775",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "トランプ大統領 新たな対ロシア制裁の大半を除外の大統領令",
+      "titleKo": "トランプ大統領 新たな対ロシア制裁の大半を除外の大統領令",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60905",
+      "publishedAt": "2026-10-17T07:24:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.387Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "9fb712b86df209c4",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "北朝鮮メディア AI搭載の新型魚雷の発射実験を実施と報道",
+      "titleKo": "北朝鮮メディア AI搭載の新型魚雷の発射実験を実施と報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60903",
+      "publishedAt": "2026-10-17T07:21:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.387Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "f0d4bfca510a05c4",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Now-ousted US general warned of defense munition shortage months before Iran war - report",
+      "titleKo": "Now-ousted US general warned of defense munition shortage months before Iran war - report",
+      "url": "https://www.jpost.com/international/article-911953",
+      "publishedAt": "2026-10-17T07:17:19.000Z",
+      "collectedAt": "2026-10-17T11:04:20.110Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "4a6b312fa23c6781",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Japan to raise youth awareness about Northern Territories",
+      "titleKo": "Japan to raise youth awareness about Northern Territories",
+      "url": "https://www.japantimes.co.jp/news/2026/10/17/japan/northern-territories-youth-awareness",
+      "publishedAt": "2026-10-17T07:17:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "55ffc8f8a317d86c",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Tanker struck by unknown projectile off Saudi Arabia, says maritime agency",
+      "titleKo": "Tanker struck by unknown projectile off Saudi Arabia, says maritime agency",
+      "url": "https://www.timesofisrael.com/liveblog_entry/tanker-struck-by-unknown-projectile-off-saudi-arabia-says-maritime-agency",
+      "publishedAt": "2026-10-17T07:12:20.000Z",
+      "collectedAt": "2026-10-17T11:04:16.640Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8e8ef8832e584901",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Right-wing group sets up settlement near Gaza, demands government move it into Strip",
+      "titleKo": "Right-wing group sets up settlement near Gaza, demands government move it into Strip",
+      "url": "https://www.timesofisrael.com/right-wing-group-sets-up-settlement-near-gaza-demands-government-move-it-into-strip",
+      "publishedAt": "2026-10-17T07:11:38.000Z",
+      "collectedAt": "2026-10-17T11:04:16.640Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "52393147c6f7702c",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Report: Settlers attack Palestinian olive pickers in Deir Jarir for second straight day",
+      "titleKo": "Report: Settlers attack Palestinian olive pickers in Deir Jarir for second straight day",
+      "url": "https://www.timesofisrael.com/liveblog_entry/report-settlers-attack-palestinian-olive-pickers-in-deir-jarir-for-second-straight-day",
+      "publishedAt": "2026-10-17T07:03:02.000Z",
+      "collectedAt": "2026-10-17T11:04:16.640Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "36eff53ab543b369",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
+      "titleKo": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
+      "url": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
+      "publishedAt": "2026-10-17T07:00:24.000Z",
+      "collectedAt": "2026-10-17T11:04:12.469Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "0f41a4e475450c40",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "Plan to make firms pay more to train older workers than youth apprentices in England",
+      "titleKo": "Plan to make firms pay more to train older workers than youth apprentices in England",
+      "url": "https://www.theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england",
+      "publishedAt": "2026-10-17T07:00:24.000Z",
+      "collectedAt": "2026-10-17T11:04:13.197Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "131ad49f58e451c6",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "ローマ教皇がプーチン大統領と電話会談 停戦を要請",
+      "titleKo": "ローマ教皇がプーチン大統領と電話会談 停戦を要請",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60909",
+      "publishedAt": "2026-10-17T06:58:41.000Z",
+      "collectedAt": "2026-10-17T11:04:31.387Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b58ded6fdf50f139",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "The Nobel Peace Prize offensive",
+      "titleKo": "The Nobel Peace Prize offensive",
+      "url": "https://www.timesofisrael.com/1523003-the-nobel-peace-prize-offensive",
+      "publishedAt": "2026-10-17T06:57:09.000Z",
+      "collectedAt": "2026-10-17T11:04:16.640Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "86f302c32c6e8240",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "IMF official welcomes Japan’s temporary tax cut plan",
+      "titleKo": "IMF official welcomes Japan’s temporary tax cut plan",
+      "url": "https://www.japantimes.co.jp/business/2026/10/17/economy/imf-official-japan-tax-cut-plan",
+      "publishedAt": "2026-10-17T06:46:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "1d336c72db188574",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
+      "titleKo": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
+      "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast",
+      "publishedAt": "2026-10-17T06:45:23.000Z",
+      "collectedAt": "2026-10-17T11:04:13.046Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "2b087ecb5a5e3686",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "トランプ大統領が中間選挙前に連日各地で演説",
+      "titleKo": "トランプ大統領が中間選挙前に連日各地で演説",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60900",
+      "publishedAt": "2026-10-17T06:39:37.000Z",
+      "collectedAt": "2026-10-17T11:04:31.387Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "84aeadb30751e34d",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
+      "titleKo": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
+      "url": "https://abcnews.com/International/wireStory/houthi-strikes-saudi-arabia-show-yemeni-rebels-growing-137341692",
+      "publishedAt": "2026-10-17T06:38:21.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5d344cea4fca61f2",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Trump signs executive order waiving new Russia sanctions package",
+      "titleKo": "Trump signs executive order waiving new Russia sanctions package",
+      "url": "https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package",
+      "publishedAt": "2026-10-17T06:37:32.000Z",
+      "collectedAt": "2026-10-17T11:04:07.067Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "cf0bc7b13dbd1970",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "From their homes, they watched Israeli settlers try to burn them alive",
+      "titleKo": "From their homes, they watched Israeli settlers try to burn them alive",
+      "url": "https://www.haaretz.com/israel-news/twilight-zone/2026-10-17/ty-article-magazine/.highlight/from-their-homes-they-watched-settlers-try-to-burn-them-alive/000001a1-3fc1-dc43-abbb-fff32fbb0000",
+      "publishedAt": "2026-10-17T06:37:27.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "7b1497b0701d074a",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine",
+      "titleKo": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine",
+      "url": "https://abcnews.com/International/wireStory/winter-hunger-looms-residents-trapped-russian-occupied-city-137341209",
+      "publishedAt": "2026-10-17T06:34:30.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6d6b849e4d8f8513",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Israeli arrested in Colombia over alleged $16 million bank fraud in Dubai — report",
+      "titleKo": "Israeli arrested in Colombia over alleged $16 million bank fraud in Dubai — report",
+      "url": "https://www.timesofisrael.com/liveblog_entry/israeli-arrested-in-colombia-over-alleged-16-million-bank-fraud-in-dubai-report",
+      "publishedAt": "2026-10-17T06:26:06.000Z",
+      "collectedAt": "2026-10-17T11:04:16.640Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "a4dbc6315a07aa04",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "This Chinese export boom really has legs — and wings",
+      "titleKo": "This Chinese export boom really has legs — and wings",
+      "url": "https://www.japantimes.co.jp/business/2026/10/17/china-chicken-exports",
+      "publishedAt": "2026-10-17T06:19:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5c9611dce5855024",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Netanyahu isn&#x27;t the only Israeli politician turning podcasts into propaganda",
+      "titleKo": "Netanyahu isn&#x27;t the only Israeli politician turning podcasts into propaganda",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-17/ty-article-magazine/.premium/netanyahu-isnt-the-only-israeli-politician-turning-podcasts-into-propaganda/000001a1-3f93-d897-a3bb-bffb988e0000",
+      "publishedAt": "2026-10-17T06:10:44.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "c35a1d7295366164",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Takaichi makes ritual offering to Yasukuni Shrine",
+      "titleKo": "Takaichi makes ritual offering to Yasukuni Shrine",
+      "url": "https://www.japantimes.co.jp/news/2026/10/17/japan/politics/takaichi-yasukuni-shrine-offering",
+      "publishedAt": "2026-10-17T06:06:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3e41e54e024fb7d1",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
+      "titleKo": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
+      "url": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-17T06:04:00.000Z",
+      "collectedAt": "2026-10-17T11:04:06.826Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "be69bdfac337e2e4",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
+      "titleKo": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
+      "url": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
+      "publishedAt": "2026-10-17T06:00:32.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "0a0644c8660bba4a",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "Palantir patient data tech rejected by many NHS trusts in England",
+      "titleKo": "Palantir patient data tech rejected by many NHS trusts in England",
+      "url": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
+      "publishedAt": "2026-10-17T06:00:24.000Z",
+      "collectedAt": "2026-10-17T11:04:13.197Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ef5eb191c4893c65",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "aitech"
+      ],
+      "titleOriginal": "Which coffee chain was founded in London in 1971? The Saturday quiz",
+      "titleKo": "Which coffee chain was founded in London in 1971? The Saturday quiz",
+      "url": "https://www.theguardian.com/games/2026/oct/17/which-coffee-chain-was-founded-in-london-in-1971-the-saturday-quiz",
+      "publishedAt": "2026-10-17T06:00:24.000Z",
+      "collectedAt": "2026-10-17T11:04:13.567Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ab5a229dcd0181e9",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "The world’s biggest fine jewellery factory: How Pandora aims to make more and pollute less in Vietnam",
+      "titleKo": "The world’s biggest fine jewellery factory: How Pandora aims to make more and pollute less in Vietnam",
+      "url": "https://www.euronews.com/2026/10/17/pandora-opens-the-worlds-biggest-jewellery-factory-in-vietnam-but-is-success-guaranteed-in",
+      "publishedAt": "2026-10-17T05:58:45.000Z",
+      "collectedAt": "2026-10-17T11:04:08.896Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "518a311fa9c5eb8c",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Stone, Earth and Fire: In a village near Nazareth, women keep the ancient secret of bread stamps alive",
+      "titleKo": "Stone, Earth and Fire: In a village near Nazareth, women keep the ancient secret of bread stamps alive",
+      "url": "https://www.haaretz.com/food/2026-10-17/ty-article-magazine/.highlight/in-a-village-near-nazareth-women-keep-the-ancient-secret-of-bread-stamps-alive/000001a1-4843-d25a-a7ff-7f5be9250000",
+      "publishedAt": "2026-10-17T05:52:56.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "69304d08f58da661",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Iranian military support said to fuel Houthi territorial gains, attacks on Saudi Arabia",
+      "titleKo": "Iranian military support said to fuel Houthi territorial gains, attacks on Saudi Arabia",
+      "url": "https://www.timesofisrael.com/liveblog_entry/iranian-military-support-said-to-fuel-houthi-territorial-gains-attacks-on-saudi-arabia",
+      "publishedAt": "2026-10-17T05:29:06.000Z",
+      "collectedAt": "2026-10-17T11:04:16.640Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8ec6706c72091f70",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Trump signs order waiving Graham Act sanctions on Russia",
+      "titleKo": "Trump signs order waiving Graham Act sanctions on Russia",
+      "url": "https://abcnews.com/Politics/trump-signs-order-waiving-graham-act-sanctions-russia/story?id=137341529",
+      "publishedAt": "2026-10-17T05:28:22.000Z",
+      "collectedAt": "2026-10-17T11:04:27.289Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "f126e598ef94476a",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "BOJ’s Ueda ‘can’t tolerate’ underlying inflation further over 2%",
+      "titleKo": "BOJ’s Ueda ‘can’t tolerate’ underlying inflation further over 2%",
+      "url": "https://www.japantimes.co.jp/business/2026/10/17/economy/boj-2-percent-inflation",
+      "publishedAt": "2026-10-17T05:25:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "cf880384ebe75fe8",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "SoftBank is said to weigh buying top U.S. security firm Allied",
+      "titleKo": "SoftBank is said to weigh buying top U.S. security firm Allied",
+      "url": "https://www.japantimes.co.jp/business/2026/10/17/softbank-eyes-top-us-security-firm",
+      "publishedAt": "2026-10-17T05:24:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "131e0441407633a6",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Live: Police crack down as protesters try to raise barricades across France",
+      "titleKo": "Live: Police crack down as protesters try to raise barricades across France",
+      "url": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
+      "publishedAt": "2026-10-17T05:17:22.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ff8b7ffbbf2942b9",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "North Korea says it tested new torpedo system with AI capabilities",
+      "titleKo": "North Korea says it tested new torpedo system with AI capabilities",
+      "url": "https://abcnews.com/International/wireStory/north-korea-tested-new-torpedo-system-ai-capabilities-137341062",
+      "publishedAt": "2026-10-17T05:11:47.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "bb9080a0622b61ed",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
+      "titleKo": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
+      "url": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T05:01:40.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "cef630e3c2dddea7",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Latest news bulletin | October 17th, 2026 – Morning",
+      "titleKo": "Latest news bulletin | October 17th, 2026 – Morning",
+      "url": "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-morning",
+      "publishedAt": "2026-10-17T05:00:32.000Z",
+      "collectedAt": "2026-10-17T11:04:07.068Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "d953dd9b237e5dd5",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "North Korea says tested AI-assisted torpedo system",
+      "titleKo": "North Korea says tested AI-assisted torpedo system",
+      "url": "https://www.japantimes.co.jp/news/2026/10/17/asia-pacific/north-korea-ai-torpedo",
+      "publishedAt": "2026-10-17T04:51:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "d17c6f8c8217c526",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Trump waives new Russia sanctions as Ukraine ties slump",
+      "titleKo": "Trump waives new Russia sanctions as Ukraine ties slump",
+      "url": "https://www.japantimes.co.jp/news/2026/10/17/world/politics/trump-waives-russia-sanctions",
+      "publishedAt": "2026-10-17T04:40:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "831c55483819484e",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Trump administration threatens to prosecute local California election workers",
+      "titleKo": "Trump administration threatens to prosecute local California election workers",
+      "url": "https://abcnews.com/Politics/trump-administration-threatens-prosecute-local-california-election-workers/story?id=137339732",
+      "publishedAt": "2026-10-17T04:09:11.000Z",
+      "collectedAt": "2026-10-17T11:04:27.289Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "a12769b52fbf8eb8",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Not cool: who hacked France’s supermarket fridges?",
+      "titleKo": "Not cool: who hacked France’s supermarket fridges?",
+      "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
+      "publishedAt": "2026-10-17T04:00:20.000Z",
+      "collectedAt": "2026-10-17T11:04:13.046Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "a00f338144375110",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "高市首相 自衛隊殉職隊員を追悼“犠牲無にせず遺志受け継ぐ”",
+      "titleKo": "高市首相 自衛隊殉職隊員を追悼“犠牲無にせず遺志受け継ぐ”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60875",
+      "publishedAt": "2026-10-17T03:54:37.000Z",
+      "collectedAt": "2026-10-17T11:04:31.613Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "da160ab72c413fd3",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "親頼れない若者 お金払えず治療できないケースも 支援団体調査",
+      "titleKo": "親頼れない若者 お金払えず治療できないケースも 支援団体調査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60838",
+      "publishedAt": "2026-10-17T03:43:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "860670b2a062e354",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Judge tosses indictment against actor Timothy Busfield",
+      "titleKo": "Judge tosses indictment against actor Timothy Busfield",
+      "url": "https://abcnews.com/GMA/Culture/judge-tosses-indictment-actor-timothy-busfield/story?id=137332942",
+      "publishedAt": "2026-10-17T03:34:03.000Z",
+      "collectedAt": "2026-10-17T11:04:27.289Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b52fc1505d7ed474",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Bend, Oregon, shooting: Suspect ID'd, had attended elementary school, police say",
+      "titleKo": "Bend, Oregon, shooting: Suspect ID'd, had attended elementary school, police say",
+      "url": "https://abcnews.com/US/multiple-people-injured-shooting-oregon-elementary-school-suspect/story?id=137303119",
+      "publishedAt": "2026-10-17T03:33:14.000Z",
+      "collectedAt": "2026-10-17T11:04:27.289Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "9996eff5d4e90ddf",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Russia is using an army of bots to push fake U.S. election videos",
+      "titleKo": "Russia is using an army of bots to push fake U.S. election videos",
+      "url": "https://www.japantimes.co.jp/news/2026/10/17/world/russia-disinformation-bots-us-midterms",
+      "publishedAt": "2026-10-17T03:20:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6a3be61fc744b580",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "titleKo": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T03:11:10.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "d31ae8ee4214bcaa",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Child sex abuse charges against actor Timothy Busfield dismissed by judge",
+      "titleKo": "Child sex abuse charges against actor Timothy Busfield dismissed by judge",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge",
+      "publishedAt": "2026-10-17T03:06:54.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ba162a1454877db5",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "IDF destroys dozens of monuments honoring terrorists during West Bank counterterror operations",
+      "titleKo": "IDF destroys dozens of monuments honoring terrorists during West Bank counterterror operations",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911945",
+      "publishedAt": "2026-10-17T02:59:39.000Z",
+      "collectedAt": "2026-10-17T11:04:20.111Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "fdc92a1dbee73843",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "スカイチケット運営会社 クレカ情報も最大6000人余流出",
+      "titleKo": "スカイチケット運営会社 クレカ情報も最大6000人余流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60862",
+      "publishedAt": "2026-10-17T02:58:00.000Z",
+      "collectedAt": "2026-10-17T11:04:32.137Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8780b766f024829b",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine",
+      "titleKo": "Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
+      "publishedAt": "2026-10-17T02:53:38.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "0bc29cb06efa608b",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "titleKo": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+      "publishedAt": "2026-10-17T02:52:59.000Z",
+      "collectedAt": "2026-10-17T11:04:13.045Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "bbb5b3369e277ea4",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Trump’s new press secretary out after less than a week",
+      "titleKo": "Trump’s new press secretary out after less than a week",
+      "url": "https://www.japantimes.co.jp/news/2026/10/17/world/politics/white-house-press-secretary-ousted",
+      "publishedAt": "2026-10-17T02:37:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "916f0537be9ab532",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "titleKo": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T02:33:09.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "11e2faad315fb630",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Oregon school shooter ID&#039;d, used shotgun bought by mother, sources say",
+      "titleKo": "Oregon school shooter ID&#039;d, used shotgun bought by mother, sources say",
+      "url": "https://www.cbsnews.com/news/oregon-school-shooter-identified-silver-rail-elementary",
+      "publishedAt": "2026-10-17T02:24:00.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8b8244bb66e8c605",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "AIリスク議論 サイバー攻撃 システムぜい弱性検出後数秒で悪用",
+      "titleKo": "AIリスク議論 サイバー攻撃 システムぜい弱性検出後数秒で悪用",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60854",
+      "publishedAt": "2026-10-17T02:22:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.387Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "f4b7cfc8f1851210",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "El Niño rains flood South America, sending residents fleeing and cattle swimming",
+      "titleKo": "El Niño rains flood South America, sending residents fleeing and cattle swimming",
+      "url": "https://abcnews.com/International/wireStory/el-nio-rains-flood-south-america-sending-residents-137330862",
+      "publishedAt": "2026-10-17T02:21:13.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "98d482b2796c7b69",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Lebanon opens investigation into Syrian militia leader's abduction and transfer to Syria",
+      "titleKo": "Lebanon opens investigation into Syrian militia leader's abduction and transfer to Syria",
+      "url": "https://abcnews.com/International/wireStory/lebanon-opens-investigation-syrian-militia-leaders-abduction-transfer-137331427",
+      "publishedAt": "2026-10-17T02:21:11.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3ccca3c5cc9d14ce",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Presidential adviser says Ukraine is in talks to lift speed limit on military satellite network",
+      "titleKo": "Presidential adviser says Ukraine is in talks to lift speed limit on military satellite network",
+      "url": "https://abcnews.com/International/wireStory/presidential-adviser-ukraine-talks-lift-speed-limit-military-137331428",
+      "publishedAt": "2026-10-17T02:21:10.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "f8ae3d2820a464f8",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "2 missiles strike the airport in Yemen's port city of Aden, officials say",
+      "titleKo": "2 missiles strike the airport in Yemen's port city of Aden, officials say",
+      "url": "https://abcnews.com/International/wireStory/2-missiles-strike-airport-yemens-port-city-aden-137331824",
+      "publishedAt": "2026-10-17T02:21:08.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "1a5d0befd21989fb",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Burly men in Gaza pull trucks and flip tires in competition of strength",
+      "titleKo": "Burly men in Gaza pull trucks and flip tires in competition of strength",
+      "url": "https://abcnews.com/International/wireStory/burly-men-gaza-pull-trucks-flip-tires-competition-137332044",
+      "publishedAt": "2026-10-17T02:21:06.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3d749343106d67a8",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Canada's Carney makes final appeal against Alberta separation ahead of referendum",
+      "titleKo": "Canada's Carney makes final appeal against Alberta separation ahead of referendum",
+      "url": "https://abcnews.com/International/wireStory/canadas-carney-makes-final-appeal-alberta-separation-ahead-137334494",
+      "publishedAt": "2026-10-17T02:20:52.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6ef39eadd0f1333c",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling",
+      "titleKo": "Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling",
+      "url": "https://abcnews.com/International/wireStory/meta-denies-accusation-anti-lula-political-bias-brazil-137336666",
+      "publishedAt": "2026-10-17T02:20:45.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "192b7dbbb26ead85",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Cyberattacks continue to menace Japan as more firms disclose data breaches",
+      "titleKo": "Cyberattacks continue to menace Japan as more firms disclose data breaches",
+      "url": "https://www.japantimes.co.jp/news/2026/10/17/japan/crime-legal/more-data-breaches-japan",
+      "publishedAt": "2026-10-17T02:04:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e45c31f1700186a5",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Japan’s leader says she loses hours to makeup and chores. Opinions abound.",
+      "titleKo": "Japan’s leader says she loses hours to makeup and chores. Opinions abound.",
+      "url": "https://www.japantimes.co.jp/news/2026/10/17/japan/politics/takaichi-makeup-chores",
+      "publishedAt": "2026-10-17T02:03:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "09796d8ba4e25ae9",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – as it happened",
+      "titleKo": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
+      "publishedAt": "2026-10-17T02:00:09.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5bcec640c9ae8b66",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+      "titleKo": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+      "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T01:55:45.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "73ab3921916f11db",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "U.S. holds more secret talks with Myanmar’s military-backed rulers in Tokyo, sources say",
+      "titleKo": "U.S. holds more secret talks with Myanmar’s military-backed rulers in Tokyo, sources say",
+      "url": "https://www.japantimes.co.jp/news/2026/10/17/asia-pacific/politics/us-myanmar-secret-talks",
+      "publishedAt": "2026-10-17T01:51:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e55940f5657121ac",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
+      "titleKo": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
+      "publishedAt": "2026-10-17T01:49:17.000Z",
+      "collectedAt": "2026-10-17T11:04:13.045Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b84f2f9fbd43f82e",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Russia may seek prisoner swap after detaining Japanese journalist",
+      "titleKo": "Russia may seek prisoner swap after detaining Japanese journalist",
+      "url": "https://www.japantimes.co.jp/news/2026/10/17/japan/crime-legal/russia-japan-prisoner-swap-speculation",
+      "publishedAt": "2026-10-17T01:41:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "cbe7d18de8f373b7",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Katie Zacharia out as White House press secretary after first week",
+      "titleKo": "Katie Zacharia out as White House press secretary after first week",
+      "url": "https://www.cbsnews.com/news/trump-katie-zacharia-white-house-press-secretary",
+      "publishedAt": "2026-10-17T01:40:54.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e8ce6acfb782d40d",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "埼玉県議会「ばか」発言 双方が陳謝する事態に 翌朝閉会",
+      "titleKo": "埼玉県議会「ばか」発言 双方が陳謝する事態に 翌朝閉会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60837",
+      "publishedAt": "2026-10-17T01:31:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.613Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ef5178fc2455313e",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Trump administration threatens California officials if noncitizens vote in midterms",
+      "titleKo": "Trump administration threatens California officials if noncitizens vote in midterms",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/trump-administration-california-election-officials-noncitizen-voters",
+      "publishedAt": "2026-10-17T01:24:56.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "4169b0731a666a59",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "The uncertain future of Canada's 30 rescued belugas",
+      "titleKo": "The uncertain future of Canada's 30 rescued belugas",
+      "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T01:18:08.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "1c85a03d79843a55",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "国連事務総長選び 6回目の投票も常任理事国の反対で難航",
+      "titleKo": "国連事務総長選び 6回目の投票も常任理事国の反対で難航",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60833",
+      "publishedAt": "2026-10-17T01:15:04.000Z",
+      "collectedAt": "2026-10-17T11:04:31.387Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ae1ed6d93356afd5",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Sacramento mom says \"hero\" son shot, killed Oregon school shooter",
+      "titleKo": "Sacramento mom says \"hero\" son shot, killed Oregon school shooter",
+      "url": "https://www.cbsnews.com/news/sacramento-mother-says-son-confronts-oregon-school-shooter",
+      "publishedAt": "2026-10-17T01:13:00.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "92255d0ce59b9e2a",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "WATCH: Authorities: Fatal alligator attack in Winter Garden, Florida",
+      "titleKo": "WATCH: Authorities: Fatal alligator attack in Winter Garden, Florida",
+      "url": "https://abcnews.com/video/137338151",
+      "publishedAt": "2026-10-17T01:04:39.000Z",
+      "collectedAt": "2026-10-17T11:04:27.289Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8a4452fc3cab5a78",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Why visitors are flocking to Philadelphia&#039;s popular pigeon tour",
+      "titleKo": "Why visitors are flocking to Philadelphia&#039;s popular pigeon tour",
+      "url": "https://www.cbsnews.com/news/tourists-flock-philadelphia-pigeon-tour",
+      "publishedAt": "2026-10-17T00:46:58.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "523eee7b8cd68ddd",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "titleKo": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T00:41:58.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "13fe9fa75b4d88b6",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+      "titleKo": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T00:38:34.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6015ef8150422519",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Did Netanyahu’s phone call with Sharaa change Israeli-Syrian relations? - analysis",
+      "titleKo": "Did Netanyahu’s phone call with Sharaa change Israeli-Syrian relations? - analysis",
+      "url": "https://www.jpost.com/middle-east/article-911941",
+      "publishedAt": "2026-10-17T00:37:45.000Z",
+      "collectedAt": "2026-10-17T11:04:20.111Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "96da07d71d07a5fe",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Sean \"Diddy\" Combs moved to prison in Pennsylvania",
+      "titleKo": "Sean \"Diddy\" Combs moved to prison in Pennsylvania",
+      "url": "https://www.cbsnews.com/news/sean-diddy-combs-prison-transfer-pennsylvania",
+      "publishedAt": "2026-10-17T00:35:37.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "52e90490837facfe",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Teacher and 5-year-old student killed in Oregon school shooting identified",
+      "titleKo": "Teacher and 5-year-old student killed in Oregon school shooting identified",
+      "url": "https://www.cbsnews.com/news/bend-oregon-elementary-school-shooting-victims",
+      "publishedAt": "2026-10-17T00:28:13.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3b06d696fba640c1",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Milwaukee Brewers reach World Series for first time in 44 years",
+      "titleKo": "Milwaukee Brewers reach World Series for first time in 44 years",
+      "url": "https://www.cbsnews.com/video/milwaukee-brewers-reach-world-series-for-first-time-in-44-years",
+      "publishedAt": "2026-10-17T00:24:34.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "57af59f19bf43120",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Feds probing suspicious letters to election officials, lawmakers",
+      "titleKo": "Feds probing suspicious letters to election officials, lawmakers",
+      "url": "https://www.cbsnews.com/news/suspicious-letters-election-officials-congressional-offices-fbi-us-postal-service",
+      "publishedAt": "2026-10-17T00:09:15.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "7eef916d0187c529",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "With Tesla Roadster debut, Elon Musk shows \"flying cars are real\"",
+      "titleKo": "With Tesla Roadster debut, Elon Musk shows \"flying cars are real\"",
+      "url": "https://www.cbsnews.com/news/tesla-roadster-debut-elon-musk-flying-cars-are-real",
+      "publishedAt": "2026-10-17T00:07:02.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "89144c77300422a2",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "How a Philadelphia couple turned pigeons into one of the city&#039;s most popular tours",
+      "titleKo": "How a Philadelphia couple turned pigeons into one of the city&#039;s most popular tours",
+      "url": "https://www.cbsnews.com/video/how-a-philadelphia-couple-turned-pigeons-into-one-of-the-citys-most-popular-tours",
+      "publishedAt": "2026-10-17T00:06:03.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e0da1a08104ed022",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Who would oversee a flying car? We asked the DOT.",
+      "titleKo": "Who would oversee a flying car? We asked the DOT.",
+      "url": "https://www.cbsnews.com/news/tesla-roadster-dot-flying-car",
+      "publishedAt": "2026-10-17T00:05:39.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "727e1920e6059410",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Photos show pope celebrating Mass at hospital after cancer surgery",
+      "titleKo": "Photos show pope celebrating Mass at hospital after cancer surgery",
+      "url": "https://www.cbsnews.com/news/photos-pope-leo-mass-hospital-recovery-surgery",
+      "publishedAt": "2026-10-17T00:04:02.000Z",
+      "collectedAt": "2026-10-17T11:04:26.000Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "24fcf65fddb05789",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Elon Musk unveils flying Tesla prototype to cheering Texas crowd",
+      "titleKo": "Elon Musk unveils flying Tesla prototype to cheering Texas crowd",
+      "url": "https://www.cbsnews.com/video/elon-musk-unveils-flying-tesla-prototype-to-cheering-texas-crowd",
+      "publishedAt": "2026-10-17T00:02:56.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "71267f4a9f91f00b",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "3 children, 1 teacher killed in Oregon school shooting, police say",
+      "titleKo": "3 children, 1 teacher killed in Oregon school shooting, police say",
+      "url": "https://www.cbsnews.com/live-updates/oregon-silver-rail-elementary-shooting-bend",
+      "publishedAt": "2026-10-17T00:02:39.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b97b5ed986e3a48b",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Tesla shows off new flying car concept",
+      "titleKo": "Tesla shows off new flying car concept",
+      "url": "https://www.cbsnews.com/video/tesla-shows-off-new-flying-car-concept",
+      "publishedAt": "2026-10-17T00:02:00.000Z",
+      "collectedAt": "2026-10-17T11:04:28.448Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "91be86750d2e99d9",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Inside Cuba&#039;s energy crisis as locals live in darkness, struggle to buy food",
+      "titleKo": "Inside Cuba&#039;s energy crisis as locals live in darkness, struggle to buy food",
+      "url": "https://www.cbsnews.com/video/inside-cubas-energy-crisis-as-locals-live-in-darkness-struggle-to-buy-food",
+      "publishedAt": "2026-10-17T00:00:38.000Z",
+      "collectedAt": "2026-10-17T11:04:26.000Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "d23105b3b458fa28",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "First images of Pope Leo after lung surgery give insight into his health, recovery",
+      "titleKo": "First images of Pope Leo after lung surgery give insight into his health, recovery",
+      "url": "https://www.cbsnews.com/video/first-images-of-pope-leo-after-lung-surgery-give-insight-into-his-health-recovery",
+      "publishedAt": "2026-10-16T23:58:00.000Z",
+      "collectedAt": "2026-10-17T11:04:26.000Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "632977e41da1c3a4",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "titleKo": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T23:54:35.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "988440b3c70b3e60",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Israel is constraining Lebanon&#x27;s government – and helping Hezbollah recover",
+      "titleKo": "Israel is constraining Lebanon&#x27;s government – and helping Hezbollah recover",
+      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-10-17/ty-article/.premium/israel-holds-back-lebanons-government-and-opens-the-door-to-hezbollah-recovery/000001a1-44ad-da52-a3f1-4eff4caa0000",
+      "publishedAt": "2026-10-16T23:47:56.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b80db1ff1d36505d",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "アメリカの財政赤字314兆円 過去3番目 利払い費増加などで",
+      "titleKo": "アメリカの財政赤字314兆円 過去3番目 利払い費増加などで",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60820",
+      "publishedAt": "2026-10-16T23:41:09.000Z",
+      "collectedAt": "2026-10-17T11:04:31.387Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "19fdd3ccef3e0eda",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Georgia's Senate and governor races test Trump's political influence",
+      "titleKo": "Georgia's Senate and governor races test Trump's political influence",
+      "url": "https://abcnews.com/Politics/georgias-senate-governor-races-test-trumps-political-influence/story?id=137319836",
+      "publishedAt": "2026-10-16T23:26:23.000Z",
+      "collectedAt": "2026-10-17T11:04:27.289Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e081f20388ba32aa",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "東急新横浜線 運転再開",
+      "titleKo": "東急新横浜線 運転再開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60824",
+      "publishedAt": "2026-10-16T23:25:55.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "389b7e4eff55b4aa",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Brush fires set homes ablaze in southern California as it braces for more hot weather",
+      "titleKo": "Brush fires set homes ablaze in southern California as it braces for more hot weather",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations",
+      "publishedAt": "2026-10-16T23:21:59.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "79e0bf0550ffeedd",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "titleKo": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T23:07:18.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6fb5c97b856c222c",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Shooter in fatal Bend, Oregon, school shooting was former student there",
+      "titleKo": "Shooter in fatal Bend, Oregon, school shooting was former student there",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest",
+      "publishedAt": "2026-10-16T23:03:42.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b5b1f6a24df7bca2",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track",
+      "titleKo": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/gone-to-the-dogs-racing-fans-mourn-closure-of-wenty-sydneys-historic-greyhound-track",
+      "publishedAt": "2026-10-16T23:00:15.000Z",
+      "collectedAt": "2026-10-17T11:04:13.045Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "53472b874e3b8133",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Mortgage repayments are now cheaper than rent in some Australian suburbs. Is yours among them?",
+      "titleKo": "Mortgage repayments are now cheaper than rent in some Australian suburbs. Is yours among them?",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/buying-a-home-cheaper-than-renting-in-some-australian-suburbs",
+      "publishedAt": "2026-10-16T23:00:15.000Z",
+      "collectedAt": "2026-10-17T11:04:13.045Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "4fc625e1cbcde731",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
+      "titleKo": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/trump-georgia-rally-jon-ossoff",
+      "publishedAt": "2026-10-16T22:59:37.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "940dcbd926cd60ce",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Family of US man who died on Six Flags ride question if death was preventable",
+      "titleKo": "Family of US man who died on Six Flags ride question if death was preventable",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/family-six-flags-georgia-rollercoaster-death",
+      "publishedAt": "2026-10-16T22:48:48.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "774a076771400f35",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "ホワイトハウス新報道官 就任からわずか5日で辞任と報道",
+      "titleKo": "ホワイトハウス新報道官 就任からわずか5日で辞任と報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60818",
+      "publishedAt": "2026-10-16T22:47:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.387Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6cf8c19d23f9b654",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
+      "titleKo": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60816",
+      "publishedAt": "2026-10-16T22:45:57.000Z",
+      "collectedAt": "2026-10-17T11:04:31.387Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b5fb432103d0acaf",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "China urges Israel to halt West Bank settlement expansion",
+      "titleKo": "China urges Israel to halt West Bank settlement expansion",
+      "url": "https://www.haaretz.com/world-news/asia-and-australia/2026-10-17/ty-article/china-urges-israel-to-halt-west-bank-settlement-expansion/000001a1-45cb-ddcc-a3fd-cfeb87690000",
+      "publishedAt": "2026-10-16T22:39:57.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6585869e2763db8b",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Oregon shooting victims: three boys and female teacher killed at elementary school",
+      "titleKo": "Oregon shooting victims: three boys and female teacher killed at elementary school",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/bend-oregon-shooting-victims",
+      "publishedAt": "2026-10-16T22:34:58.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "7f71d5bb844a7492",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "10/16: CBS Evening News",
+      "titleKo": "10/16: CBS Evening News",
+      "url": "https://www.cbsnews.com/video/101626-cbs-evening-news",
+      "publishedAt": "2026-10-16T22:30:00.000Z",
+      "collectedAt": "2026-10-17T11:04:26.000Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "f00f03debd981384",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "EU首脳会議 ウクライナへの必要な支援継続を確認",
+      "titleKo": "EU首脳会議 ウクライナへの必要な支援継続を確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60814",
+      "publishedAt": "2026-10-16T22:25:30.000Z",
+      "collectedAt": "2026-10-17T11:04:31.387Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ba47bc6fb321538a",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "ニデック 永守重信氏ら歴代経営トップに損害賠償請求を検討へ",
+      "titleKo": "ニデック 永守重信氏ら歴代経営トップに損害賠償請求を検討へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60817",
+      "publishedAt": "2026-10-16T22:22:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "fae05bc3dc4555dc",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "WATCH: Hero who stopped Oregon elementary school shooting suspect identified",
+      "titleKo": "WATCH: Hero who stopped Oregon elementary school shooting suspect identified",
+      "url": "https://abcnews.com/video/137332472",
+      "publishedAt": "2026-10-16T22:18:23.000Z",
+      "collectedAt": "2026-10-17T11:04:27.289Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "016c00de03eb2876",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "福岡県議会「百条委」議案可決 金銭授受問題や海外視察調査へ",
+      "titleKo": "福岡県議会「百条委」議案可決 金銭授受問題や海外視察調査へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60805",
+      "publishedAt": "2026-10-16T22:04:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "18c0c05c08203845",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "サウジアラビア首都への攻撃続く 国際会議が延期も",
+      "titleKo": "サウジアラビア首都への攻撃続く 国際会議が延期も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60808",
+      "publishedAt": "2026-10-16T21:39:33.000Z",
+      "collectedAt": "2026-10-17T11:04:31.387Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "14050881abe00c4f",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "LIVE: ABC News Live",
+      "titleKo": "LIVE: ABC News Live",
+      "url": "https://abcnews.com/video/41463246",
+      "publishedAt": "2026-10-16T21:39:27.000Z",
+      "collectedAt": "2026-10-17T11:04:27.289Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "c4e064a179957ba5",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "ウクライナ映画祭 都内で開会式 戦時の社会や暮らしなど描く",
+      "titleKo": "ウクライナ映画祭 都内で開会式 戦時の社会や暮らしなど描く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60812",
+      "publishedAt": "2026-10-16T21:35:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.387Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ea05dc827778b2db",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
+      "titleKo": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
+      "publishedAt": "2026-10-16T21:30:12.000Z",
+      "collectedAt": "2026-10-17T11:04:13.197Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "fc49ff1afce02fee",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "ロシアが拘束した北海道新聞記者への領事面会は実現せず",
+      "titleKo": "ロシアが拘束した北海道新聞記者への領事面会は実現せず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60807",
+      "publishedAt": "2026-10-16T21:21:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.387Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "08f56539e86fbc07",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "プーチン大統領が戦果強調 トランプ氏引き寄せるねらいか",
+      "titleKo": "プーチン大統領が戦果強調 トランプ氏引き寄せるねらいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60813",
+      "publishedAt": "2026-10-16T21:16:14.000Z",
+      "collectedAt": "2026-10-17T11:04:31.388Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8cbc9c8a715ae0b9",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "トルコの沖合で“世界最古の沈没船”の痕跡見つかる",
+      "titleKo": "トルコの沖合で“世界最古の沈没船”の痕跡見つかる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60798",
+      "publishedAt": "2026-10-16T21:10:19.000Z",
+      "collectedAt": "2026-10-17T11:04:31.388Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e992ada2e873a179",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Israeli researcher jailed in Russia after Navalny donation: &#x27;It&#x27;s a black hole&#x27;",
+      "titleKo": "Israeli researcher jailed in Russia after Navalny donation: &#x27;It&#x27;s a black hole&#x27;",
+      "url": "https://www.haaretz.com/israel-news/2026-10-17/ty-article/.premium/family-of-israeli-scholar-jailed-in-russia-remains-in-the-dark-over-her-fate/000001a1-45ae-d9d6-a9b3-effeb2c60000",
+      "publishedAt": "2026-10-16T21:08:44.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "1b726fe06724c07b",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "NY原油1バレル100ドルを再び突破 ホルムズ攻撃など懸念",
+      "titleKo": "NY原油1バレル100ドルを再び突破 ホルムズ攻撃など懸念",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60803",
+      "publishedAt": "2026-10-16T21:07:45.000Z",
+      "collectedAt": "2026-10-17T11:04:31.388Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5cdd1e875fb210fe",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "避難民医療支援のミャンマー人医師が講演 人権尊重訴え",
+      "titleKo": "避難民医療支援のミャンマー人医師が講演 人権尊重訴え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60781",
+      "publishedAt": "2026-10-16T21:05:19.000Z",
+      "collectedAt": "2026-10-17T11:04:31.388Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "db92def199104682",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "10/16: The Takeout with Major Garrett",
+      "titleKo": "10/16: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/101626-the-takeout-with-major-garrett",
+      "publishedAt": "2026-10-16T21:00:00.000Z",
+      "collectedAt": "2026-10-17T11:04:26.000Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ad46f720e1d773f5",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる",
+      "titleKo": "“餃子の王将”社長殺害事件で無罪 捜査の進展も問われる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60800",
+      "publishedAt": "2026-10-16T21:00:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "92d88e0a16d540b9",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "大学病院の医師 半数以上が「将来 大学病院以外で勤務したい」",
+      "titleKo": "大学病院の医師 半数以上が「将来 大学病院以外で勤務したい」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60765",
+      "publishedAt": "2026-10-16T20:56:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "48fb1d24a13cf3b6",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "テスラが“空飛ぶクルマ”を発表 マスク氏「AIではない」",
+      "titleKo": "テスラが“空飛ぶクルマ”を発表 マスク氏「AIではない」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60784",
+      "publishedAt": "2026-10-16T20:53:28.000Z",
+      "collectedAt": "2026-10-17T11:04:31.388Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "04bf81d620f6c310",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "東京大学の総長選考「藤垣氏は選考会議の最多の支持」",
+      "titleKo": "東京大学の総長選考「藤垣氏は選考会議の最多の支持」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60801",
+      "publishedAt": "2026-10-16T20:32:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "278e68ab74cb1bb1",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
+      "titleKo": "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60797",
+      "publishedAt": "2026-10-16T20:29:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "903e38b0e5565402",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
+      "titleKo": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
+      "url": "https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate",
+      "publishedAt": "2026-10-16T20:25:46.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "9e12c630eb3f8c1d",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "KENYA CONFIRMS THIRD EBOLA CASE",
+      "titleKo": "KENYA CONFIRMS THIRD EBOLA CASE",
+      "url": "https://www.france24.com/en/kenya-confirms-third-ebola-case",
+      "publishedAt": "2026-10-16T20:25:16.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "1b0cb28b810b0b1e",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "戦闘続くウクライナで7年ぶりに日本語弁論大会開催",
+      "titleKo": "戦闘続くウクライナで7年ぶりに日本語弁論大会開催",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60796",
+      "publishedAt": "2026-10-16T20:23:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.388Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "2ef158a0625b5d3a",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
+      "titleKo": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
+      "url": "https://www.france24.com/en/europe/20261016-finish-what-we-started-after-student-protests-france-braces-return-yellow-vests",
+      "publishedAt": "2026-10-16T20:10:18.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8f3c8c3a1a9532e9",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "消費税減税法案来週審議入り 与党 成立図る 野党 支援金明示を",
+      "titleKo": "消費税減税法案来週審議入り 与党 成立図る 野党 支援金明示を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60791",
+      "publishedAt": "2026-10-16T20:08:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.613Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "9cb63e8e70d4faad",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Ben-Gvir as defense minister is Israel&#x27;s nightmare scenario",
+      "titleKo": "Ben-Gvir as defense minister is Israel&#x27;s nightmare scenario",
+      "url": "https://www.haaretz.com/opinion/2026-10-16/ty-article-opinion/.premium/ben-gvir-as-defense-minister-is-israels-nightmare-scenario/000001a1-45b7-da52-a3f1-4fff8b730000",
+      "publishedAt": "2026-10-16T20:06:50.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "2c15ee7b0efca2d8",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "消費減税 農家などに売り上げ5％程度の給付金検討",
+      "titleKo": "消費減税 農家などに売り上げ5％程度の給付金検討",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60762",
+      "publishedAt": "2026-10-16T20:05:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.613Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6bd7eea1523df674",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "トヨタ すべての車種をSDVにする方針 2030年までに",
+      "titleKo": "トヨタ すべての車種をSDVにする方針 2030年までに",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60779",
+      "publishedAt": "2026-10-16T20:01:59.000Z",
+      "collectedAt": "2026-10-17T11:04:32.137Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "91503c27d1870227",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "日銀植田総裁“物価2％超の上昇容認せず” 今後も利上げ進める",
+      "titleKo": "日銀植田総裁“物価2％超の上昇容認せず” 今後も利上げ進める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60794",
+      "publishedAt": "2026-10-16T20:01:00.000Z",
+      "collectedAt": "2026-10-17T11:04:32.137Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "4efbe944843dac3d",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Clashes grip Tirana as Albanian PM blames 'foreign hands' for mounting unrest",
+      "titleKo": "Clashes grip Tirana as Albanian PM blames 'foreign hands' for mounting unrest",
+      "url": "https://www.france24.com/en/europe/20261016-clashes-grip-tirana-as-albanian-pm-blames-foreign-hands",
+      "publishedAt": "2026-10-16T19:59:23.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "faf66b89f005f576",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Progressive Democrats seek to scrap U.S. foreign terrorist organization list",
+      "titleKo": "Progressive Democrats seek to scrap U.S. foreign terrorist organization list",
+      "url": "https://www.haaretz.com/us-news/2026-10-16/ty-article/.premium/progressive-democrats-seek-to-scrap-u-s-foreign-terrorist-organization-list/000001a1-4604-d7d5-a9ab-46cf9f650000",
+      "publishedAt": "2026-10-16T19:47:37.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "99c237d91510fdc0",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+      "titleKo": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+      "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-16T19:42:00.000Z",
+      "collectedAt": "2026-10-17T11:04:06.826Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "58d3e711233fa22d",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+      "titleKo": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+      "publishedAt": "2026-10-16T19:37:53.000Z",
+      "collectedAt": "2026-10-17T11:04:13.045Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "7de30b8401a1043f",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Houthis strike Yemen&#x27;s presidential palace as Saudi Arabia reports attacks",
+      "titleKo": "Houthis strike Yemen&#x27;s presidential palace as Saudi Arabia reports attacks",
+      "url": "https://www.haaretz.com/middle-east-news/2026-10-16/ty-article/houthis-strike-yemens-presidential-palace-saudi-arabia-reports-attacks/000001a1-45ca-d7d5-a9ab-45cbca900000",
+      "publishedAt": "2026-10-16T19:37:28.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3cfce0a1d4a3a600",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Trump denies limiting Ukraine access to Starlink network",
+      "titleKo": "Trump denies limiting Ukraine access to Starlink network",
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T19:33:48.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b57d3b59c107ad71",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Katie Zacharia fired after five days as White House press secretary",
+      "titleKo": "Katie Zacharia fired after five days as White House press secretary",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/katie-zacharia-fired-press-secretary",
+      "publishedAt": "2026-10-16T19:29:43.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "cd53dc9a1fb79231",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Trump's new press secretary leaves after less than a week following controversy",
+      "titleKo": "Trump's new press secretary leaves after less than a week following controversy",
+      "url": "https://www.euronews.com/2026/10/16/trumps-new-press-secretary-leaves-after-less-than-a-week-following-controversy",
+      "publishedAt": "2026-10-16T19:29:33.000Z",
+      "collectedAt": "2026-10-17T11:04:07.068Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "dc8efaeea1a2f55e",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "How Elon Musk is bankrolling GOP’s hopes in Texas Senate race",
+      "titleKo": "How Elon Musk is bankrolling GOP’s hopes in Texas Senate race",
+      "url": "https://abcnews.com/Politics/elon-musk-bankrolling-gops-hopes-texas-senate-race/story?id=137320055",
+      "publishedAt": "2026-10-16T19:25:11.000Z",
+      "collectedAt": "2026-10-17T11:04:27.289Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "427c8f28218f6523",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Trump Vs Zelensky, From the Screen to the Streets, Gen Z protests from Paris to Dehli",
+      "titleKo": "Trump Vs Zelensky, From the Screen to the Streets, Gen Z protests from Paris to Dehli",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261016-trump-vs-zelensky-from-the-screen-to-the-streets-gen-z-protests-from-paris-to-dehli",
+      "publishedAt": "2026-10-16T19:21:33.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "fd5b8951893d3d6a",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "What we learned from heated US midterm Senate debates",
+      "titleKo": "What we learned from heated US midterm Senate debates",
+      "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T19:09:37.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8d5281d926f35c35",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Chile president makes first state visit to Bolivia in 71 years as region shifts right",
+      "titleKo": "Chile president makes first state visit to Bolivia in 71 years as region shifts right",
+      "url": "https://abcnews.com/International/wireStory/chiles-president-makes-state-visit-bolivia-71-years-137322303",
+      "publishedAt": "2026-10-16T18:38:34.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "4a8784f7063c5370",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Serbian populist leader Aleksandar Vucic returns to tragedy-hit Novi Sad for preelection rally",
+      "titleKo": "Serbian populist leader Aleksandar Vucic returns to tragedy-hit Novi Sad for preelection rally",
+      "url": "https://abcnews.com/International/wireStory/serbian-populist-leader-aleksandar-vucic-returns-tragedy-hit-137329440",
+      "publishedAt": "2026-10-16T18:36:56.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "691af2e236367a35",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Brazil says Amazon deforestation fell to the lowest level since 1988",
+      "titleKo": "Brazil says Amazon deforestation fell to the lowest level since 1988",
+      "url": "https://abcnews.com/International/wireStory/brazil-amazon-deforestation-fell-lowest-level-1988-137329441",
+      "publishedAt": "2026-10-16T18:36:39.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5b77a10e3c37b0ca",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Kenya confirms third Ebola case, a relative of the first patient who died",
+      "titleKo": "Kenya confirms third Ebola case, a relative of the first patient who died",
+      "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-died-137325289",
+      "publishedAt": "2026-10-16T18:34:28.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5ae49413d28d9544",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "'US tilting toward Russia: Europeans are standing more and more solidly with Zelensky'",
+      "titleKo": "'US tilting toward Russia: Europeans are standing more and more solidly with Zelensky'",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261016-us-tilting-toward-russia-europeans-are-standing-more-and-more-solidly-with-zelensky",
+      "publishedAt": "2026-10-16T18:33:13.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "fab5eb6df5a6ab10",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "WATCH: Nat Geo's 'Moment on the Earth' spotlights the wonders of elephants",
+      "titleKo": "WATCH: Nat Geo's 'Moment on the Earth' spotlights the wonders of elephants",
+      "url": "https://abcnews.com/video/137328854",
+      "publishedAt": "2026-10-16T18:26:37.000Z",
+      "collectedAt": "2026-10-17T11:04:27.289Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "767a5017e3309eb6",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+      "titleKo": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T18:11:29.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "7dd2075401b0cc38",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+      "titleKo": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+      "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
+      "publishedAt": "2026-10-16T18:09:34.000Z",
+      "collectedAt": "2026-10-17T11:04:13.045Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "454d0caae57fbd9a",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Trump: Israel aided in war against Houthis, Abraham Accords with Saudi Arabia back on the table",
+      "titleKo": "Trump: Israel aided in war against Houthis, Abraham Accords with Saudi Arabia back on the table",
+      "url": "https://www.haaretz.com/us-news/2026-10-16/ty-article/.premium/trump-israel-aided-in-war-against-houthis-abraham-accords-with-saudi-arabia/000001a1-45d9-d704-a7bd-fffdc3380000",
+      "publishedAt": "2026-10-16T18:00:00.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6dca569a230d78f8",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
+      "titleKo": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
+      "url": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-16T17:46:00.000Z",
+      "collectedAt": "2026-10-17T11:04:06.827Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6eb62b4e9ecafe02",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "IDF kills Hamas Nukhba commander in Gaza who infiltrated Re'im base on October 7",
+      "titleKo": "IDF kills Hamas Nukhba commander in Gaza who infiltrated Re'im base on October 7",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911929",
+      "publishedAt": "2026-10-16T17:17:35.000Z",
+      "collectedAt": "2026-10-17T11:04:20.111Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "97c6f0c14ebeb0a7",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Italy probes IDF chief, defense minister over Gaza flotilla activists&#x27; torture",
+      "titleKo": "Italy probes IDF chief, defense minister over Gaza flotilla activists&#x27; torture",
+      "url": "https://www.haaretz.com/world-news/europe/2026-10-16/ty-article/.premium/italy-probes-idf-chief-defense-minister-over-gaza-flotilla-activists-torture/000001a1-4580-d366-aded-4deabafe0000",
+      "publishedAt": "2026-10-16T17:16:45.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e20fd8cc3fcc0067",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "U.S. embargo, sanctions on Cuba impacting power, access to medicine",
+      "titleKo": "U.S. embargo, sanctions on Cuba impacting power, access to medicine",
+      "url": "https://www.cbsnews.com/news/us-embargo-sanctions-cuba-power-medicine",
+      "publishedAt": "2026-10-16T17:03:19.000Z",
+      "collectedAt": "2026-10-17T11:04:26.000Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "280cf2febd3fea62",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "The Guardian view on the banks: too big to fail cannot mean too big to tax | Editorial",
+      "titleKo": "The Guardian view on the banks: too big to fail cannot mean too big to tax | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/the-guardian-view-on-the-banks-too-big-to-fail-cannot-mean-too-big-to-tax",
+      "publishedAt": "2026-10-16T16:52:37.000Z",
+      "collectedAt": "2026-10-17T11:04:13.197Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b6eca8c2b38f5132",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+      "titleKo": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+      "url": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+      "publishedAt": "2026-10-16T16:47:35.000Z",
+      "collectedAt": "2026-10-17T11:04:13.045Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "40db71abaa98dd06",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+      "titleKo": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+      "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+      "publishedAt": "2026-10-16T16:34:58.000Z",
+      "collectedAt": "2026-10-17T11:04:12.469Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "c46ee792b36aedb5",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "American photojournalist recounts Israeli settler attack in the occupied West Bank – video",
+      "titleKo": "American photojournalist recounts Israeli settler attack in the occupied West Bank – video",
+      "url": "https://www.theguardian.com/world/video/2026/oct/16/american-photojournalist-israeli-settler-attack-west-bank",
+      "publishedAt": "2026-10-16T16:33:36.000Z",
+      "collectedAt": "2026-10-17T11:04:12.469Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e2738dfe7b416d93",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "日銀植田総裁 今後も利上げ進める 2％の物価安定がより重要",
+      "titleKo": "日銀植田総裁 今後も利上げ進める 2％の物価安定がより重要",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60782",
+      "publishedAt": "2026-10-16T16:30:39.000Z",
+      "collectedAt": "2026-10-17T11:04:32.137Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "2bf102d78de946ea",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Sally Rooney's books no longer sold in UK over support for banned pro-Palestinian group",
+      "titleKo": "Sally Rooney's books no longer sold in UK over support for banned pro-Palestinian group",
+      "url": "https://www.france24.com/en/video/20261016-sally-rooney-s-books-no-longer-sold-in-uk-over-support-for-banned-pro-palestinian-group",
+      "publishedAt": "2026-10-16T16:26:46.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "dfec353b5dac81b2",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Argentine demonstration over education cuts ends in clashes",
+      "titleKo": "Argentine demonstration over education cuts ends in clashes",
+      "url": "https://www.france24.com/en/video/20261016-argentine-demonstration-over-education-cuts-ends-in-clashes",
+      "publishedAt": "2026-10-16T16:25:39.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5dde68bfe58f2e09",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Trump urges new press secretary to ‘reconsider’ taking job: ‘Is this for you, Katie?’",
+      "titleKo": "Trump urges new press secretary to ‘reconsider’ taking job: ‘Is this for you, Katie?’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/white-house-press-secretary-katie-zacharia-fox-news",
+      "publishedAt": "2026-10-16T16:24:57.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "1f90a1e3ac6a9728",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Iran live updates: Trump admin prepares options, including 'mother of all bombs'",
+      "titleKo": "Iran live updates: Trump admin prepares options, including 'mother of all bombs'",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-us-attack-iran-ahead?id=137063637",
+      "publishedAt": "2026-10-16T16:22:39.000Z",
+      "collectedAt": "2026-10-17T11:04:27.289Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "d7937541401565db",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "TSMCが熊本で3ナノ半導体生産計画 国が認定",
+      "titleKo": "TSMCが熊本で3ナノ半導体生産計画 国が認定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60777",
+      "publishedAt": "2026-10-16T16:21:56.000Z",
+      "collectedAt": "2026-10-17T11:04:32.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "0d83b038ee3e9a55",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "titleKo": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T16:00:30.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "609c6d276b0ab613",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Latest news bulletin | October 16th, 2026 – Evening",
+      "titleKo": "Latest news bulletin | October 16th, 2026 – Evening",
+      "url": "https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-evening",
+      "publishedAt": "2026-10-16T16:00:26.000Z",
+      "collectedAt": "2026-10-17T11:04:07.068Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "db9aa727aa4225a8",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Embattled new White House Press Secretary Zacharia 'let go' from her role",
+      "titleKo": "Embattled new White House Press Secretary Zacharia 'let go' from her role",
+      "url": "https://www.france24.com/en/americas/20261016-embattled-new-white-house-press-secretary-zacharia-let-go-from-her-role",
+      "publishedAt": "2026-10-16T15:57:24.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "88185a4dfc2a200d",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
+      "titleKo": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
+      "url": "https://www.france24.com/en/video/20261016-cost-of-living-demonstrations-to-grip-pre-election-france",
+      "publishedAt": "2026-10-16T15:55:23.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "2c2f166f6e1a8043",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "India detains top 'cockroach' leader as hundreds protest in capital",
+      "titleKo": "India detains top 'cockroach' leader as hundreds protest in capital",
+      "url": "https://www.france24.com/en/video/20261016-india-detains-top-cockroach-leader-as-hundreds-protest-in-capital",
+      "publishedAt": "2026-10-16T15:53:58.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e72319ca28e9ce6f",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "'This is our homeland': Netanyahu responds to Obama accusations that Israel stole Palestinian land",
+      "titleKo": "'This is our homeland': Netanyahu responds to Obama accusations that Israel stole Palestinian land",
+      "url": "https://www.jpost.com/israel-news/article-911927",
+      "publishedAt": "2026-10-16T15:50:04.000Z",
+      "collectedAt": "2026-10-17T11:04:20.111Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "c934c61a4a774f37",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "titleKo": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T15:45:10.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "f56a26e662baba43",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "‘Tough to watch, impossible to ignore’: reviewers on NAZA documentary",
+      "titleKo": "‘Tough to watch, impossible to ignore’: reviewers on NAZA documentary",
+      "url": "https://www.theguardian.com/film/2026/oct/16/tough-to-watch-impossible-to-ignore-what-the-reviewers-say-about-naza-documentary",
+      "publishedAt": "2026-10-16T15:42:46.000Z",
+      "collectedAt": "2026-10-17T11:04:12.469Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "390457dd4b1ffc4b",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Zelensky hails \"real leaders\" in Europe, blasts Trump's diesel deal with Russia",
+      "titleKo": "Zelensky hails \"real leaders\" in Europe, blasts Trump's diesel deal with Russia",
+      "url": "https://www.france24.com/en/video/20261016-zelensky-hails-real-leaders-in-europe-blasts-trump-s-diesel-deal-with-russia",
+      "publishedAt": "2026-10-16T15:40:54.000Z",
+      "collectedAt": "2026-10-17T11:04:17.186Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "d1ec268b488bdf03",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "France braces for massive protests: Yellow Vests to join students on Saturday",
+      "titleKo": "France braces for massive protests: Yellow Vests to join students on Saturday",
+      "url": "https://www.france24.com/en/video/20261016-france-braces-for-massive-protests-yellow-vests-to-join-students-on-saturday",
+      "publishedAt": "2026-10-16T15:38:44.000Z",
+      "collectedAt": "2026-10-17T11:04:17.187Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "f5ec05fc32dbee26",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Italy prolongs Schengen suspension with Spain, talks loom",
+      "titleKo": "Italy prolongs Schengen suspension with Spain, talks loom",
+      "url": "https://www.france24.com/en/video/20261016-italy-prolongs-schengen-suspension-with-spain-talks-loom",
+      "publishedAt": "2026-10-16T15:37:05.000Z",
+      "collectedAt": "2026-10-17T11:04:17.187Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "0ba641c5280c5926",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "Target pensions or welfare, not banks, IMF tells John Healey",
+      "titleKo": "Target pensions or welfare, not banks, IMF tells John Healey",
+      "url": "https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey",
+      "publishedAt": "2026-10-16T15:33:29.000Z",
+      "collectedAt": "2026-10-17T11:04:13.197Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "eb16fa76a64c948d",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "europe"
+      ],
+      "titleOriginal": "Germany, France agree on deal to support Europe's struggling car industry",
+      "titleKo": "Germany, France agree on deal to support Europe's struggling car industry",
+      "url": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-ger-1023-rdf",
+      "publishedAt": "2026-10-16T15:31:00.000Z",
+      "collectedAt": "2026-10-17T11:04:08.004Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5d8e4d7776189a05",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Japan's first female PM says makeup and housework add hours to her working day",
+      "titleKo": "Japan's first female PM says makeup and housework add hours to her working day",
+      "url": "https://www.euronews.com/2026/10/16/japans-first-female-pm-says-makeup-and-housework-add-hours-to-her-working-day",
+      "publishedAt": "2026-10-16T15:30:28.000Z",
+      "collectedAt": "2026-10-17T11:04:07.068Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "eba5b1eb19d7b9f5",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Of course Trump is helping Russia in Ukraine – he’s a master of the art of betrayal | Jonathan Freedland",
+      "titleKo": "Of course Trump is helping Russia in Ukraine – he’s a master of the art of betrayal | Jonathan Freedland",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/donald-trump-russia-ukraine-protect-world",
+      "publishedAt": "2026-10-16T15:30:10.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5a38ff5f47ee9924",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "American journalist injured in West Bank clashes",
+      "titleKo": "American journalist injured in West Bank clashes",
+      "url": "https://www.cbsnews.com/news/us-journalist-heidi-levine-injured-west-bank-clashes-settlers",
+      "publishedAt": "2026-10-16T15:18:25.000Z",
+      "collectedAt": "2026-10-17T11:04:26.000Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5aad92278d827f74",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "Uzbekistan signs $4.7bn energy deals and outlines plans for two more nuclear power plants",
+      "titleKo": "Uzbekistan signs $4.7bn energy deals and outlines plans for two more nuclear power plants",
+      "url": "https://www.euronews.com/2026/10/16/uzbekistan-signs-47bn-energy-deals-and-outlines-plans-for-two-more-nuclear-power-plants",
+      "publishedAt": "2026-10-16T14:44:49.000Z",
+      "collectedAt": "2026-10-17T11:04:08.896Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8567ebf9197297f4",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "europe"
+      ],
+      "titleOriginal": "German colonialism on agenda in Bundestag debate on Namibia genocide",
+      "titleKo": "German colonialism on agenda in Bundestag debate on Namibia genocide",
+      "url": "https://www.dw.com/en/german-colonialism-on-agenda-in-bundestag-debate-on-namibia-genocide/a-79682388?maca=en-rss-en-ger-1023-rdf",
+      "publishedAt": "2026-10-16T14:42:00.000Z",
+      "collectedAt": "2026-10-17T11:04:08.004Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5ad9bee2996ee024",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Palestinians in Gaza dread another winter with nowhere safe to shelter",
+      "titleKo": "Palestinians in Gaza dread another winter with nowhere safe to shelter",
+      "url": "https://www.euronews.com/2026/10/16/palestinians-in-gaza-dread-another-winter-with-nowhere-safe-to-shelter",
+      "publishedAt": "2026-10-16T14:34:18.000Z",
+      "collectedAt": "2026-10-17T11:04:07.068Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "bf9aa030236c6563",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "titleKo": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T14:31:04.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "66c5c0b056cd01e0",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "財政制度等審議会 備蓄米に輸入米活用を提案",
+      "titleKo": "財政制度等審議会 備蓄米に輸入米活用を提案",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60772",
+      "publishedAt": "2026-10-16T14:27:21.000Z",
+      "collectedAt": "2026-10-17T11:04:31.613Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "327953a361c965cd",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Femicide in Iran: When 'honor' becomes a death sentence",
+      "titleKo": "Femicide in Iran: When 'honor' becomes a death sentence",
+      "url": "https://www.dw.com/en/femicide-in-iran-when-honor-becomes-a-death-sentence/a-79681977?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-16T14:27:00.000Z",
+      "collectedAt": "2026-10-17T11:04:06.827Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "540f39184610a6fb",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
+      "titleKo": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
+      "url": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-16T14:23:00.000Z",
+      "collectedAt": "2026-10-17T11:04:06.827Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "fb8a46a8118e95ab",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "総合スーパー展開のイズミ“情報の流出なしの報告受けた”",
+      "titleKo": "総合スーパー展開のイズミ“情報の流出なしの報告受けた”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60773",
+      "publishedAt": "2026-10-16T14:18:24.000Z",
+      "collectedAt": "2026-10-17T11:04:32.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "cb53c68b901cc5b3",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Belgium: Pumpkimania festival takes over Groot-Bijgaarden Castle",
+      "titleKo": "Belgium: Pumpkimania festival takes over Groot-Bijgaarden Castle",
+      "url": "https://www.euronews.com/video/2026/10/16/belgium-pumpkimania-festival-takes-over-groot-bijgaarden-castle",
+      "publishedAt": "2026-10-16T14:16:46.000Z",
+      "collectedAt": "2026-10-17T11:04:07.068Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "d73fc29436e1b35a",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "‘Unsafe’ conditions at Texas ICE facility put immigrants at risk of injury or death, lawsuit says",
+      "titleKo": "‘Unsafe’ conditions at Texas ICE facility put immigrants at risk of injury or death, lawsuit says",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/texas-ice-facility-immigrants-risks-lawsuit",
+      "publishedAt": "2026-10-16T14:13:53.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "bdc3d9c50934f340",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "Could Tesla’s flying car send sales and shares soaring?",
+      "titleKo": "Could Tesla’s flying car send sales and shares soaring?",
+      "url": "https://www.euronews.com/2026/10/16/could-teslas-flying-car-send-sales-and-shares-soaring",
+      "publishedAt": "2026-10-16T14:04:48.000Z",
+      "collectedAt": "2026-10-17T11:04:08.896Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "eaa4180e9e66c09d",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
+      "titleKo": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
+      "url": "https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-16T14:03:00.000Z",
+      "collectedAt": "2026-10-17T11:04:06.827Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "cf8501592f515f9b",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Vatican releases first photos of Pope Leo XIV after lung tumour surgery",
+      "titleKo": "Vatican releases first photos of Pope Leo XIV after lung tumour surgery",
+      "url": "https://www.euronews.com/2026/10/16/vatican-releases-first-photos-of-pope-leo-xiv-after-lung-tumour-surgery",
+      "publishedAt": "2026-10-16T13:54:24.000Z",
+      "collectedAt": "2026-10-17T11:04:07.068Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "cda5ec22271eacf8",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "A look at Cuba&#039;s humanitarian crisis",
+      "titleKo": "A look at Cuba&#039;s humanitarian crisis",
+      "url": "https://www.cbsnews.com/video/a-look-at-cubas-humanitarian-crisis",
+      "publishedAt": "2026-10-16T13:42:31.000Z",
+      "collectedAt": "2026-10-17T11:04:26.000Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "908cbcf50dfa5b88",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "政府 個人の機微データ防護へ法改正の方針 経済安保強化に向け",
+      "titleKo": "政府 個人の機微データ防護へ法改正の方針 経済安保強化に向け",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60764",
+      "publishedAt": "2026-10-16T13:25:49.000Z",
+      "collectedAt": "2026-10-17T11:04:31.613Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "cbb055b3dc36e4c9",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "They took on the NRA after Parkland. Now they&#x27;re taking on Israel",
+      "titleKo": "They took on the NRA after Parkland. Now they&#x27;re taking on Israel",
+      "url": "https://www.haaretz.com/us-news/2026-10-16/ty-article-magazine/.premium/they-took-on-the-nra-after-parkland-now-theyre-taking-on-israel/000001a1-415d-ddcc-a3fd-cb7db4f80000",
+      "publishedAt": "2026-10-16T13:24:27.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "9266ccfd82d43f6f",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "The EU wants an AI revolution. But on whose terms?",
+      "titleKo": "The EU wants an AI revolution. But on whose terms?",
+      "url": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-16T13:12:00.000Z",
+      "collectedAt": "2026-10-17T11:04:06.827Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e86ad8f86afe7916",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "農相交代後初の予算委員会 野党 高市首相の任命責任を追及",
+      "titleKo": "農相交代後初の予算委員会 野党 高市首相の任命責任を追及",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60691",
+      "publishedAt": "2026-10-16T12:54:32.000Z",
+      "collectedAt": "2026-10-17T11:04:31.613Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6ec323d5b2e3dabb",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Russian missiles spark huge factory fires in Ukraine’s Odesa and Zaporizhzhia",
+      "titleKo": "Russian missiles spark huge factory fires in Ukraine’s Odesa and Zaporizhzhia",
+      "url": "https://www.euronews.com/video/2026/10/16/russian-missiles-spark-huge-factory-fires-in-ukraines-odesa-and-zaporizhzhia",
+      "publishedAt": "2026-10-16T12:46:34.000Z",
+      "collectedAt": "2026-10-17T11:04:07.068Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "f831375cde491558",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "British food and drink exports to EU collapse by more than a third since Brexit",
+      "titleKo": "British food and drink exports to EU collapse by more than a third since Brexit",
+      "url": "https://www.theguardian.com/business/2026/oct/16/british-food-drink-exports-to-eu-collapse-brexit",
+      "publishedAt": "2026-10-16T12:34:37.000Z",
+      "collectedAt": "2026-10-17T11:04:13.197Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6f8f330484115f08",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Watch: Did Tesla really just unveil a flying car?",
+      "titleKo": "Watch: Did Tesla really just unveil a flying car?",
+      "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T12:32:31.000Z",
+      "collectedAt": "2026-10-17T11:04:21.143Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ef952e9894eca205",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "【第2報】当社グループ管理サーバーへの不正アクセスおよび情報漏えいの可能性に関するご報告",
+      "titleKo": "【第2報】当社グループ管理サーバーへの不正アクセスおよび情報漏えいの可能性に関するご報告",
+      "url": "https://www.japantimes.co.jp/press/2026/10/16/notice-ransomware-incident-second-report-jp",
+      "publishedAt": "2026-10-16T12:30:00.000Z",
+      "collectedAt": "2026-10-17T11:04:38.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "9470148ff87717a9",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "個人情報漏えい のべ1億6500万人分余に 利用者の対策は?",
+      "titleKo": "個人情報漏えい のべ1億6500万人分余に 利用者の対策は?",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60239",
+      "publishedAt": "2026-10-16T12:29:50.000Z",
+      "collectedAt": "2026-10-17T11:04:32.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ce14009e7965928f",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights",
+      "titleKo": "Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights",
+      "url": "https://www.euronews.com/2026/10/16/ukrainian-drones-force-closure-of-all-four-moscow-airports-overnight-cancelling-dozens-of-",
+      "publishedAt": "2026-10-16T12:25:28.000Z",
+      "collectedAt": "2026-10-17T11:04:07.068Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "dc29c3672a3aafe0",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Italy: Nationwide air traffic control issues disrupt flights at Rome airport",
+      "titleKo": "Italy: Nationwide air traffic control issues disrupt flights at Rome airport",
+      "url": "https://www.euronews.com/video/2026/10/16/italy-nationwide-air-traffic-control-issues-disrupt-flights-at-rome-airport",
+      "publishedAt": "2026-10-16T12:16:15.000Z",
+      "collectedAt": "2026-10-17T11:04:07.068Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "eba91fe9382cf6a0",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "米アンソロピック共同創業者を直撃「AIがAIを開発する」とは？",
+      "titleKo": "米アンソロピック共同創業者を直撃「AIがAIを開発する」とは？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60399",
+      "publishedAt": "2026-10-16T12:12:40.000Z",
+      "collectedAt": "2026-10-17T11:04:31.388Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "03958d91b748e6c9",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "NTTドコモ 緊急地震速報が利用者に配信されず",
+      "titleKo": "NTTドコモ 緊急地震速報が利用者に配信されず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60749",
+      "publishedAt": "2026-10-16T12:00:54.000Z",
+      "collectedAt": "2026-10-17T11:04:31.225Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3811d0384b56f04e",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "I’ve debated with Israel’s most fervent defenders – NAZA debunks their talking points | Mehdi Hasan",
+      "titleKo": "I’ve debated with Israel’s most fervent defenders – NAZA debunks their talking points | Mehdi Hasan",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film",
+      "publishedAt": "2026-10-16T12:00:10.000Z",
+      "collectedAt": "2026-10-17T11:04:12.469Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8a83a17b8b17bc7d",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Israeli resettlement activists set up outpost near Gaza border",
+      "titleKo": "Israeli resettlement activists set up outpost near Gaza border",
+      "url": "https://www.haaretz.com/gaza/2026-10-16/ty-article/.premium/israeli-resettlement-activists-set-up-outpost-near-gaza-border/000001a1-4363-d1eb-abe1-777f005a0000",
+      "publishedAt": "2026-10-16T11:56:38.000Z",
+      "collectedAt": "2026-10-17T11:04:23.978Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "83a64e8dd6184d29",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "Elon Musk reveals ‘world’s first flying car’ at Tesla event",
+      "titleKo": "Elon Musk reveals ‘world’s first flying car’ at Tesla event",
+      "url": "https://www.theguardian.com/technology/2026/oct/16/elon-musk-reveals-worlds-first-flying-car-spacex",
+      "publishedAt": "2026-10-16T11:53:04.000Z",
+      "collectedAt": "2026-10-17T11:04:13.197Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "1a11803453d5664f",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Istanbul's worst floods in 80 years leave 4 dead",
+      "titleKo": "Istanbul's worst floods in 80 years leave 4 dead",
+      "url": "https://abcnews.com/International/wireStory/istanbuls-worst-floods-80-years-leave-4-dead-137314073",
+      "publishedAt": "2026-10-16T11:33:35.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ae0961cc9fa7019f",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Russia strikes 9 Ukrainian regions as strain grows between Zelenskyy and Trump",
+      "titleKo": "Russia strikes 9 Ukrainian regions as strain grows between Zelenskyy and Trump",
+      "url": "https://abcnews.com/International/wireStory/russia-strikes-9-ukrainian-regions-strain-grows-zelenskyy-137313108",
+      "publishedAt": "2026-10-16T11:31:20.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e01fbb7769f4a354",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "WATCH: Elon Musk unveils Tesla's new Roadster, and it can fly",
+      "titleKo": "WATCH: Elon Musk unveils Tesla's new Roadster, and it can fly",
+      "url": "https://abcnews.com/video/137312932",
+      "publishedAt": "2026-10-16T11:30:38.000Z",
+      "collectedAt": "2026-10-17T11:04:27.289Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "a0382ca2e6c9caa6",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "India's young workers have a new colleague: AI",
+      "titleKo": "India's young workers have a new colleague: AI",
+      "url": "https://www.dw.com/en/india-s-young-workers-have-a-new-colleague-ai/a-79678342?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-16T11:22:00.000Z",
+      "collectedAt": "2026-10-17T11:04:06.827Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b5c1b81370a3c050",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "europe"
+      ],
+      "titleOriginal": "German lawmakers back monthly state pension contributions for children, with families able to add more.",
+      "titleKo": "German lawmakers back monthly state pension contributions for children, with families able to add more.",
+      "url": "https://www.dw.com/en/german-lawmakers-back-monthly-state-pension-contributions-for-children-with-families-able-to-add-more/live-79678671?maca=en-rss-en-ger-1023-rdf",
+      "publishedAt": "2026-10-16T11:11:00.000Z",
+      "collectedAt": "2026-10-17T11:04:08.004Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "91cb9c4bef23aa4c",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "India tightens security in New Delhi ahead of 'Cockroach' movement's rally",
+      "titleKo": "India tightens security in New Delhi ahead of 'Cockroach' movement's rally",
+      "url": "https://abcnews.com/International/wireStory/indian-authorities-tighten-security-new-delhi-ahead-cockroach-137313289",
+      "publishedAt": "2026-10-16T11:08:08.000Z",
+      "collectedAt": "2026-10-17T11:04:24.934Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "c2c45c21ee030789",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "aitech"
+      ],
+      "titleOriginal": "‘We should all be worried’: calls grow to limit London rollout of robotaxis",
+      "titleKo": "‘We should all be worried’: calls grow to limit London rollout of robotaxis",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/16/london-driverless-robotaxis-uber-drivers-wayve-tfl-licences",
+      "publishedAt": "2026-10-16T11:00:46.000Z",
+      "collectedAt": "2026-10-17T11:04:13.566Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "a1f5301380b01fc2",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "How prepared is Kenya for an Ebola outbreak?",
+      "titleKo": "How prepared is Kenya for an Ebola outbreak?",
+      "url": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-16T10:41:00.000Z",
+      "collectedAt": "2026-10-17T11:04:06.827Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "0562fe92e4d4c5aa",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Italy cuts air traffic in half amid data transmission issue",
+      "titleKo": "Italy cuts air traffic in half amid data transmission issue",
+      "url": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-16T10:37:00.000Z",
+      "collectedAt": "2026-10-17T11:04:06.827Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e964495d9563d263",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Digested week: No Nobel again for Trump but he looks a cert to retain Fifa peace prize | John Crace",
+      "titleKo": "Digested week: No Nobel again for Trump but he looks a cert to retain Fifa peace prize | John Crace",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/16/digested-week-no-nobel-trump-fifa-peace-prize",
+      "publishedAt": "2026-10-16T10:34:15.000Z",
+      "collectedAt": "2026-10-17T11:04:12.785Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "719d954b6616da08",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Strait of Hormuz still unsafe for ships, maritime group warns",
+      "titleKo": "Strait of Hormuz still unsafe for ships, maritime group warns",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump",
+      "publishedAt": "2026-10-16T10:31:00.000Z",
+      "collectedAt": "2026-10-17T11:04:26.000Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "390aa7e41e3ae403",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Putin seizes five more European firms, continuing Russia's hostile asset crackdown",
+      "titleKo": "Putin seizes five more European firms, continuing Russia's hostile asset crackdown",
+      "url": "https://www.euronews.com/2026/10/16/putin-seizes-five-more-european-firms-continuing-russias-hostile-asset-crackdown",
+      "publishedAt": "2026-10-16T10:18:40.000Z",
+      "collectedAt": "2026-10-17T11:04:07.068Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "629542407323eb0d",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "コメ価格は2837円に 9週連続で値下がり",
+      "titleKo": "コメ価格は2837円に 9週連続で値下がり",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60669",
+      "publishedAt": "2026-10-16T10:16:14.000Z",
+      "collectedAt": "2026-10-17T11:04:32.138Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "76b753676f83b869",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "公明幹事長 統一地方選“3党協力に区切り 地域で連携探る”",
+      "titleKo": "公明幹事長 統一地方選“3党協力に区切り 地域で連携探る”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60673",
+      "publishedAt": "2026-10-16T10:12:47.000Z",
+      "collectedAt": "2026-10-17T11:04:31.613Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "084a582d204f7622",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "自民 林前総務相 美容産業振興の議連設立 \"海外展開後押しを\"",
+      "titleKo": "自民 林前総務相 美容産業振興の議連設立 \"海外展開後押しを\"",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60670",
+      "publishedAt": "2026-10-16T10:10:00.000Z",
+      "collectedAt": "2026-10-17T11:04:31.613Z",
+      "translationStatus": "fallback"
+    }
+  ]
+}

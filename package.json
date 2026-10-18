@@ -1,0 +1,19 @@
+{
+  "name": "newsbrief-kr-feed",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "refresh": "node scripts/collect.mjs",
+    "dev": "node scripts/serve.mjs",
+    "lint": "node scripts/lint.mjs",
+    "test": "node --test",
+    "check": "npm run lint && npm test"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.5"
+  }
+}

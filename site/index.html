@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light">
+    <title>외신 헤드라인 | NewsBrief</title>
+    <link rel="stylesheet" href="assets/app.css">
+  </head>
+  <body data-embed="false">
+    <main class="feed-shell" aria-labelledby="page-title">
+      <header class="masthead">
+        <div>
+          <p class="eyebrow">NEWSBRIEF · RSS HEADLINES</p>
+          <h1 id="page-title">외신 헤드라인</h1>
+        </div>
+        <p class="update" id="update-status" aria-live="polite">데이터를 불러오는 중입니다.</p>
+      </header>
+      <section class="filters" aria-label="기사 필터">
+        <label class="filter-field"><span>지역</span><select id="region-filter" aria-label="지역 필터"></select></label>
+        <label class="filter-field"><span>매체</span><select id="source-filter" aria-label="매체 필터"></select></label>
+        <button type="button" class="reset-button" id="reset-filter">전체 보기</button>
+      </section>
+      <p class="notice" id="feed-notice" hidden></p>
+      <ol class="headline-list" id="headline-list" aria-live="polite"></ol>
+      <div class="load-more-wrap"><button type="button" class="load-more" id="load-more" hidden>더 보기</button></div>
+      <noscript><p class="notice">기사 목록을 보려면 JavaScript를 켜 주세요.</p></noscript>
+    </main>
+    <script type="module" src="assets/feed.js"></script>
+  </body>
+</html>
