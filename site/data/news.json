@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T23:05:22.027Z",
+  "generatedAt": "2026-10-20T01:48:40.851Z",
   "articleCount": 300,
   "collection": {
     "state": "ok",
@@ -8,14 +8,89 @@
     "totalSources": 14
   },
   "translation": {
-    "state": "retry_later",
-    "model": null,
-    "translated": 17,
-    "fallback": 283,
+    "state": "translation_error",
+    "model": "gemini-2.5-flash",
+    "translated": 30,
+    "fallback": 270,
     "pending": 0,
-    "message": "Gemini 한도 또는 일시 오류로 원문을 표시하며 다음 실행에서 재시도합니다."
+    "message": "Gemini 응답을 해석하지 못해 원문을 표시합니다."
   },
   "articles": [
+    {
+      "id": "2f3ecb387db7fa9c",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Cuba accuses US of letting terrorists to operate with impunity after speedboat raid",
+      "titleKo": "쿠바, \"미국이 쾌속정 습격 후 테러리스트들 처벌 없이 활동하게 놔둬\" 비난",
+      "url": "https://www.jpost.com/international/article-912225",
+      "publishedAt": "2026-10-20T04:03:12.000Z",
+      "collectedAt": "2026-10-20T01:48:16.850Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "fd38e7ff16b13efe",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Australia's Albanese says attacker's car made U-turn before critically injuring lawmaker",
+      "titleKo": "호주 앨버니지 총리 \"공격 차량, 의원 중상 입히기 전 유턴\"",
+      "url": "https://www.jpost.com/international/article-912223",
+      "publishedAt": "2026-10-20T03:48:58.000Z",
+      "collectedAt": "2026-10-20T01:48:16.849Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "cd45afb7acf24c98",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "14 dead, 7 injured in Colombia illegal gold mine collapse",
+      "titleKo": "콜롬비아 불법 금광 붕괴로 14명 사망, 7명 부상",
+      "url": "https://www.jpost.com/international/article-912222",
+      "publishedAt": "2026-10-20T03:21:26.000Z",
+      "collectedAt": "2026-10-20T01:48:16.850Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "54ca26b6e6d18508",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Israel Air Force welcomes Apache helicopter deal amid bureaucratic delays",
+      "titleKo": "Israel Air Force welcomes Apache helicopter deal amid bureaucratic delays",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-912221",
+      "publishedAt": "2026-10-20T02:50:52.000Z",
+      "collectedAt": "2026-10-20T01:48:16.850Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "35e5bbd1c5554ef0",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Trump open to idea of joint meeting with Xi, Putin next month",
+      "titleKo": "트럼프, 다음 달 시진핑·푸틴과 공동 회담 가능성 열어둬",
+      "url": "https://www.jpost.com/international/article-912219",
+      "publishedAt": "2026-10-20T02:05:13.000Z",
+      "collectedAt": "2026-10-20T01:48:16.849Z",
+      "translationStatus": "translated"
+    },
     {
       "id": "9246388714149cc8",
       "sourceId": "jpost",
@@ -25,11 +100,71 @@
         "middleeast"
       ],
       "titleOriginal": "Hegseth, Netanyahu meet in unannounced visit days before Israeli elections - report",
-      "titleKo": "Hegseth, Netanyahu meet in unannounced visit days before Israeli elections - report",
+      "titleKo": "헤그세스-네타냐후, 이스라엘 선거 며칠 전 비공개 회동 - 보도",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912217",
       "publishedAt": "2026-10-20T01:48:47.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
+      "collectedAt": "2026-10-20T01:48:16.849Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e6e1c8448f0e7bf0",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Hegseth confirms traveling to the Middle East, meeting US troops",
+      "titleKo": "Hegseth confirms traveling to the Middle East, meeting US troops",
+      "url": "https://www.timesofisrael.com/liveblog_entry/hegseth-confirms-traveling-to-the-middle-east-meeting-us-troops",
+      "publishedAt": "2026-10-20T01:47:10.000Z",
+      "collectedAt": "2026-10-20T01:48:16.735Z",
       "translationStatus": "fallback"
+    },
+    {
+      "id": "c1e9b51d0cd3294f",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "At Kansas rally, Trump focuses closing midterm message on anti-Muslim racism – US politics live",
+      "titleKo": "캔자스 유세서 트럼프, 중간선거 막바지 메시지 '반무슬림 인종차별'에 집중",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+      "publishedAt": "2026-10-20T01:39:54.000Z",
+      "collectedAt": "2026-10-20T01:48:16.616Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9db8b269be95bb8c",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "France vows to crack down after protests spiral out of control",
+      "titleKo": "프랑스, 통제 불능 시위 확산에 강경 진압 천명",
+      "url": "https://www.cbsnews.com/news/france-riots-protests-macron-vows-order-pm-urges-curfews",
+      "publishedAt": "2026-10-20T01:39:50.000Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "df06fbb11009507d",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Technologies seen at Osaka Expo increasingly being put into practice",
+      "titleKo": "오사카 엑스포 기술들, 점차 실용화되고 있다",
+      "url": "https://www.japantimes.co.jp/news/2026/10/20/japan/japan-osaka-expo-legacy-one-year",
+      "publishedAt": "2026-10-20T01:31:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
+      "translationStatus": "translated"
     },
     {
       "id": "b96fbb5588ecb010",
@@ -40,11 +175,86 @@
         "middleeast"
       ],
       "titleOriginal": "Argentina’s Jewish gauchos museum vows to stay open amid leadership feud",
-      "titleKo": "Argentina’s Jewish gauchos museum vows to stay open amid leadership feud",
+      "titleKo": "아르헨티나 유대인 가우초 박물관, 리더십 분쟁 속에서도 개관 유지 다짐",
       "url": "https://www.jpost.com/diaspora/article-912216",
       "publishedAt": "2026-10-20T01:30:44.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
-      "translationStatus": "fallback"
+      "collectedAt": "2026-10-20T01:48:16.850Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "76d774c05cf559ff",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Japan launches mission to explore Mars' moons and bring back samples",
+      "titleKo": "일본, 화성 위성 탐사 및 샘플 회수 임무 착수",
+      "url": "https://www.france24.com/en/technology/20261020-japan-launches-mission-to-explore-mars-moons-and-bring-back-samples",
+      "publishedAt": "2026-10-20T01:29:41.000Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "eeecc769312012c3",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+      "titleKo": "“최악의 악몽”: 호주 정치인 위협, 의원 차량 사고 전부터 증가",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T01:24:59.000Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "38a6b253e56bcf11",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Helen Haines live updates: independent MP in critical but stable condition as Asio boss warns about ‘violent rhetoric’",
+      "titleKo": "헬렌 헤인즈 실시간 업데이트: 독립 의원 위중하지만 안정, 아시오 국장 '폭력적 수사' 경고",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
+      "publishedAt": "2026-10-20T01:23:07.000Z",
+      "collectedAt": "2026-10-20T01:48:16.570Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "536f473e3b472d2e",
+      "sourceId": "haaretz",
+      "source": "Haaretz",
+      "sourceKo": "하아레츠",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Report: Hegseth meets Netanyahu in unannounced visit to Israel",
+      "titleKo": "보도: 헥세스, 이스라엘 비공개 방문 중 네타냐후 만나",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-20/ty-article-live/report-hegseth-meets-netanyahu-in-unannounced-visit-to-israel/000001a1-56da-d7ce-a9a1-d7ff8bfb0000",
+      "publishedAt": "2026-10-20T01:21:47.000Z",
+      "collectedAt": "2026-10-20T01:48:16.932Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "5322ebf6e39e3d47",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Palestinian activist Mahmoud Khalil asks U.S. Supreme Court to hear case",
+      "titleKo": "팔레스타인 활동가 마흐무드 칼릴, 미국 대법원에 사건 심리 요청",
+      "url": "https://www.japantimes.co.jp/news/2026/10/20/world/crime-legal/mahmoud-khalil-supreme-court",
+      "publishedAt": "2026-10-20T01:21:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
+      "translationStatus": "translated"
     },
     {
       "id": "1313cc53c554fd2d",
@@ -55,10 +265,310 @@
         "middleeast"
       ],
       "titleOriginal": "NGO behind pro-Israel West Bank tour condemns attempted lynching by Palestinians",
-      "titleKo": "NGO behind pro-Israel West Bank tour condemns attempted lynching by Palestinians",
+      "titleKo": "친이스라엘 서안지구 투어 주관 NGO, 팔레스타인인에 의한 린치 시도 규탄",
       "url": "https://www.jpost.com/israel-news/article-912215",
       "publishedAt": "2026-10-20T01:19:08.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
+      "collectedAt": "2026-10-20T01:48:16.850Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4cecfe0a2961f6d0",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "福岡 久留米 乗用車とトラックが衝突 男女2人意識不明",
+      "titleKo": "福岡 久留米 乗用車とトラックが衝突 男女2人意識不明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61950",
+      "publishedAt": "2026-10-20T01:18:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.422Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "906d943275ca9470",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "【動画】Pickup NEWS（10月20日）",
+      "titleKo": "【動画】Pickup NEWS（10月20日）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61704",
+      "publishedAt": "2026-10-20T01:13:32.000Z",
+      "collectedAt": "2026-10-20T01:48:17.422Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b809cebb4eff5173",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Brendan Nugent named as driver apprehended over alleged attack on Helen Haines",
+      "titleKo": "Brendan Nugent named as driver apprehended over alleged attack on Helen Haines",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb",
+      "publishedAt": "2026-10-20T01:12:45.000Z",
+      "collectedAt": "2026-10-20T01:48:16.570Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "a98dc377888e3352",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "US citizen injured during ICE detainment in California, officials say",
+      "titleKo": "US citizen injured during ICE detainment in California, officials say",
+      "url": "https://abcnews.com/US/us-citizen-injured-ice-detainment-long-beach-california/story?id=137397850",
+      "publishedAt": "2026-10-20T01:11:19.000Z",
+      "collectedAt": "2026-10-20T01:48:17.097Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3512981dc2032fb3",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Australian lawmaker in critical condition after vehicle attack",
+      "titleKo": "Australian lawmaker in critical condition after vehicle attack",
+      "url": "https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/politics/australian-lawmaker-vehicle-attack",
+      "publishedAt": "2026-10-20T01:05:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ee45752ba4c73764",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Analysts and US liberal groups raise eyebrows at Trump endorsement of Netanyahu",
+      "titleKo": "Analysts and US liberal groups raise eyebrows at Trump endorsement of Netanyahu",
+      "url": "https://www.timesofisrael.com/analysts-and-us-liberal-groups-raise-eyebrows-at-trump-endorsement-of-netanyahu",
+      "publishedAt": "2026-10-20T01:03:34.000Z",
+      "collectedAt": "2026-10-20T01:48:16.735Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ed2684a9c8477f54",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "拳銃を密造した疑いで兵庫県の51歳会社員を再逮捕 警視庁",
+      "titleKo": "拳銃を密造した疑いで兵庫県の51歳会社員を再逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61948",
+      "publishedAt": "2026-10-20T01:00:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.422Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3106ea2cc11807a5",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "NAB to cut 2,500 jobs in massive restructure",
+      "titleKo": "NAB to cut 2,500 jobs in massive restructure",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/nab-bank-restructure-2500-jobs-cuts",
+      "publishedAt": "2026-10-20T00:58:51.000Z",
+      "collectedAt": "2026-10-20T01:48:16.570Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "52a0d515b15d5a7d",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Houthi attack on Yemen government camp kills over 50, officials say",
+      "titleKo": "Houthi attack on Yemen government camp kills over 50, officials say",
+      "url": "https://www.japantimes.co.jp/news/2026/10/20/world/houthi-attack-yemen-camp",
+      "publishedAt": "2026-10-20T00:58:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "3d1aff76a72185e6",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Colombia judge orders protection of historical artifacts amid protests",
+      "titleKo": "Colombia judge orders protection of historical artifacts amid protests",
+      "url": "https://abcnews.com/International/wireStory/colombia-judge-orders-protection-historical-artifacts-after-museum-137399569",
+      "publishedAt": "2026-10-20T00:54:39.000Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b8346b33f78ec878",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Zelenskyy says Ukraine got no warning of overnight Russian missile strike",
+      "titleKo": "Zelenskyy says Ukraine got no warning of overnight Russian missile strike",
+      "url": "https://www.japantimes.co.jp/news/2026/10/20/world/ukraine-russian-missiles-no-warn",
+      "publishedAt": "2026-10-20T00:52:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5981fc1387c814d4",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Questions abound as Jalen Hurts likely to miss rest of season due to blood clots, sources say",
+      "titleKo": "Questions abound as Jalen Hurts likely to miss rest of season due to blood clots, sources say",
+      "url": "https://www.cbsnews.com/video/eagles-qb-jalen-hurts-likely-out-for-rest-of-season-due-to-blood-clots-in-lungs",
+      "publishedAt": "2026-10-20T00:41:49.000Z",
+      "collectedAt": "2026-10-20T01:48:17.133Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "10b4fcfbea147821",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "WATCH: David Muir reports on the beloved barn owls that have made Manhattan home",
+      "titleKo": "WATCH: David Muir reports on the beloved barn owls that have made Manhattan home",
+      "url": "https://abcnews.com/video/137396739",
+      "publishedAt": "2026-10-20T00:39:26.000Z",
+      "collectedAt": "2026-10-20T01:48:17.097Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "4a455d598dea6278",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Alberta votes on leaving Canada, separatist movement likely to outlast expected defeat",
+      "titleKo": "Alberta votes on leaving Canada, separatist movement likely to outlast expected defeat",
+      "url": "https://www.japantimes.co.jp/news/2026/10/20/world/politics/alberta-referendum-vote",
+      "publishedAt": "2026-10-20T00:38:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "adeea6059088729e",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "France imposes curfews in parts of Paris and other cities after riots",
+      "titleKo": "France imposes curfews in parts of Paris and other cities after riots",
+      "url": "https://www.japantimes.co.jp/news/2026/10/20/world/france-curfews-riots",
+      "publishedAt": "2026-10-20T00:37:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6d59f8af60a8660d",
+      "sourceId": "dw",
+      "source": "DW",
+      "sourceKo": "도이체벨레",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "At least four dead after flooding in eastern Spain",
+      "titleKo": "At least four dead after flooding in eastern Spain",
+      "url": "https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-20T00:32:00.000Z",
+      "collectedAt": "2026-10-20T01:48:16.597Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "9bcf1bc3f058f08b",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "LSU student describes alleged rape by football player, questions university&#039;s response",
+      "titleKo": "LSU student describes alleged rape by football player, questions university&#039;s response",
+      "url": "https://www.cbsnews.com/video/lsu-student-describes-alleged-rape-on-campus-questions-universitys-response",
+      "publishedAt": "2026-10-20T00:26:09.000Z",
+      "collectedAt": "2026-10-20T01:48:17.133Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "38cf1fffab4dfab1",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Shawn Oliver pleads not guilty to OUI after suspending lieutenant governor campaign",
+      "titleKo": "Shawn Oliver pleads not guilty to OUI after suspending lieutenant governor campaign",
+      "url": "https://abcnews.com/International/wireStory/shawn-oliver-pleads-guilty-oui-charge-after-crash-137392161",
+      "publishedAt": "2026-10-20T00:21:57.000Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ff74abbb653fe65e",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "2 arrested on highway just outside Jerusalem on suspicion of planning terror attack",
+      "titleKo": "2 arrested on highway just outside Jerusalem on suspicion of planning terror attack",
+      "url": "https://www.timesofisrael.com/2-arrested-on-highway-just-outside-jerusalem-on-suspicion-of-planning-terror-attack",
+      "publishedAt": "2026-10-20T00:17:49.000Z",
+      "collectedAt": "2026-10-20T01:48:16.735Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "23f0d429f6c7353d",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Starshield vs. Starlink: How Ukraine&#039;s military use both",
+      "titleKo": "Starshield vs. Starlink: How Ukraine&#039;s military use both",
+      "url": "https://www.cbsnews.com/video/starshield-vs-starlink-how-ukraines-military-use-both",
+      "publishedAt": "2026-10-20T00:15:38.000Z",
+      "collectedAt": "2026-10-20T01:48:17.133Z",
       "translationStatus": "fallback"
     },
     {
@@ -73,7 +583,97 @@
       "titleKo": "Qatargate suspect Urich continued boosting Doha’s PR image after Oct. 7 massacre - report",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912212",
       "publishedAt": "2026-10-20T00:10:56.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
+      "collectedAt": "2026-10-20T01:48:16.849Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "48c71deda3ee9643",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Former Amb. William Taylor says Trump needs to put pressure on Putin, not Ukraine",
+      "titleKo": "Former Amb. William Taylor says Trump needs to put pressure on Putin, not Ukraine",
+      "url": "https://www.cbsnews.com/video/former-amb-william-taylor-says-trump-needs-to-put-pressure-on-putin-not-ukraine",
+      "publishedAt": "2026-10-20T00:06:52.000Z",
+      "collectedAt": "2026-10-20T01:48:17.133Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "c7f74d7cab6c0649",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "トランプ大統領 習主席・プーチン大統領との3者会談実現に意欲",
+      "titleKo": "トランプ大統領 習主席・プーチン大統領との3者会談実現に意欲",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61930",
+      "publishedAt": "2026-10-20T00:04:14.000Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "64e062e7231a940b",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "‘25 Years of You’: Is there such a thing as a ‘good’ stalker?",
+      "titleKo": "‘25 Years of You’: Is there such a thing as a ‘good’ stalker?",
+      "url": "https://www.japantimes.co.jp/culture/2026/10/20/tv-streaming/25-years-of-you",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "edccfa397b03593c",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Zelenskyy says it&#039;s Putin who wants an endless war, not him",
+      "titleKo": "Zelenskyy says it&#039;s Putin who wants an endless war, not him",
+      "url": "https://www.cbsnews.com/news/russia-ukraine-war-zelenskyy-trump-putin-strikes-no-intelligence",
+      "publishedAt": "2026-10-19T23:58:58.000Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "36a8e3d97d1c4dd0",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Air Force member dies in rappelling incident at UT San Antonio football game",
+      "titleKo": "UT 샌안토니오 미식축구 경기 중 레펠 훈련 사고로 공군 대원 사망",
+      "url": "https://www.cbsnews.com/news/us-air-force-member-dies-injury-ut-san-antonio-football-stadium",
+      "publishedAt": "2026-10-19T23:56:53.000Z",
+      "collectedAt": "2026-10-20T01:48:17.133Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "878aa26497583674",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "U.S. airman identified after death in rappelling incident before college football game",
+      "titleKo": "U.S. airman identified after death in rappelling incident before college football game",
+      "url": "https://www.cbsnews.com/video/us-airman-identified-after-death-in-rappelling-incident-before-college-football-game",
+      "publishedAt": "2026-10-19T23:55:30.000Z",
+      "collectedAt": "2026-10-20T01:48:17.133Z",
       "translationStatus": "fallback"
     },
     {
@@ -88,22 +688,337 @@
       "titleKo": "Elbit secures $235 million contract with European country for PULS launcher and EXTRA-MR rockets",
       "url": "https://www.jpost.com/defense-and-tech/article-912211",
       "publishedAt": "2026-10-19T23:53:02.000Z",
-      "collectedAt": "2026-10-19T23:05:14.950Z",
+      "collectedAt": "2026-10-20T01:48:16.850Z",
       "translationStatus": "fallback"
     },
     {
-      "id": "308b18af5e6e445d",
-      "sourceId": "jpost",
-      "source": "The Jerusalem Post",
-      "sourceKo": "예루살렘포스트",
+      "id": "ced57bf952f22e47",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "NHL parents couldn&#039;t be prouder after son gets into fistfight during debut game",
+      "titleKo": "NHL parents couldn&#039;t be prouder after son gets into fistfight during debut game",
+      "url": "https://www.cbsnews.com/video/nhl-parents-prouder-son-gets-fistfight-debut-game",
+      "publishedAt": "2026-10-19T23:50:33.000Z",
+      "collectedAt": "2026-10-20T01:48:17.133Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "6360b0427ac6c5fe",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Jalen Hurts&#039; devastating diagnosis rattles sports world",
+      "titleKo": "Jalen Hurts&#039; devastating diagnosis rattles sports world",
+      "url": "https://www.cbsnews.com/video/jalen-hurts-devastating-diagnosis-rattles-sports-world",
+      "publishedAt": "2026-10-19T23:46:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.133Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "4dae06964fdafb05",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Pope Leo returns to work less than a week after lung cancer surgery",
+      "titleKo": "Pope Leo returns to work less than a week after lung cancer surgery",
+      "url": "https://www.cbsnews.com/video/pope-leo-returns-work-less-week-lung-cancer-surgery",
+      "publishedAt": "2026-10-19T23:43:54.000Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "57af59f19bf43120",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Feds probing suspicious letters to election officials, lawmakers",
+      "titleKo": "Feds probing suspicious letters to election officials, lawmakers",
+      "url": "https://www.cbsnews.com/news/suspicious-letters-election-officials-congressional-offices-fbi-us-postal-service",
+      "publishedAt": "2026-10-19T23:41:25.000Z",
+      "collectedAt": "2026-10-20T01:48:17.133Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "a9920556ecf605f6",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM",
+      "titleKo": "‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb",
+      "publishedAt": "2026-10-19T23:39:23.000Z",
+      "collectedAt": "2026-10-20T01:48:16.570Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8e464aa5678ac3fb",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
       "regions": [
         "middleeast"
       ],
-      "titleOriginal": "Two suspects planning terror attack arrested by YAMAM, Shin Bet",
-      "titleKo": "Two suspects planning terror attack arrested by YAMAM, Shin Bet",
-      "url": "https://www.jpost.com/israel-news/article-912209",
-      "publishedAt": "2026-10-19T23:20:05.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
+      "titleOriginal": "Hegseth said to make secret visit to Israel today, meet with Netanyahu",
+      "titleKo": "Hegseth said to make secret visit to Israel today, meet with Netanyahu",
+      "url": "https://www.timesofisrael.com/liveblog-october-20-2026",
+      "publishedAt": "2026-10-19T23:37:42.000Z",
+      "collectedAt": "2026-10-20T01:48:16.735Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "a074ed0e8ab9b00a",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Boy among 2 killed after truck drives onto Wichita soccer field",
+      "titleKo": "Boy among 2 killed after truck drives onto Wichita soccer field",
+      "url": "https://www.cbsnews.com/news/driver-soccer-field-wichita-kansas",
+      "publishedAt": "2026-10-19T23:35:51.000Z",
+      "collectedAt": "2026-10-20T01:48:17.133Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "7ab56beeae5b7a5b",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Gun used in Bend school shooting was birthday gift from shooter&#039;s mom",
+      "titleKo": "Gun used in Bend school shooting was birthday gift from shooter&#039;s mom",
+      "url": "https://www.cbsnews.com/news/bend-oregon-elementary-school-shooting-gun-birthday-gift-mom",
+      "publishedAt": "2026-10-19T23:35:02.000Z",
+      "collectedAt": "2026-10-20T01:48:17.134Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "83827234bdf42949",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Video shows police taking mother into custody after plowing through youth soccer game",
+      "titleKo": "Video shows police taking mother into custody after plowing through youth soccer game",
+      "url": "https://www.cbsnews.com/video/video-police-mother-custody-plowing-youth-soccer-game",
+      "publishedAt": "2026-10-19T23:34:31.000Z",
+      "collectedAt": "2026-10-20T01:48:17.134Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "2c8b5e8ffb37140b",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Vance declines to join Trump’s endorsement of Netanyahu",
+      "titleKo": "Vance declines to join Trump’s endorsement of Netanyahu",
+      "url": "https://www.timesofisrael.com/liveblog_entry/vance-declines-to-join-trumps-endorsement-of-netanyahu",
+      "publishedAt": "2026-10-19T23:33:08.000Z",
+      "collectedAt": "2026-10-20T01:48:16.735Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b79d2036f4b1be8d",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Texas Senate race close to tied between James Talarico, Ken Paxton, CBS News poll finds",
+      "titleKo": "Texas Senate race close to tied between James Talarico, Ken Paxton, CBS News poll finds",
+      "url": "https://www.cbsnews.com/video/texas-senate-race-close-tied-james-talarico-ken-paxton-cbs-news-poll",
+      "publishedAt": "2026-10-19T23:31:33.000Z",
+      "collectedAt": "2026-10-20T01:48:17.134Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "66b95bf8ec5386dc",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+      "titleKo": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T23:30:03.000Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "e3991d8097ca5932",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Plane engine shoots flames before takeoff from Lima, Peru",
+      "titleKo": "Plane engine shoots flames before takeoff from Lima, Peru",
+      "url": "https://www.cbsnews.com/video/plane-engine-shoots-flames-takeoff-lima-peru",
+      "publishedAt": "2026-10-19T23:29:27.000Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "292edadac2f6cc6a",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "France&#039;s leaders vow to restore order after violent weekend of riots",
+      "titleKo": "France&#039;s leaders vow to restore order after violent weekend of riots",
+      "url": "https://www.cbsnews.com/video/frances-leaders-vow-to-restore-order-after-violent-weekend-of-riots",
+      "publishedAt": "2026-10-19T23:28:11.000Z",
+      "collectedAt": "2026-10-20T01:48:17.134Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "45cd8212ecf8d928",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Powerful nor&#039;easter bears down from Florida to New Jersey",
+      "titleKo": "Powerful nor&#039;easter bears down from Florida to New Jersey",
+      "url": "https://www.cbsnews.com/video/powerful-noreaster-bears-down-florida-new-jersey",
+      "publishedAt": "2026-10-19T23:27:44.000Z",
+      "collectedAt": "2026-10-20T01:48:17.134Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "ead695dd4b05b79e",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Officer who shot 1-year-old while responding to shoplifting was justified, attorney general finds",
+      "titleKo": "Officer who shot 1-year-old while responding to shoplifting was justified, attorney general finds",
+      "url": "https://www.cbsnews.com/video/officer-who-shot-1-year-old-responding-shoplifting-justified-attorney-general-finds",
+      "publishedAt": "2026-10-19T23:26:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.134Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b1d582a6d3220110",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Car allegedly did U-turn and struck Helen Haines twice, in what some believe was targeted attack against MP",
+      "titleKo": "Car allegedly did U-turn and struck Helen Haines twice, in what some believe was targeted attack against MP",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+      "publishedAt": "2026-10-19T23:24:22.000Z",
+      "collectedAt": "2026-10-20T01:48:16.570Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "91b75ed8cbe33a3d",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "DOJ charges 28 with unlawful voting, other election-related offenses in California",
+      "titleKo": "DOJ charges 28 with unlawful voting, other election-related offenses in California",
+      "url": "https://abcnews.com/US/doj-charges-28-unlawful-voting-election-related-offenses/story?id=137384589",
+      "publishedAt": "2026-10-19T23:23:20.000Z",
+      "collectedAt": "2026-10-20T01:48:17.097Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "dd6bafe97009b7c9",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "What to know about Europe protests after violence, looting",
+      "titleKo": "What to know about Europe protests after violence, looting",
+      "url": "https://www.cbsnews.com/video/what-know-europe-protests-violence-looting",
+      "publishedAt": "2026-10-19T23:22:01.000Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "8589e151fcf211c6",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
+      "titleKo": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
+      "publishedAt": "2026-10-19T23:17:12.000Z",
+      "collectedAt": "2026-10-20T01:48:16.616Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "2b70e1aa954c3dfa",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Five ways El Niño is affecting the weather around the world",
+      "titleKo": "Five ways El Niño is affecting the weather around the world",
+      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T23:08:25.000Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "eb2aeb917bdcf913",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "From Harvard to Tokyo screens, one actor takes the leap",
+      "titleKo": "From Harvard to Tokyo screens, one actor takes the leap",
+      "url": "https://www.japantimes.co.jp/culture/2026/10/20/film/meisha-brooks",
+      "publishedAt": "2026-10-19T23:07:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
       "translationStatus": "fallback"
     },
     {
@@ -118,7 +1033,7 @@
       "titleKo": "France announces curfews in Paris and other cities as country grapples with unrest",
       "url": "https://www.timesofisrael.com/france-announces-curfews-in-paris-and-other-cities-as-country-grapples-with-unrest",
       "publishedAt": "2026-10-19T23:04:12.000Z",
-      "collectedAt": "2026-10-19T23:05:14.803Z",
+      "collectedAt": "2026-10-20T01:48:16.735Z",
       "translationStatus": "fallback"
     },
     {
@@ -133,7 +1048,7 @@
       "titleKo": "フランスでデモ乗じた暴動受け一部の都市で外出禁止令",
       "url": "https://news.web.nhk/newsweb/na/nd-20261020de61899",
       "publishedAt": "2026-10-19T22:56:21.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
@@ -147,8 +1062,8 @@
       "titleOriginal": "高市首相動静 2026年10月19日",
       "titleKo": "高市首相動静 2026年10月19日",
       "url": "https://news.web.nhk/newsweb/na/nd-20261020de61922",
-      "publishedAt": "2026-10-19T22:54:42.000Z",
-      "collectedAt": "2026-10-19T23:05:15.590Z",
+      "publishedAt": "2026-10-19T22:54:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.400Z",
       "translationStatus": "fallback"
     },
     {
@@ -163,7 +1078,7 @@
       "titleKo": "Tel Aviv's Zemack Gallery goes on an American Dream ‘Road Trip’ with artist Yigal Ozeri",
       "url": "https://www.jpost.com/israel-news/culture/article-912205",
       "publishedAt": "2026-10-19T22:53:07.000Z",
-      "collectedAt": "2026-10-19T23:05:14.950Z",
+      "collectedAt": "2026-10-20T01:48:16.850Z",
       "translationStatus": "fallback"
     },
     {
@@ -178,7 +1093,7 @@
       "titleKo": "US, Israel weigh renewed strikes on Iran as experts warn renewed conflict may be inevitable",
       "url": "https://www.jpost.com/middle-east/article-912207",
       "publishedAt": "2026-10-19T22:52:21.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
+      "collectedAt": "2026-10-20T01:48:16.849Z",
       "translationStatus": "fallback"
     },
     {
@@ -193,7 +1108,7 @@
       "titleKo": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社",
       "url": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
       "publishedAt": "2026-10-19T22:48:38.000Z",
-      "collectedAt": "2026-10-19T23:05:15.597Z",
+      "collectedAt": "2026-10-20T01:48:17.395Z",
       "translationStatus": "fallback"
     },
     {
@@ -208,22 +1123,7 @@
       "titleKo": "Trump borrows from far right to blame unrest in France on immigration",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
       "publishedAt": "2026-10-19T22:48:35.000Z",
-      "collectedAt": "2026-10-19T23:05:14.643Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "17bea78ec7022810",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
-      "titleKo": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-      "publishedAt": "2026-10-19T22:47:39.000Z",
-      "collectedAt": "2026-10-19T23:05:14.604Z",
+      "collectedAt": "2026-10-20T01:48:16.616Z",
       "translationStatus": "fallback"
     },
     {
@@ -238,22 +1138,7 @@
       "titleKo": "Hegseth said to make secret visit to Israel today, meet with Netanyahu",
       "url": "https://www.timesofisrael.com/liveblog_entry/hegseth-said-to-make-secret-visit-to-israel-today-meet-with-netanyahu",
       "publishedAt": "2026-10-19T22:46:36.000Z",
-      "collectedAt": "2026-10-19T23:05:14.803Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "4ed48581658bd1ba",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Early voting begins in Texas as Trump campaigns in Kansas amid tight Senate race",
-      "titleKo": "Early voting begins in Texas as Trump campaigns in Kansas amid tight Senate race",
-      "url": "https://www.cbsnews.com/video/early-voting-begins-in-texas-as-trump-campaigns-in-kansas-where-senate-race",
-      "publishedAt": "2026-10-19T22:46:07.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
+      "collectedAt": "2026-10-20T01:48:16.735Z",
       "translationStatus": "fallback"
     },
     {
@@ -268,22 +1153,7 @@
       "titleKo": "Netanyahu slept while Hamas abducted my husband. He must not win the election",
       "url": "https://www.haaretz.com/opinion/2026-10-20/ty-article-opinion/.premium/netanyahu-slept-while-hamas-abducted-my-husband-he-must-not-win-the-election/000001a1-5543-d7ce-a9a1-d7e7a5320000",
       "publishedAt": "2026-10-19T22:43:25.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "b592d4a07b971107",
-      "sourceId": "jpost",
-      "source": "The Jerusalem Post",
-      "sourceKo": "예루살렘포스트",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "Eretz Israel Museum to host 'MUZA on the Line' at Tel Aviv Light Rail's Allenby station",
-      "titleKo": "Eretz Israel Museum to host 'MUZA on the Line' at Tel Aviv Light Rail's Allenby station",
-      "url": "https://www.jpost.com/israel-news/culture/article-912206",
-      "publishedAt": "2026-10-19T22:39:10.000Z",
-      "collectedAt": "2026-10-19T23:05:14.950Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -298,7 +1168,7 @@
       "titleKo": "전문: 마이크 터너 하원의원, 2026년 10월 18일 '마거릿 브레넌의 페이스 더 네이션'",
       "url": "https://www.cbsnews.com/news/mike-turner-ohio-republican-face-the-nation-transcript-10-18-2026",
       "publishedAt": "2026-10-19T22:39:02.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
       "translationStatus": "translated"
     },
     {
@@ -313,7 +1183,7 @@
       "titleKo": "Trump open to trilateral summit with Putin and Xi but wants denuclearization focus",
       "url": "https://www.japantimes.co.jp/news/2026/10/20/world/trump-open-xi-putin-meet",
       "publishedAt": "2026-10-19T22:39:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
       "translationStatus": "fallback"
     },
     {
@@ -328,52 +1198,7 @@
       "titleKo": "US grants deportation reprieve to migrants from Ukraine and Sudan",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
       "publishedAt": "2026-10-19T22:34:43.000Z",
-      "collectedAt": "2026-10-19T23:05:14.604Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "1bed82a2f89d90a5",
-      "sourceId": "jpost",
-      "source": "The Jerusalem Post",
-      "sourceKo": "예루살렘포스트",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "Rebels, romance, and revolution: Hollywood classics return to the big screen in Tel Aviv",
-      "titleKo": "Rebels, romance, and revolution: Hollywood classics return to the big screen in Tel Aviv",
-      "url": "https://www.jpost.com/israel-news/culture/article-912204",
-      "publishedAt": "2026-10-19T22:32:54.000Z",
-      "collectedAt": "2026-10-19T23:05:14.950Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "9a4ec221267f6622",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Dana Bash on the elections that reverberate through time",
-      "titleKo": "Dana Bash on the elections that reverberate through time",
-      "url": "https://www.cbsnews.com/video/dana-bash-elections-reverberate-through-time",
-      "publishedAt": "2026-10-19T22:31:19.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "67b3ae64896079ff",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Sen. Raphael Warnock calls on Democrats to focus on the South",
-      "titleKo": "Sen. Raphael Warnock calls on Democrats to focus on the South",
-      "url": "https://www.cbsnews.com/video/raphael-warnock-calls-on-democrats-focus-on-south",
-      "publishedAt": "2026-10-19T22:30:16.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
+      "collectedAt": "2026-10-20T01:48:16.570Z",
       "translationStatus": "fallback"
     },
     {
@@ -388,22 +1213,7 @@
       "titleKo": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
       "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
       "publishedAt": "2026-10-19T22:30:08.000Z",
-      "collectedAt": "2026-10-19T23:05:14.729Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "56f12355922ddc0e",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
-      "titleKo": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-      "publishedAt": "2026-10-19T22:30:01.000Z",
-      "collectedAt": "2026-10-19T23:05:14.643Z",
+      "collectedAt": "2026-10-20T01:48:16.648Z",
       "translationStatus": "fallback"
     },
     {
@@ -418,7 +1228,7 @@
       "titleKo": "Saudi flagship investment conference delayed to 2027 amid Houthi attacks",
       "url": "https://www.timesofisrael.com/liveblog_entry/saudi-flagship-investment-conference-delayed-to-2027-amid-houthi-attacks",
       "publishedAt": "2026-10-19T22:28:22.000Z",
-      "collectedAt": "2026-10-19T23:05:14.803Z",
+      "collectedAt": "2026-10-20T01:48:16.735Z",
       "translationStatus": "fallback"
     },
     {
@@ -433,7 +1243,7 @@
       "titleKo": "The illusion of truth: Why the press is wrong about settlers - opinion",
       "url": "https://www.jpost.com/opinion/article-912201",
       "publishedAt": "2026-10-19T22:26:35.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
+      "collectedAt": "2026-10-20T01:48:16.849Z",
       "translationStatus": "fallback"
     },
     {
@@ -448,7 +1258,7 @@
       "titleKo": "Ronaldo suspended for 30 days and fined for walking out on Portugal camp",
       "url": "https://abcnews.com/Sports/wireStory/ronaldo-suspended-30-days-fined-walking-portugal-camp-137395782",
       "publishedAt": "2026-10-19T22:24:51.000Z",
-      "collectedAt": "2026-10-19T23:05:15.141Z",
+      "collectedAt": "2026-10-20T01:48:17.097Z",
       "translationStatus": "fallback"
     },
     {
@@ -463,22 +1273,7 @@
       "titleKo": "トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61784",
       "publishedAt": "2026-10-19T22:24:17.000Z",
-      "collectedAt": "2026-10-19T23:05:15.567Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "3bd3917d2710b29e",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "What to know about election security 15 days out from midterms",
-      "titleKo": "What to know about election security 15 days out from midterms",
-      "url": "https://www.cbsnews.com/video/what-to-know-election-security-15-days-midterms",
-      "publishedAt": "2026-10-19T22:22:45.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
@@ -493,37 +1288,7 @@
       "titleKo": "Playing hard to get: Why Avigdor Lieberman has nowhere left to go in Israeli politics",
       "url": "https://www.haaretz.com/opinion/2026-10-20/ty-article-opinion/.premium/playing-hard-to-get-why-lieberman-has-nowhere-left-to-go-in-israeli-politics/000001a1-5544-dcd4-afa3-55cf9df80000",
       "publishedAt": "2026-10-19T22:21:56.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "482d6568ff76f974",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Ex-OpenAI worker who allegedly planted bug contacted Saudi royal",
-      "titleKo": "Ex-OpenAI worker who allegedly planted bug contacted Saudi royal",
-      "url": "https://www.cbsnews.com/news/ex-openai-engineer-recording-device-saudi-royal-family",
-      "publishedAt": "2026-10-19T22:21:23.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "8d8bbc90e6138c55",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "France imposes curfews amid violent protests",
-      "titleKo": "France imposes curfews amid violent protests",
-      "url": "https://www.cbsnews.com/video/france-curfews-violent-protests",
-      "publishedAt": "2026-10-19T22:20:39.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -538,22 +1303,7 @@
       "titleKo": "英スコットランドで日本メーカーの海底ケーブル工場の開所式",
       "url": "https://news.web.nhk/newsweb/na/nd-20261020de61912",
       "publishedAt": "2026-10-19T22:19:13.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "cdbedead041497a0",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Expert says Trump is aligning with Russia against Ukraine: \"Evidence is getting pretty overwhelming\"",
-      "titleKo": "Expert says Trump is aligning with Russia against Ukraine: \"Evidence is getting pretty overwhelming\"",
-      "url": "https://www.cbsnews.com/video/expert-trump-aligning-russia-against-ukraine-evidence-pretty-overwhelming",
-      "publishedAt": "2026-10-19T22:17:59.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
@@ -568,7 +1318,7 @@
       "titleKo": "WATCH: Teen on how he turned 3D printing idea into a profitable business",
       "url": "https://abcnews.com/video/137392601",
       "publishedAt": "2026-10-19T22:13:05.000Z",
-      "collectedAt": "2026-10-19T23:05:15.141Z",
+      "collectedAt": "2026-10-20T01:48:17.097Z",
       "translationStatus": "fallback"
     },
     {
@@ -583,7 +1333,7 @@
       "titleKo": "NYPD probes possible hate crime after Manhattan bank vandalized with pro-Palestinian graffiti",
       "url": "https://www.haaretz.com/us-news/2026-10-20/ty-article/.premium/nypd-probes-possible-hate-crime-after-manhattan-bank-vandalized/000001a1-5616-dcd4-afa3-57dfb4510000",
       "publishedAt": "2026-10-19T22:12:04.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -598,7 +1348,22 @@
       "titleKo": "Anti-Israel activist Mahmoud Khalil asks US Supreme Court to hear immigration case",
       "url": "https://www.timesofisrael.com/anti-israel-activist-mahmoud-khalil-asks-us-supreme-court-to-hear-immigration-case",
       "publishedAt": "2026-10-19T22:09:58.000Z",
-      "collectedAt": "2026-10-19T23:05:14.803Z",
+      "collectedAt": "2026-10-20T01:48:16.735Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "d68f3042e26fb6db",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Trump approval falls to record low of 31% as midterms near, poll finds",
+      "titleKo": "Trump approval falls to record low of 31% as midterms near, poll finds",
+      "url": "https://www.japantimes.co.jp/news/2026/10/20/world/politics/trump-approval-rate-lowest",
+      "publishedAt": "2026-10-19T22:09:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
       "translationStatus": "fallback"
     },
     {
@@ -613,22 +1378,7 @@
       "titleKo": "Larry David kvetches about Democratic Socialists of America, takes aim at their antisemitism",
       "url": "https://www.jpost.com/diaspora/antisemitism/article-912202",
       "publishedAt": "2026-10-19T22:07:13.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "6dc26047d344a4b2",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "1 person killed in shooting near Columbus, Ohio, mosque",
-      "titleKo": "1 person killed in shooting near Columbus, Ohio, mosque",
-      "url": "https://www.cbsnews.com/news/shooting-mosque-columbus-ohio",
-      "publishedAt": "2026-10-19T22:03:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
+      "collectedAt": "2026-10-20T01:48:16.849Z",
       "translationStatus": "fallback"
     },
     {
@@ -643,22 +1393,7 @@
       "titleKo": "The Israeli opposition is still fighting itself instead of Netanyahu",
       "url": "https://www.haaretz.com/opinion/2026-10-20/ty-article-opinion/.premium/the-israeli-opposition-is-still-fighting-itself-instead-of-netanyahu/000001a1-5543-dcd4-afa3-55cb20fc0000",
       "publishedAt": "2026-10-19T21:57:13.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "20006e62c8610b14",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Nina Turner cautions Democrats against midterm overconfidence: \"You gotta fight all the way through\"",
-      "titleKo": "Nina Turner cautions Democrats against midterm overconfidence: \"You gotta fight all the way through\"",
-      "url": "https://www.cbsnews.com/video/nina-turner-democrats-midterm-overconfidence-gotta-fight-all-way-through",
-      "publishedAt": "2026-10-19T21:48:17.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -673,37 +1408,7 @@
       "titleKo": "Palestinian activist Mahmoud Khalil asks US Supreme Court to hear case seeking to avoid re-arrest",
       "url": "https://www.jpost.com/international/article-912200",
       "publishedAt": "2026-10-19T21:46:02.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "f59e67eb7b0a6b9c",
-      "sourceId": "abcnews",
-      "source": "ABC News",
-      "sourceKo": "ABC뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "5 North Carolina police officers resign amid probe into alleged racist texts",
-      "titleKo": "5 North Carolina police officers resign amid probe into alleged racist texts",
-      "url": "https://abcnews.com/US/5-north-carolina-police-officers-resign-amid-probe/story?id=137388332",
-      "publishedAt": "2026-10-19T21:45:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.141Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "5f2168cfbfc895b6",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Breaking down new poll showing tight Senate race in Texas",
-      "titleKo": "Breaking down new poll showing tight Senate race in Texas",
-      "url": "https://www.cbsnews.com/video/breaking-down-new-poll-tight-senate-race-texas",
-      "publishedAt": "2026-10-19T21:44:49.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
+      "collectedAt": "2026-10-20T01:48:16.849Z",
       "translationStatus": "fallback"
     },
     {
@@ -718,22 +1423,7 @@
       "titleKo": "Japan launches ambitious robotic mission to Martian moon Phobos",
       "url": "https://www.cbsnews.com/news/japan-launches-ambitious-robotic-mission-to-land-on-martian-moon-phobos-return-samples-to-earth",
       "publishedAt": "2026-10-19T21:42:23.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "6afc116f52977400",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Trump stumping for Sen. Roger Marshall in Kansas with midterms 15 days away",
-      "titleKo": "Trump stumping for Sen. Roger Marshall in Kansas with midterms 15 days away",
-      "url": "https://www.cbsnews.com/video/trump-stumping-roger-marshall-kansas-midterms-15-days-away",
-      "publishedAt": "2026-10-19T21:42:04.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
       "translationStatus": "fallback"
     },
     {
@@ -748,22 +1438,7 @@
       "titleKo": "Spain floods kill four as torrential rain inundates eastern regions",
       "url": "https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions",
       "publishedAt": "2026-10-19T21:39:49.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "8589e151fcf211c6",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
-      "titleKo": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
-      "publishedAt": "2026-10-19T21:39:09.000Z",
-      "collectedAt": "2026-10-19T23:05:14.643Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -778,37 +1453,7 @@
       "titleKo": "攻撃の応酬続きサウジアラビアの“砂漠のダボス会議”延期に",
       "url": "https://news.web.nhk/newsweb/na/nd-20261020de61908",
       "publishedAt": "2026-10-19T21:38:33.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "6125cef79cf467de",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Elon Musk pledges to give a SpaceX share to every U.S. child",
-      "titleKo": "Elon Musk pledges to give a SpaceX share to every U.S. child",
-      "url": "https://www.cbsnews.com/news/elon-musk-spacex-shares-us-children",
-      "publishedAt": "2026-10-19T21:38:07.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "906d943275ca9470",
-      "sourceId": "nhk",
-      "source": "NHK",
-      "sourceKo": "NHK",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "【動画】Pickup NEWS（10月20日）",
-      "titleKo": "【動画】Pickup NEWS（10月20日）",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61704",
-      "publishedAt": "2026-10-19T21:37:44.000Z",
-      "collectedAt": "2026-10-19T23:05:15.579Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
@@ -823,7 +1468,7 @@
       "titleKo": "The military&#x27;s blank check will cost Israelis dearly for decades",
       "url": "https://www.haaretz.com/opinion/editorial/2026-10-20/ty-article-opinion/the-militarys-blank-check-will-cost-israelis-for-decades/000001a1-55c5-d9ef-afab-fdc57e9a0000",
       "publishedAt": "2026-10-19T21:36:26.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -838,22 +1483,22 @@
       "titleKo": "米国務長官は和平目指す姿勢強調もウクライナは不満表明",
       "url": "https://news.web.nhk/newsweb/na/nd-20261020de61898",
       "publishedAt": "2026-10-19T21:34:56.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
-      "id": "a490949792b2f509",
+      "id": "d97479ceb947b9cb",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceKo": "가디언",
       "regions": [
         "us"
       ],
-      "titleOriginal": "California to recieve $6m settlement after 23andMe data breach",
-      "titleKo": "California to recieve $6m settlement after 23andMe data breach",
+      "titleOriginal": "California to receive $6m settlement after 23andMe data breach",
+      "titleKo": "California to receive $6m settlement after 23andMe data breach",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/california-settlement-23andme-data-breach",
       "publishedAt": "2026-10-19T21:34:30.000Z",
-      "collectedAt": "2026-10-19T23:05:14.643Z",
+      "collectedAt": "2026-10-20T01:48:16.616Z",
       "translationStatus": "fallback"
     },
     {
@@ -868,22 +1513,7 @@
       "titleKo": "Oregon man who killed school shooter reportedly took part in military drills with Iraq veterans",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/oregon-school-shooter",
       "publishedAt": "2026-10-19T21:33:50.000Z",
-      "collectedAt": "2026-10-19T23:05:14.643Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "57af59f19bf43120",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Feds probing suspicious letters to election officials, lawmakers",
-      "titleKo": "Feds probing suspicious letters to election officials, lawmakers",
-      "url": "https://www.cbsnews.com/news/suspicious-letters-election-officials-congressional-offices-fbi-us-postal-service",
-      "publishedAt": "2026-10-19T21:30:33.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
+      "collectedAt": "2026-10-20T01:48:16.616Z",
       "translationStatus": "fallback"
     },
     {
@@ -898,7 +1528,7 @@
       "titleKo": "Italian firm is fifth foreign company to withdraw from controversial cable car project to Jerusalem&#x27;s Western Wall",
       "url": "https://www.haaretz.com/israel-news/israel-politics/2026-10-20/ty-article/.premium/fifth-foreign-firm-withdraws-from-controversial-western-wall-cable-car-project/000001a1-5572-d72e-aba9-5f73704f0000",
       "publishedAt": "2026-10-19T21:29:05.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -913,7 +1543,7 @@
       "titleKo": "France tells online marketplaces to crack down on resale of looted items",
       "url": "https://www.france24.com/en/tv-shows/business/20261019-france-tells-online-marketplaces-to-crack-down-on-resale-of-looted-items",
       "publishedAt": "2026-10-19T21:24:55.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -928,7 +1558,7 @@
       "titleKo": "Don&#x27;t dismiss Gantz&#x27;s exit from the Israeli election: Even a handful of votes can change history",
       "url": "https://www.haaretz.com/israel-news/elections/2026-10-20/ty-article/.premium/dont-dismiss-gantzs-exit-even-a-handful-of-votes-can-change-history/000001a1-55b7-d50c-abad-dfff5baa0000",
       "publishedAt": "2026-10-19T21:24:03.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -943,7 +1573,7 @@
       "titleKo": "Israel to resume entry of private-sector goods to Gaza; 5 reportedly killed in Strip",
       "url": "https://www.timesofisrael.com/israel-to-resume-entry-of-private-sector-goods-to-gaza-as-5-reportedly-killed-in-strip",
       "publishedAt": "2026-10-19T21:23:54.000Z",
-      "collectedAt": "2026-10-19T23:05:14.803Z",
+      "collectedAt": "2026-10-20T01:48:16.735Z",
       "translationStatus": "fallback"
     },
     {
@@ -958,26 +1588,11 @@
       "titleKo": "Curfew imposed in parts of central Paris and other cities after rioting across France",
       "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T21:14:53.000Z",
-      "collectedAt": "2026-10-19T23:05:15.040Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
       "translationStatus": "fallback"
     },
     {
-      "id": "2123b34cbc327357",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Helen Haines was chatting with locals at a dog park on Monday morning. By the afternoon, she was fighting for her life",
-      "titleKo": "Helen Haines was chatting with locals at a dog park on Monday morning. By the afternoon, she was fighting for her life",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-was-chatting-with-locals-at-a-dog-park-on-monday-morning-by-the-afternoon-she-was-fighting-for-her-life-ntwnfb",
-      "publishedAt": "2026-10-19T21:14:37.000Z",
-      "collectedAt": "2026-10-19T23:05:14.604Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "3f3488a5c533a74d",
+      "id": "897ec2fa23bd85b3",
       "sourceId": "bbc",
       "source": "BBC News",
       "sourceKo": "BBC",
@@ -988,37 +1603,7 @@
       "titleKo": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
       "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T21:12:30.000Z",
-      "collectedAt": "2026-10-19T23:05:15.040Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "2afa4dfc02d3ccbe",
-      "sourceId": "abcnews",
-      "source": "ABC News",
-      "sourceKo": "ABC뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Eagles coach defends handling of Jalen Hurts' blood clots diagnosis: What to know",
-      "titleKo": "Eagles coach defends handling of Jalen Hurts' blood clots diagnosis: What to know",
-      "url": "https://abcnews.com/US/eagles-jalen-hurts-blood-clots-leg-lungs-timeline/story?id=137387183",
-      "publishedAt": "2026-10-19T21:08:21.000Z",
-      "collectedAt": "2026-10-19T23:05:15.141Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "d66d27a047753470",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Marco Rubio says there is \"no pause\" in intelligence sharing with Ukraine",
-      "titleKo": "Marco Rubio says there is \"no pause\" in intelligence sharing with Ukraine",
-      "url": "https://www.cbsnews.com/video/marco-rubio-responds-ukraines-claims-us-intelligence-sharing-pause",
-      "publishedAt": "2026-10-19T21:06:14.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
       "translationStatus": "fallback"
     },
     {
@@ -1033,37 +1618,22 @@
       "titleKo": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
       "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T21:02:33.000Z",
-      "collectedAt": "2026-10-19T23:05:15.040Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
       "translationStatus": "fallback"
     },
     {
-      "id": "ce8d5b2d84ac8651",
+      "id": "287258f8935867ab",
       "sourceId": "cbsnews",
       "source": "CBS News",
       "sourceKo": "CBS뉴스",
       "regions": [
-        "us"
-      ],
-      "titleOriginal": "Trump faces bipartisan backlash over waiving Russia sanctions",
-      "titleKo": "Trump faces bipartisan backlash over waiving Russia sanctions",
-      "url": "https://www.cbsnews.com/news/trump-faces-bipartisan-backlash-over-waiving-russia-sanctions",
-      "publishedAt": "2026-10-19T21:00:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "5c26c64a81591fa5",
-      "sourceId": "abcnews",
-      "source": "ABC News",
-      "sourceKo": "ABC뉴스",
-      "regions": [
         "world"
       ],
-      "titleOriginal": "Gold mine collapse kills at least 6 in southwest Colombia",
-      "titleKo": "Gold mine collapse kills at least 6 in southwest Colombia",
-      "url": "https://abcnews.com/International/wireStory/gold-mine-collapse-kills-6-southwest-colombia-137392944",
-      "publishedAt": "2026-10-19T20:58:30.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "titleOriginal": "10/19: The Takeout with Major Garrett",
+      "titleKo": "10/19: The Takeout with Major Garrett",
+      "url": "https://www.cbsnews.com/video/101926-the-takeout-with-major-garrett",
+      "publishedAt": "2026-10-19T21:00:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
       "translationStatus": "fallback"
     },
     {
@@ -1078,7 +1648,7 @@
       "titleKo": "Mississippi attorney general rules fatal police shooting of one-year-old as ‘justified’",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/mississippi-attorney-general-kohen-wiley-killing-justified",
       "publishedAt": "2026-10-19T20:58:26.000Z",
-      "collectedAt": "2026-10-19T23:05:14.643Z",
+      "collectedAt": "2026-10-20T01:48:16.616Z",
       "translationStatus": "fallback"
     },
     {
@@ -1093,7 +1663,7 @@
       "titleKo": "Le Pen 'trying to use these events to push her popularity', expert says",
       "url": "https://www.france24.com/en/tv-shows/a-propos/20261019-le-pen-trying-to-use-these-events-to-push-her-popularity-expert-says",
       "publishedAt": "2026-10-19T20:54:57.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -1108,7 +1678,7 @@
       "titleKo": "Eisenkot bloc leads Netanyahu in two new polls, but falls short of a majority without Arab parties",
       "url": "https://www.haaretz.com/israel-news/elections/2026-10-19/ty-article/eisenkot-bloc-leads-in-new-polls-still-short-of-majority-without-arab-parties/000001a1-55d8-d80a-a3b1-dfde2d240000",
       "publishedAt": "2026-10-19T20:54:44.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -1123,22 +1693,7 @@
       "titleKo": "Le Pen 'trying to use these events to push her popularity', expert says",
       "url": "https://www.france24.com/en/le-pen-trying-to-use-these-events-to-push-her-popularity-expert-says",
       "publishedAt": "2026-10-19T20:53:11.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "3e74382ce9a38f5d",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "As AI dominates conversations, here are key terms to know",
-      "titleKo": "As AI dominates conversations, here are key terms to know",
-      "url": "https://www.cbsnews.com/news/ai-artificial-intelligence-terms-definitions",
-      "publishedAt": "2026-10-19T20:53:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -1153,7 +1708,7 @@
       "titleKo": "‘Close up your borders’: Trump blames French unrest on immigration",
       "url": "https://www.timesofisrael.com/liveblog_entry/close-up-your-borders-trump-blames-french-unrest-on-immigration",
       "publishedAt": "2026-10-19T20:49:14.000Z",
-      "collectedAt": "2026-10-19T23:05:14.803Z",
+      "collectedAt": "2026-10-20T01:48:16.736Z",
       "translationStatus": "fallback"
     },
     {
@@ -1168,7 +1723,7 @@
       "titleKo": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T20:49:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.040Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
       "translationStatus": "fallback"
     },
     {
@@ -1183,7 +1738,7 @@
       "titleKo": "Mahmoud Khalil appeals to Supreme Court to sue Trump admin over free speech",
       "url": "https://abcnews.com/Politics/pro-palestinian-activist-mahmoud-khalil-appeals-supreme-court/story?id=137388888",
       "publishedAt": "2026-10-19T20:43:50.000Z",
-      "collectedAt": "2026-10-19T23:05:15.141Z",
+      "collectedAt": "2026-10-20T01:48:17.098Z",
       "translationStatus": "fallback"
     },
     {
@@ -1198,7 +1753,7 @@
       "titleKo": "Ultra-endurance athlete completes 900-mile swim along entire California coast",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/catherine-breed-ultra-endurance-swim-california-coast",
       "publishedAt": "2026-10-19T20:39:22.000Z",
-      "collectedAt": "2026-10-19T23:05:14.643Z",
+      "collectedAt": "2026-10-20T01:48:16.616Z",
       "translationStatus": "fallback"
     },
     {
@@ -1213,7 +1768,7 @@
       "titleKo": "米 中間選挙まで2週間 下院は民主党過半数うかがう 上院は接戦",
       "url": "https://news.web.nhk/newsweb/na/nd-20261020de61904",
       "publishedAt": "2026-10-19T20:37:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
@@ -1228,22 +1783,7 @@
       "titleKo": "Video: Priest dies after cross falls on him during Mass in Ecuador",
       "url": "https://www.euronews.com/2026/10/19/video-priest-dies-after-cross-falls-on-him-during-mass-in-ecuador",
       "publishedAt": "2026-10-19T20:34:13.000Z",
-      "collectedAt": "2026-10-19T23:05:14.229Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "3805d96088699b3a",
-      "sourceId": "abcnews",
-      "source": "ABC News",
-      "sourceKo": "ABC뉴스",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Shawn Oliver pleads not guilty to OUI charge after crash",
-      "titleKo": "Shawn Oliver pleads not guilty to OUI charge after crash",
-      "url": "https://abcnews.com/International/wireStory/shawn-oliver-pleads-guilty-oui-charge-after-crash-137392161",
-      "publishedAt": "2026-10-19T20:33:09.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -1258,7 +1798,7 @@
       "titleKo": "Netanyahu tells Trump \"we have a job to finish\" on Iran",
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz",
       "publishedAt": "2026-10-19T20:30:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
       "translationStatus": "fallback"
     },
     {
@@ -1273,7 +1813,7 @@
       "titleKo": "エチオピア情勢悪化 紅海の不安定化の懸念強まる",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61884",
       "publishedAt": "2026-10-19T20:28:41.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
@@ -1288,7 +1828,7 @@
       "titleKo": "Syria fears imminent Israeli-backed Druze offensive in Sweida, official tells 'Post'",
       "url": "https://www.jpost.com/middle-east/article-912181",
       "publishedAt": "2026-10-19T20:28:41.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
+      "collectedAt": "2026-10-20T01:48:16.849Z",
       "translationStatus": "fallback"
     },
     {
@@ -1303,7 +1843,7 @@
       "titleKo": "Daily Cartoon, October 20, 2026",
       "url": "https://www.haaretz.com/opinion/daily-cartoon/2026-10-19/ty-article-opinion/daily-cartoon-october-20-2026/000001a1-55cb-d9ef-afab-fdcff2280000",
       "publishedAt": "2026-10-19T20:23:29.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -1318,7 +1858,7 @@
       "titleKo": "Report: PM’s aide Urich admitted he kept working for Qatar after Oct. 7, saw no moral problem",
       "url": "https://www.timesofisrael.com/report-pms-key-aide-urich-admitted-to-receiving-hundreds-of-thousands-of-shekels-from-qatar",
       "publishedAt": "2026-10-19T20:22:45.000Z",
-      "collectedAt": "2026-10-19T23:05:14.803Z",
+      "collectedAt": "2026-10-20T01:48:16.736Z",
       "translationStatus": "fallback"
     },
     {
@@ -1333,7 +1873,7 @@
       "titleKo": "事業承継税制に効果疑問視の意見 税制改正の議論で焦点の1つに",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61846",
       "publishedAt": "2026-10-19T20:21:10.000Z",
-      "collectedAt": "2026-10-19T23:05:15.597Z",
+      "collectedAt": "2026-10-20T01:48:17.395Z",
       "translationStatus": "fallback"
     },
     {
@@ -1348,7 +1888,7 @@
       "titleKo": "Netanyahu or Eisenkot? Where their visions for Israel’s security align - and collide",
       "url": "https://www.jpost.com/israel-news/defense-news/article-912193",
       "publishedAt": "2026-10-19T20:20:23.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
+      "collectedAt": "2026-10-20T01:48:16.849Z",
       "translationStatus": "fallback"
     },
     {
@@ -1363,7 +1903,7 @@
       "titleKo": "ロシアによる記者拘束から1週間 政府「領事面会」強く求める",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61872",
       "publishedAt": "2026-10-19T20:18:11.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
@@ -1378,22 +1918,7 @@
       "titleKo": "Art crime detective Arthur Brand warns: 'All museums have been, and will be, victims of theft'",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20261019-art-crime-detective-arthur-brand-warns-all-museums-have-been-and-will-be-victims-of-theft",
       "publishedAt": "2026-10-19T20:16:10.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "42a36dfe3d84b378",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Should you trust personal AI agents? What security experts say.",
-      "titleKo": "Should you trust personal AI agents? What security experts say.",
-      "url": "https://www.cbsnews.com/news/personal-ai-agents-trust-security-risks",
-      "publishedAt": "2026-10-19T20:11:40.000Z",
-      "collectedAt": "2026-10-19T23:05:15.212Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -1408,7 +1933,7 @@
       "titleKo": "食料品の消費税減税関連法案 きょう衆議院で審議入り",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61870",
       "publishedAt": "2026-10-19T20:10:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.590Z",
+      "collectedAt": "2026-10-20T01:48:17.400Z",
       "translationStatus": "fallback"
     },
     {
@@ -1422,8 +1947,8 @@
       "titleOriginal": "盛岡 東北道で車6台絡む事故 1台が炎上 1人死亡",
       "titleKo": "盛岡 東北道で車6台絡む事故 1台が炎上 1人死亡",
       "url": "https://news.web.nhk/newsweb/na/nd-20261020de61903",
-      "publishedAt": "2026-10-19T20:09:05.000Z",
-      "collectedAt": "2026-10-19T23:05:15.579Z",
+      "publishedAt": "2026-10-19T20:09:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.422Z",
       "translationStatus": "fallback"
     },
     {
@@ -1438,7 +1963,7 @@
       "titleKo": "DoJ charges 28 green card holders in California over alleged voter fraud",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/california-illegal-voting-charges-doj",
       "publishedAt": "2026-10-19T20:07:50.000Z",
-      "collectedAt": "2026-10-19T23:05:14.643Z",
+      "collectedAt": "2026-10-20T01:48:16.616Z",
       "translationStatus": "fallback"
     },
     {
@@ -1453,7 +1978,7 @@
       "titleKo": "LIVE: ABC News Live",
       "url": "https://abcnews.com/video/41463246",
       "publishedAt": "2026-10-19T20:07:46.000Z",
-      "collectedAt": "2026-10-19T23:05:15.141Z",
+      "collectedAt": "2026-10-20T01:48:17.097Z",
       "translationStatus": "fallback"
     },
     {
@@ -1468,7 +1993,7 @@
       "titleKo": "France riots: AI photos falsely depict elderly couple ‘stripped and robbed’",
       "url": "https://www.france24.com/en/france-riots-ai-photos-falsely-depict-elderly-couple-stripped-and-robbed-1",
       "publishedAt": "2026-10-19T20:06:36.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -1483,7 +2008,7 @@
       "titleKo": "Mixed Jewish-Arab city removes Arab party signs from public property, while Likud signs remain",
       "url": "https://www.haaretz.com/israel-news/elections/2026-10-19/ty-article/.premium/mixed-jewish-arab-city-removes-arab-party-signs-while-likud-posters-remain/000001a1-55a0-dcd4-afa3-55eb863f0000",
       "publishedAt": "2026-10-19T20:04:32.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -1498,7 +2023,7 @@
       "titleKo": "世界最大級ファンド「ブラックストーン」 日本に約6兆円投資へ",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61876",
       "publishedAt": "2026-10-19T20:03:42.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
@@ -1513,7 +2038,7 @@
       "titleKo": "Deadly floods sweep through eastern Spain after torrential rain",
       "url": "https://www.euronews.com/video/2026/10/19/deadly-floods-sweep-through-eastern-spain-after-torrential-rain",
       "publishedAt": "2026-10-19T20:00:41.000Z",
-      "collectedAt": "2026-10-19T23:05:14.229Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -1528,7 +2053,7 @@
       "titleKo": "Japan launches probe in historic bid to collect sample from Mars moon",
       "url": "https://www.japantimes.co.jp/news/2026/10/20/japan/science-health/japan-mars-moon-probe-launch",
       "publishedAt": "2026-10-19T20:00:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
       "translationStatus": "fallback"
     },
     {
@@ -1543,7 +2068,7 @@
       "titleKo": "France faces reckoning with public order policing after violent protest weekend",
       "url": "https://www.france24.com/en/france/20261019-france-faces-reckoning-public-order-policing-after-violent-protest-weekend",
       "publishedAt": "2026-10-19T19:56:15.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -1558,7 +2083,7 @@
       "titleKo": "IDF chief announces new round of senior military appointments, pending approval",
       "url": "https://www.timesofisrael.com/liveblog_entry/idf-chief-announces-new-round-of-senior-military-appointments-pending-approval",
       "publishedAt": "2026-10-19T19:54:53.000Z",
-      "collectedAt": "2026-10-19T23:05:14.803Z",
+      "collectedAt": "2026-10-20T01:48:16.736Z",
       "translationStatus": "fallback"
     },
     {
@@ -1573,7 +2098,7 @@
       "titleKo": "Police issue overnight curfew in 2 areas of Paris to try to prevent further disorder",
       "url": "https://abcnews.com/International/wireStory/macron-rejects-interior-ministers-resignation-rioting-looting-expose-137372032",
       "publishedAt": "2026-10-19T19:54:52.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "fallback"
     },
     {
@@ -1588,7 +2113,7 @@
       "titleKo": "Cuba says US-based suspects confessed in armed incursion and face terrorism charges",
       "url": "https://abcnews.com/International/wireStory/cuba-us-based-suspects-confessed-armed-incursion-face-137391517",
       "publishedAt": "2026-10-19T19:54:23.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "fallback"
     },
     {
@@ -1603,7 +2128,7 @@
       "titleKo": "Rubio puts Trans-Caspian trade and critical minerals at centre of Central Asia talks",
       "url": "https://www.euronews.com/2026/10/19/rubio-puts-trans-caspian-trade-and-critical-minerals-at-centre-of-central-asia-talks",
       "publishedAt": "2026-10-19T19:53:16.000Z",
-      "collectedAt": "2026-10-19T23:05:14.229Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -1618,37 +2143,7 @@
       "titleKo": "Pope Leo XIV urges humanitarian cooperation between Ukraine and Russia during call with Zelenskyy",
       "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-urges-humanitarian-cooperation-ukraine-russia-137385600",
       "publishedAt": "2026-10-19T19:53:15.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "81af439948bfb229",
-      "sourceId": "abcnews",
-      "source": "ABC News",
-      "sourceKo": "ABC뉴스",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Millions of dollars are unaccounted for in Ebola response, officials say. This is what we know.",
-      "titleKo": "Millions of dollars are unaccounted for in Ebola response, officials say. This is what we know.",
-      "url": "https://abcnews.com/International/wireStory/millions-dollars-unaccounted-ebola-response-officials-137386655",
-      "publishedAt": "2026-10-19T19:52:42.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "2aad9e28fd317eeb",
-      "sourceId": "nhk",
-      "source": "NHK",
-      "sourceKo": "NHK",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "WFP“資金不足でガザの約50万人 食料支援が受けられなくなる”",
-      "titleKo": "WFP“資金不足でガザの約50万人 食料支援が受けられなくなる”",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61895",
-      "publishedAt": "2026-10-19T19:51:54.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "fallback"
     },
     {
@@ -1663,7 +2158,22 @@
       "titleKo": "Leader of Kenyan doomsday cult that left more than 400 dead convicted of 191 murders",
       "url": "https://abcnews.com/International/wireStory/leader-kenyan-doomsday-cult-left-400-followers-dead-137390840",
       "publishedAt": "2026-10-19T19:51:30.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "2aad9e28fd317eeb",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "WFP“資金不足でガザの約50万人 食料支援が受けられなくなる”",
+      "titleKo": "WFP“資金不足でガザの約50万人 食料支援が受けられなくなる”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61895",
+      "publishedAt": "2026-10-19T19:51:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
@@ -1678,22 +2188,7 @@
       "titleKo": "拘束続くスー・チー氏に英国王からの本や書簡と政権側が発表",
       "url": "https://news.web.nhk/newsweb/na/nd-20261020de61893",
       "publishedAt": "2026-10-19T19:50:31.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "3a09da29eea183a0",
-      "sourceId": "abcnews",
-      "source": "ABC News",
-      "sourceKo": "ABC뉴스",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Bulgarian authorities seek arrests Germans in arson of Starlink antennas",
-      "titleKo": "Bulgarian authorities seek arrests Germans in arson of Starlink antennas",
-      "url": "https://abcnews.com/International/wireStory/bulgarian-authorities-seek-arrests-germans-arson-starlink-antennas-137391013",
-      "publishedAt": "2026-10-19T19:50:17.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
@@ -1708,23 +2203,8 @@
       "titleKo": "Police, Shin Bet confirm two arrested on Route 1 highway on suspicion of planning terror attack",
       "url": "https://www.timesofisrael.com/liveblog_entry/police-shin-bet-confirm-two-arrested-on-route-1-highway-on-suspicion-of-planning-terror-attack",
       "publishedAt": "2026-10-19T19:49:32.000Z",
-      "collectedAt": "2026-10-19T23:05:14.803Z",
+      "collectedAt": "2026-10-20T01:48:16.736Z",
       "translationStatus": "fallback"
-    },
-    {
-      "id": "9db8b269be95bb8c",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "France vows to crack down after protests spiral out of control",
-      "titleKo": "프랑스, 통제 불능 시위 확산에 강경 진압 천명",
-      "url": "https://www.cbsnews.com/news/france-riots-protests-macron-vows-order-pm-urges-curfews",
-      "publishedAt": "2026-10-19T19:45:20.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
-      "translationStatus": "translated"
     },
     {
       "id": "536fc4f8451e8a26",
@@ -1738,7 +2218,7 @@
       "titleKo": "French far right seeks to capitalise on protests with calls for law and order",
       "url": "https://www.france24.com/en/french-far-right-seeks-to-capitalise-on-protests-with-calls-for-law-and-order",
       "publishedAt": "2026-10-19T19:41:46.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -1753,7 +2233,7 @@
       "titleKo": "France imposes localized curfew in parts of Paris, Lille and Nice, as country reels from riots",
       "url": "https://www.timesofisrael.com/liveblog_entry/france-imposes-localized-curfew-in-parts-of-paris-lille-and-nice-as-country-reels-from-riots",
       "publishedAt": "2026-10-19T19:38:58.000Z",
-      "collectedAt": "2026-10-19T23:05:14.803Z",
+      "collectedAt": "2026-10-20T01:48:16.736Z",
       "translationStatus": "fallback"
     },
     {
@@ -1768,7 +2248,7 @@
       "titleKo": "Report: Netanyahu adviser admitted in interrogation he worked for Qatar after October 7",
       "url": "https://www.haaretz.com/israel-news/israel-politics/2026-10-19/ty-article/report-netanyahu-adviser-admitted-to-working-for-qatar-after-october-7/000001a1-5583-dd0d-abfb-5deb27e20000",
       "publishedAt": "2026-10-19T19:30:22.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -1783,7 +2263,7 @@
       "titleKo": "Russia-China-US summit would prolong the war, Kyiv says",
       "url": "https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says",
       "publishedAt": "2026-10-19T19:21:00.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -1798,7 +2278,7 @@
       "titleKo": "Iran live updates: Russia says it won't stop cooperating with Iran",
       "url": "https://abcnews.com/International/live-updates/iran-live-updates?id=137370653",
       "publishedAt": "2026-10-19T19:18:06.000Z",
-      "collectedAt": "2026-10-19T23:05:15.141Z",
+      "collectedAt": "2026-10-20T01:48:17.098Z",
       "translationStatus": "fallback"
     },
     {
@@ -1813,7 +2293,7 @@
       "titleKo": "Suspects said detained for security offenses on Route 1 highway near Jerusalem",
       "url": "https://www.timesofisrael.com/liveblog_entry/suspects-said-detained-for-security-offenses-on-route-1-highway-near-jerusalem",
       "publishedAt": "2026-10-19T19:14:07.000Z",
-      "collectedAt": "2026-10-19T23:05:14.804Z",
+      "collectedAt": "2026-10-20T01:48:16.736Z",
       "translationStatus": "fallback"
     },
     {
@@ -1828,7 +2308,7 @@
       "titleKo": "Israel sees a 59 percent jump in IT unemployment, bucking the overall trend",
       "url": "https://www.haaretz.com/israel-news/business/economy-finance/2026-10-19/ty-article/.premium/israel-sees-a-59-percent-jump-in-it-unemployment-bucking-the-overall-trend/000001a1-54db-d80a-a3b1-dedfd2c60000",
       "publishedAt": "2026-10-19T19:09:54.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -1843,7 +2323,7 @@
       "titleKo": "Paris weekend riots raise concerns for tourism industry",
       "url": "https://www.france24.com/en/paris-weekend-riots-raise-concerns-for-tourism-industry",
       "publishedAt": "2026-10-19T19:06:20.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -1858,7 +2338,7 @@
       "titleKo": "Holocaust-looted Torah fragment sells at Norwegian auction, sparking controversy",
       "url": "https://www.haaretz.com/news/israel-gaza-conflict-2012/news/2026-10-19/ty-article/.premium/holocaust-looted-torah-fragment-sells-at-norwegian-auction-sparking-controversy/000001a1-5500-ddea-abb5-d5d29e830000",
       "publishedAt": "2026-10-19T19:04:51.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -1873,7 +2353,7 @@
       "titleKo": "‘Wanted dead or alive’: Golan campaign billboard vandalized, amid fears of political violence",
       "url": "https://www.timesofisrael.com/wanted-dead-or-alive-golan-campaign-billboard-vandalized-amid-fears-of-political-violence",
       "publishedAt": "2026-10-19T19:02:15.000Z",
-      "collectedAt": "2026-10-19T23:05:14.804Z",
+      "collectedAt": "2026-10-20T01:48:16.736Z",
       "translationStatus": "fallback"
     },
     {
@@ -1888,7 +2368,7 @@
       "titleKo": "Court blocks state funding for organization seeking to Judaize East Jerusalem&#x27;s Silwan",
       "url": "https://www.haaretz.com/israel-news/2026-10-19/ty-article/.premium/court-blocks-state-funding-for-organization-seeking-to-judaize-east-jerusalem/000001a1-54d6-dc59-a7ad-f4d7038b0000",
       "publishedAt": "2026-10-19T18:59:55.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -1903,7 +2383,7 @@
       "titleKo": "Starvation cult leader found guilty of murder of 190 children",
       "url": "https://www.cbsnews.com/news/kenya-starvation-cult-leader-paul-mackenzie-guilty",
       "publishedAt": "2026-10-19T18:54:45.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
       "translationStatus": "fallback"
     },
     {
@@ -1918,7 +2398,7 @@
       "titleKo": "Zelensky says Starshield speed limits slowing down frontline response",
       "url": "https://www.france24.com/en/zelensky-says-starshield-speed-limits-slowing-down-frontline-response",
       "publishedAt": "2026-10-19T18:45:57.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -1933,7 +2413,7 @@
       "titleKo": "Bulgaria seeks suspects in Germany after Starlink sabotage",
       "url": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-10-19T18:45:00.000Z",
-      "collectedAt": "2026-10-19T23:05:14.351Z",
+      "collectedAt": "2026-10-20T01:48:16.597Z",
       "translationStatus": "fallback"
     },
     {
@@ -1948,22 +2428,7 @@
       "titleKo": "Bulgaria seeks suspects in Germany after Starlink sabotage",
       "url": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-ger-1023-rdf",
       "publishedAt": "2026-10-19T18:45:00.000Z",
-      "collectedAt": "2026-10-19T23:05:14.483Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "3621a5de54cb8936",
-      "sourceId": "jpost",
-      "source": "The Jerusalem Post",
-      "sourceKo": "예루살렘포스트",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "WATCH: Joint List to air footage of Gaza’s destruction in Israeli election broadcast",
-      "titleKo": "WATCH: Joint List to air footage of Gaza’s destruction in Israeli election broadcast",
-      "url": "https://www.jpost.com/israel-election-2026/article-912180",
-      "publishedAt": "2026-10-19T18:44:49.000Z",
-      "collectedAt": "2026-10-19T23:05:14.950Z",
+      "collectedAt": "2026-10-20T01:48:16.691Z",
       "translationStatus": "fallback"
     },
     {
@@ -1978,7 +2443,7 @@
       "titleKo": "Bennett to Netanyahu: You need to tell the public right now what is going on between you and Qatar",
       "url": "https://www.timesofisrael.com/liveblog_entry/bennett-to-netanyahu-you-need-to-tell-the-public-right-now-what-is-going-on-between-you-and-qatar",
       "publishedAt": "2026-10-19T18:43:05.000Z",
-      "collectedAt": "2026-10-19T23:05:14.804Z",
+      "collectedAt": "2026-10-20T01:48:16.736Z",
       "translationStatus": "fallback"
     },
     {
@@ -1993,7 +2458,7 @@
       "titleKo": "Sudan drone attacks kill 3 children in Khartoum, dozens of civilians in Kordofan",
       "url": "https://abcnews.com/International/wireStory/sudan-drone-attacks-kill-3-children-khartoum-dozens-137387829",
       "publishedAt": "2026-10-19T18:42:21.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "fallback"
     },
     {
@@ -2008,7 +2473,7 @@
       "titleKo": "Poll: No immediate bump for Netanyahu from Trump endorsement; 81% of opposition supporters intend to vote, compared to 74% of pro-Netanyahu voters",
       "url": "https://www.timesofisrael.com/liveblog_entry/poll-no-immediate-bump-for-netanyahu-from-trump-endorsement-81-of-opposition-supporters-intend-to-vote-compared-to-74-of-pro-netanyahu-voters",
       "publishedAt": "2026-10-19T18:41:17.000Z",
-      "collectedAt": "2026-10-19T23:05:14.804Z",
+      "collectedAt": "2026-10-20T01:48:16.736Z",
       "translationStatus": "fallback"
     },
     {
@@ -2023,7 +2488,7 @@
       "titleKo": "Germany summons Iranian envoy over plot to kill Jewish community leader",
       "url": "https://www.timesofisrael.com/liveblog_entry/germany-summons-iranian-envoy-over-plot-to-kill-jewish-community-leader",
       "publishedAt": "2026-10-19T18:39:04.000Z",
-      "collectedAt": "2026-10-19T23:05:14.804Z",
+      "collectedAt": "2026-10-20T01:48:16.736Z",
       "translationStatus": "fallback"
     },
     {
@@ -2038,7 +2503,7 @@
       "titleKo": "Burnham urges officials to come up with more radical options for Thames Water",
       "url": "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
       "publishedAt": "2026-10-19T18:37:14.000Z",
-      "collectedAt": "2026-10-19T23:05:14.577Z",
+      "collectedAt": "2026-10-20T01:48:16.634Z",
       "translationStatus": "fallback"
     },
     {
@@ -2053,37 +2518,7 @@
       "titleKo": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
       "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T18:22:48.000Z",
-      "collectedAt": "2026-10-19T23:05:15.041Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "de7b990759822720",
-      "sourceId": "timesofisrael",
-      "source": "The Times of Israel",
-      "sourceKo": "타임스오브이스라엘",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "New York City bank targeted with anti-Israel graffiti, windows smashed",
-      "titleKo": "New York City bank targeted with anti-Israel graffiti, windows smashed",
-      "url": "https://www.timesofisrael.com/new-york-city-bank-targeted-with-anti-israel-graffiti-windows-smashed",
-      "publishedAt": "2026-10-19T18:17:37.000Z",
-      "collectedAt": "2026-10-19T23:05:14.804Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "f5043fa0e6b9ceb4",
-      "sourceId": "timesofisrael",
-      "source": "The Times of Israel",
-      "sourceKo": "타임스오브이스라엘",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "Blue and White’s Benny Gantz pulls out of race, sealing precipitous political fall",
-      "titleKo": "Blue and White’s Benny Gantz pulls out of race, sealing precipitous political fall",
-      "url": "https://www.timesofisrael.com/blue-and-whites-benny-gantz-pulls-out-of-race-sealing-precipitous-political-fall",
-      "publishedAt": "2026-10-19T18:16:55.000Z",
-      "collectedAt": "2026-10-19T23:05:14.804Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
       "translationStatus": "fallback"
     },
     {
@@ -2098,7 +2533,7 @@
       "titleKo": "Israeli police detain 10 people in rare raid against West Bank settlers",
       "url": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
       "publishedAt": "2026-10-19T18:05:14.000Z",
-      "collectedAt": "2026-10-19T23:05:14.673Z",
+      "collectedAt": "2026-10-20T01:48:16.593Z",
       "translationStatus": "fallback"
     },
     {
@@ -2113,7 +2548,7 @@
       "titleKo": "WATCH: Is using cash for purchases becoming a thing of the past?",
       "url": "https://abcnews.com/video/137380391",
       "publishedAt": "2026-10-19T18:01:46.000Z",
-      "collectedAt": "2026-10-19T23:05:15.141Z",
+      "collectedAt": "2026-10-20T01:48:17.097Z",
       "translationStatus": "fallback"
     },
     {
@@ -2128,7 +2563,7 @@
       "titleKo": "I am an Israeli rabbi. I cannot stay silent about settler violence - opinion",
       "url": "https://www.jpost.com/opinion/article-912059",
       "publishedAt": "2026-10-19T18:00:00.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
+      "collectedAt": "2026-10-20T01:48:16.849Z",
       "translationStatus": "fallback"
     },
     {
@@ -2143,7 +2578,7 @@
       "titleKo": "Netanyahu thanks Trump for election endorsement, vows to &#x27;finish the job&#x27;",
       "url": "https://www.haaretz.com/israel-news/elections/2026-10-19/ty-article/.premium/netanyahu-thanks-trump-for-election-endorsement-in-televised-phone-call/000001a1-551e-dcd4-afa3-55df82860000",
       "publishedAt": "2026-10-19T17:58:47.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -2158,37 +2593,7 @@
       "titleKo": "IDF sources say no specific threat ahead of election, but fear attempts to exploit tensions",
       "url": "https://www.haaretz.com/israel-news/israel-politics/2026-10-19/ty-article/.premium/idf-sources-no-specific-threat-was-identified-on-the-eve-of-the-election/000001a1-552f-df3c-adbf-d57f59690001",
       "publishedAt": "2026-10-19T17:50:23.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "7851ec94c47dfe87",
-      "sourceId": "timesofisrael",
-      "source": "The Times of Israel",
-      "sourceKo": "타임스오브이스라엘",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "Report: Netanyahu aide Urich admits Qatar paid him hundreds of thousands of shekels; he kept working for Doha after Oct. 7, saw no moral issue",
-      "titleKo": "Report: Netanyahu aide Urich admits Qatar paid him hundreds of thousands of shekels; he kept working for Doha after Oct. 7, saw no moral issue",
-      "url": "https://www.timesofisrael.com/liveblog_entry/report-netanyahu-aide-urich-admits-qatar-paid-him-hundreds-of-thousands-of-shekels-he-kept-working-for-doha-after-oct-7-saw-no-moral-issue",
-      "publishedAt": "2026-10-19T17:46:50.000Z",
-      "collectedAt": "2026-10-19T23:05:14.804Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "ce70e18abfbf03b5",
-      "sourceId": "timesofisrael",
-      "source": "The Times of Israel",
-      "sourceKo": "타임스오브이스라엘",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "After quitting election race, Gantz pleads for Zionist unity government to heal divisions, avert potential disaster",
-      "titleKo": "After quitting election race, Gantz pleads for Zionist unity government to heal divisions, avert potential disaster",
-      "url": "https://www.timesofisrael.com/liveblog_entry/gantz-takes-responsibility-for-electoral-failure-urges-leaders-not-to-return-to-pre-oct-7-divisions",
-      "publishedAt": "2026-10-19T17:44:50.000Z",
-      "collectedAt": "2026-10-19T23:05:14.804Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -2203,7 +2608,7 @@
       "titleKo": "매사추세츠 부지사 후보, 체포 후 선거 운동 중단",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/massachusetts-lieutenant-governor-candidate-shawn-oliver",
       "publishedAt": "2026-10-19T17:41:23.000Z",
-      "collectedAt": "2026-10-19T23:05:14.643Z",
+      "collectedAt": "2026-10-20T01:48:16.616Z",
       "translationStatus": "translated"
     },
     {
@@ -2218,7 +2623,7 @@
       "titleKo": "North Sea strikes could severely disrupt UK fuel supplies, union warns",
       "url": "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns",
       "publishedAt": "2026-10-19T17:39:13.000Z",
-      "collectedAt": "2026-10-19T23:05:14.577Z",
+      "collectedAt": "2026-10-20T01:48:16.634Z",
       "translationStatus": "fallback"
     },
     {
@@ -2233,22 +2638,7 @@
       "titleKo": "Iran&#x27;s military ambitions are colliding with a deepening education crisis",
       "url": "https://www.haaretz.com/middle-east-news/2026-10-19/ty-article/.premium/irans-military-ambitions-are-colliding-with-a-deepening-education-crisis/000001a1-5451-d793-afe7-fc55e1e30000",
       "publishedAt": "2026-10-19T17:38:33.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "af6d5cdd3d29043a",
-      "sourceId": "timesofisrael",
-      "source": "The Times of Israel",
-      "sourceKo": "타임스오브이스라엘",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "All-clear given in settlement of Evyatar after suspected infiltration triggered alert",
-      "titleKo": "All-clear given in settlement of Evyatar after suspected infiltration triggered alert",
-      "url": "https://www.timesofisrael.com/liveblog_entry/all-clear-given-in-settlement-of-evyatar-after-suspected-infiltration-triggered-alert",
-      "publishedAt": "2026-10-19T17:37:23.000Z",
-      "collectedAt": "2026-10-19T23:05:14.804Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -2263,7 +2653,7 @@
       "titleKo": "Germany news: Emergency at Leipzig airport sparked by novice driver",
       "url": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-ger-1023-rdf",
       "publishedAt": "2026-10-19T17:26:00.000Z",
-      "collectedAt": "2026-10-19T23:05:14.483Z",
+      "collectedAt": "2026-10-20T01:48:16.691Z",
       "translationStatus": "fallback"
     },
     {
@@ -2278,7 +2668,7 @@
       "titleKo": "The Guardian view on Trump and Putin: Ukraine’s future is not theirs to bargain away | Editorial",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-trump-and-putin-ukraines-future-is-not-theirs-to-bargain-away",
       "publishedAt": "2026-10-19T17:25:02.000Z",
-      "collectedAt": "2026-10-19T23:05:14.644Z",
+      "collectedAt": "2026-10-20T01:48:16.616Z",
       "translationStatus": "fallback"
     },
     {
@@ -2293,7 +2683,7 @@
       "titleKo": "Kenya cult leader who told parents to starve children guilty of 191 murders",
       "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T17:18:04.000Z",
-      "collectedAt": "2026-10-19T23:05:15.040Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
       "translationStatus": "fallback"
     },
     {
@@ -2308,7 +2698,7 @@
       "titleKo": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
       "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
       "publishedAt": "2026-10-19T17:15:23.000Z",
-      "collectedAt": "2026-10-19T23:05:14.673Z",
+      "collectedAt": "2026-10-20T01:48:16.593Z",
       "translationStatus": "fallback"
     },
     {
@@ -2323,7 +2713,7 @@
       "titleKo": "🔴 France issues curfew for parts of central Paris",
       "url": "https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting",
       "publishedAt": "2026-10-19T17:09:26.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -2338,7 +2728,7 @@
       "titleKo": "Democrats may be losing New York&#x27;s Jewish voters, but it&#x27;s not just about Israel",
       "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-10-19/ty-article/.highlight/democrats-may-be-losing-new-yorks-jewish-voters-but-its-not-just-about-israel/000001a1-54ea-d9ef-afab-fdeff8a20000",
       "publishedAt": "2026-10-19T16:57:05.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -2353,7 +2743,7 @@
       "titleKo": "France: ‘localised’ curfews announced after weekend of violence",
       "url": "https://www.france24.com/en/france-localised-curfews-announced-after-weekend-scenes-of-violence",
       "publishedAt": "2026-10-19T16:44:38.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -2368,7 +2758,7 @@
       "titleKo": "From France to Albania, social unrest is setting Europe's streets ablaze",
       "url": "https://abcnews.com/International/wireStory/france-albania-social-unrest-setting-europes-streets-ablaze-137383294",
       "publishedAt": "2026-10-19T16:44:11.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "fallback"
     },
     {
@@ -2383,7 +2773,7 @@
       "titleKo": "Most Americans think Trump is using presidency to enrich himself, poll finds",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-presidency-rich-poll",
       "publishedAt": "2026-10-19T16:41:15.000Z",
-      "collectedAt": "2026-10-19T23:05:14.643Z",
+      "collectedAt": "2026-10-20T01:48:16.616Z",
       "translationStatus": "fallback"
     },
     {
@@ -2398,7 +2788,7 @@
       "titleKo": "IDF chief suspends soldiers&#x27; leave ahead of Knesset election, reinforces presence in West Bank",
       "url": "https://www.haaretz.com/israel-news/israel-politics/2026-10-19/ty-article/.premium/idf-suspends-soldiers-leave-ahead-of-election-reinforces-presence-in-west-bank/000001a1-5487-d2a4-a3e3-75bf3a430000",
       "publishedAt": "2026-10-19T16:39:06.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.933Z",
       "translationStatus": "fallback"
     },
     {
@@ -2413,22 +2803,7 @@
       "titleKo": "Macron increasingly isolated amid unrest across France",
       "url": "https://www.euronews.com/2026/10/19/macron-increasingly-isolated-amid-unrest-across-france",
       "publishedAt": "2026-10-19T16:38:51.000Z",
-      "collectedAt": "2026-10-19T23:05:14.229Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "2809449867402044",
-      "sourceId": "bbc",
-      "source": "BBC News",
-      "sourceKo": "BBC",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-      "titleKo": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T16:32:47.000Z",
-      "collectedAt": "2026-10-19T23:05:15.041Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -2443,7 +2818,7 @@
       "titleKo": "Ofcom investigates Huw Edwards complaint over Channel 5 drama",
       "url": "https://www.theguardian.com/media/2026/oct/19/ofcom-investigates-huw-edwards-complaint-over-channel-5-drama",
       "publishedAt": "2026-10-19T16:31:00.000Z",
-      "collectedAt": "2026-10-19T23:05:14.577Z",
+      "collectedAt": "2026-10-20T01:48:16.634Z",
       "translationStatus": "fallback"
     },
     {
@@ -2458,7 +2833,7 @@
       "titleKo": "Europe&#039;s surging populist right reshapes establishment politics",
       "url": "https://www.cbsnews.com/news/how-europes-surging-populist-right-is-reshaping-the-political-establishment",
       "publishedAt": "2026-10-19T16:26:26.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
       "translationStatus": "fallback"
     },
     {
@@ -2473,7 +2848,7 @@
       "titleKo": "Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion",
       "url": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
       "publishedAt": "2026-10-19T16:21:06.000Z",
-      "collectedAt": "2026-10-19T23:05:14.577Z",
+      "collectedAt": "2026-10-20T01:48:16.634Z",
       "translationStatus": "fallback"
     },
     {
@@ -2488,7 +2863,7 @@
       "titleKo": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
       "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T16:20:51.000Z",
-      "collectedAt": "2026-10-19T23:05:15.041Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
       "translationStatus": "fallback"
     },
     {
@@ -2503,7 +2878,7 @@
       "titleKo": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
       "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T16:16:51.000Z",
-      "collectedAt": "2026-10-19T23:05:15.041Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
       "translationStatus": "fallback"
     },
     {
@@ -2518,7 +2893,7 @@
       "titleKo": "‘Concerning issues’ found at GB power grid by inquiry into cover-up claims",
       "url": "https://www.theguardian.com/business/2026/oct/19/concerning-issues-found-at-gb-power-grid-by-inquiry-into-cover-up-claims",
       "publishedAt": "2026-10-19T16:14:47.000Z",
-      "collectedAt": "2026-10-19T23:05:14.577Z",
+      "collectedAt": "2026-10-20T01:48:16.634Z",
       "translationStatus": "fallback"
     },
     {
@@ -2533,7 +2908,7 @@
       "titleKo": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
       "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
       "publishedAt": "2026-10-19T16:08:14.000Z",
-      "collectedAt": "2026-10-19T23:05:14.604Z",
+      "collectedAt": "2026-10-20T01:48:16.570Z",
       "translationStatus": "fallback"
     },
     {
@@ -2548,7 +2923,7 @@
       "titleKo": "Latest news bulletin | October 19th, 2026 – Evening",
       "url": "https://www.euronews.com/video/2026/10/19/latest-news-bulletin-october-19th-2026-evening",
       "publishedAt": "2026-10-19T16:00:26.000Z",
-      "collectedAt": "2026-10-19T23:05:14.229Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -2563,22 +2938,7 @@
       "titleKo": "DZ Mafia murder trial set to begin near Marseille",
       "url": "https://www.france24.com/en/video/20261019-dz-mafia-murder-trial-set-to-begin-near-marseille",
       "publishedAt": "2026-10-19T15:58:06.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "edccfa397b03593c",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Zelenskyy says it&#039;s Putin who wants an endless war, not him",
-      "titleKo": "Zelenskyy says it&#039;s Putin who wants an endless war, not him",
-      "url": "https://www.cbsnews.com/news/russia-ukraine-war-zelenskyy-trump-putin-strikes-no-intelligence",
-      "publishedAt": "2026-10-19T15:50:17.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -2593,7 +2953,7 @@
       "titleKo": "Ukraine deploys drone to airlift wounded soldier in 'world-first' operation",
       "url": "https://www.france24.com/en/europe/20261019-ukraine-deploys-drone-airlift-wounded-soldier-world-first-operation",
       "publishedAt": "2026-10-19T15:44:42.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.761Z",
       "translationStatus": "fallback"
     },
     {
@@ -2608,7 +2968,7 @@
       "titleKo": "Qatar plans new defence partnership and warns of energy crisis 'peak'",
       "url": "https://www.euronews.com/2026/10/19/qatar-plans-new-defence-partnership-and-warns-of-energy-crisis-peak",
       "publishedAt": "2026-10-19T15:40:14.000Z",
-      "collectedAt": "2026-10-19T23:05:14.229Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -2623,7 +2983,7 @@
       "titleKo": "A millennium ago, (almost) everyone in Japan was a poet",
       "url": "https://www.japantimes.co.jp/news/2026/10/20/japan/history/manyoshu-japanese-poetry",
       "publishedAt": "2026-10-19T15:40:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
       "translationStatus": "fallback"
     },
     {
@@ -2638,7 +2998,7 @@
       "titleKo": "Rare photos of Myanmar's ex-leader Aung San Suu Kyi show her receiving books sent by King Charles",
       "url": "https://abcnews.com/International/wireStory/rare-photos-myanmars-leader-aung-san-suu-kyi-137382339",
       "publishedAt": "2026-10-19T15:38:25.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "fallback"
     },
     {
@@ -2653,7 +3013,7 @@
       "titleKo": "Barcelona 'grandmas' dish out cooking wisdom. And find nourishment themselves",
       "url": "https://abcnews.com/International/wireStory/barcelona-grandmas-dish-cooking-wisdom-find-nourishment-137381338",
       "publishedAt": "2026-10-19T15:37:53.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "fallback"
     },
     {
@@ -2668,7 +3028,7 @@
       "titleKo": "France wants curfews in some areas after weekend of riots",
       "url": "https://www.france24.com/en/video/20261019-france-wants-curfews-in-some-areas-after-weekend-of-riots",
       "publishedAt": "2026-10-19T15:37:30.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.762Z",
       "translationStatus": "fallback"
     },
     {
@@ -2683,22 +3043,7 @@
       "titleKo": "France protests: Who are the people arrested during the unrest?",
       "url": "https://www.france24.com/en/video/20261019-france-protests-who-are-the-people-arrested-during-the-unrest",
       "publishedAt": "2026-10-19T15:36:05.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "a5c5730603504c9d",
-      "sourceId": "haaretz",
-      "source": "Haaretz",
-      "sourceKo": "하아레츠",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "Germany summons Iranian envoy over plot to kill leaders of local Jewish organizations",
-      "titleKo": "Germany summons Iranian envoy over plot to kill leaders of local Jewish organizations",
-      "url": "https://www.haaretz.com/world-news/europe/2026-10-19/ty-article/.premium/germany-summons-iranian-envoy-over-plot-to-kill-leaders-of-jewish-organizations/000001a1-5401-d5aa-a9e5-dda743780000",
-      "publishedAt": "2026-10-19T15:28:14.000Z",
-      "collectedAt": "2026-10-19T23:05:15.228Z",
+      "collectedAt": "2026-10-20T01:48:16.762Z",
       "translationStatus": "fallback"
     },
     {
@@ -2713,22 +3058,7 @@
       "titleKo": "France hit by debt sell-off as violent protests unnerve investors",
       "url": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
       "publishedAt": "2026-10-19T15:23:54.000Z",
-      "collectedAt": "2026-10-19T23:05:14.577Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "ff073c5699cde9f8",
-      "sourceId": "bbc",
-      "source": "BBC News",
-      "sourceKo": "BBC",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "In pictures: French landmarks damaged and destroyed by violent protesters",
-      "titleKo": "In pictures: French landmarks damaged and destroyed by violent protesters",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T15:21:03.000Z",
-      "collectedAt": "2026-10-19T23:05:15.041Z",
+      "collectedAt": "2026-10-20T01:48:16.634Z",
       "translationStatus": "fallback"
     },
     {
@@ -2743,7 +3073,7 @@
       "titleKo": "Bank of England said to be reviewing Barclays’ handling of private credit loans",
       "url": "https://www.theguardian.com/business/2026/oct/19/bank-of-england-said-to-be-reviewing-barclays-handling-of-private-credit-loans",
       "publishedAt": "2026-10-19T15:16:37.000Z",
-      "collectedAt": "2026-10-19T23:05:14.577Z",
+      "collectedAt": "2026-10-20T01:48:16.634Z",
       "translationStatus": "fallback"
     },
     {
@@ -2758,7 +3088,7 @@
       "titleKo": "Canada: Alberta votes on holding independence referendum",
       "url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-10-19T15:09:00.000Z",
-      "collectedAt": "2026-10-19T23:05:14.351Z",
+      "collectedAt": "2026-10-20T01:48:16.597Z",
       "translationStatus": "fallback"
     },
     {
@@ -2773,7 +3103,7 @@
       "titleKo": "Can diplomacy stop another Ethiopia-Eritrea war?",
       "url": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-10-19T15:07:00.000Z",
-      "collectedAt": "2026-10-19T23:05:14.351Z",
+      "collectedAt": "2026-10-20T01:48:16.597Z",
       "translationStatus": "fallback"
     },
     {
@@ -2787,8 +3117,8 @@
       "titleOriginal": "上皇后さま 92歳の誕生日",
       "titleKo": "上皇后さま 92歳の誕生日",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61822",
-      "publishedAt": "2026-10-19T15:00:50.000Z",
-      "collectedAt": "2026-10-19T23:05:15.579Z",
+      "publishedAt": "2026-10-19T15:00:00.000Z",
+      "collectedAt": "2026-10-20T01:48:17.422Z",
       "translationStatus": "fallback"
     },
     {
@@ -2803,7 +3133,7 @@
       "titleKo": "'Police weren't overwhelmed by people protesting and marching' about education and cost of living",
       "url": "https://www.france24.com/en/video/20261019-police-weren-t-overwhelmed-by-people-protesting-and-marching-about-education-and-cost-of-living",
       "publishedAt": "2026-10-19T14:58:36.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.762Z",
       "translationStatus": "fallback"
     },
     {
@@ -2818,7 +3148,7 @@
       "titleKo": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships",
       "url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
       "publishedAt": "2026-10-19T14:48:56.000Z",
-      "collectedAt": "2026-10-19T23:05:14.673Z",
+      "collectedAt": "2026-10-20T01:48:16.593Z",
       "translationStatus": "fallback"
     },
     {
@@ -2833,7 +3163,7 @@
       "titleKo": "Drone attack near market kills 80 in Sudan",
       "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
       "publishedAt": "2026-10-19T14:45:53.000Z",
-      "collectedAt": "2026-10-19T23:05:14.604Z",
+      "collectedAt": "2026-10-20T01:48:16.570Z",
       "translationStatus": "fallback"
     },
     {
@@ -2848,7 +3178,7 @@
       "titleKo": "Man who heckled Abdul El-Sayed is former Josh Hawley aide, records show",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/abdul-el-sayed-heckler-tommy",
       "publishedAt": "2026-10-19T14:40:05.000Z",
-      "collectedAt": "2026-10-19T23:05:14.643Z",
+      "collectedAt": "2026-10-20T01:48:16.616Z",
       "translationStatus": "fallback"
     },
     {
@@ -2863,7 +3193,7 @@
       "titleKo": "Musk pledges SpaceX shares to every US child in potential $10.7bn giveaway",
       "url": "https://www.euronews.com/2026/10/19/musk-pledges-spacex-shares-to-every-us-child-in-potential-107bn-giveaway",
       "publishedAt": "2026-10-19T14:35:58.000Z",
-      "collectedAt": "2026-10-19T23:05:14.238Z",
+      "collectedAt": "2026-10-20T01:48:16.384Z",
       "translationStatus": "fallback"
     },
     {
@@ -2878,7 +3208,7 @@
       "titleKo": "Four soldiers dead, dozens injured in fire at Canada military base",
       "url": "https://www.france24.com/en/video/20261019-four-soldiers-dead-dozens-injured-in-fire-at-canada-military-base",
       "publishedAt": "2026-10-19T14:25:09.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:16.762Z",
       "translationStatus": "fallback"
     },
     {
@@ -2893,22 +3223,7 @@
       "titleKo": "北朝鮮 キム・ヨジョン氏 韓国へ拡声機放送再開などを警告",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61865",
       "publishedAt": "2026-10-19T14:21:27.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "db0fb859ce73cea4",
-      "sourceId": "france24",
-      "source": "France 24",
-      "sourceKo": "프랑스24",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "French PM says 'ultra-left' seeking 'deep unrest' ahead of election",
-      "titleKo": "French PM says 'ultra-left' seeking 'deep unrest' ahead of election",
-      "url": "https://www.france24.com/en/video/20261019-french-pm-says-ultra-left-seeking-deep-unrest-ahead-of-election",
-      "publishedAt": "2026-10-19T14:20:25.000Z",
-      "collectedAt": "2026-10-19T23:05:14.851Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
@@ -2923,7 +3238,7 @@
       "titleKo": "Expedition to find Amelia Earhart&#039;s missing plane comes up empty",
       "url": "https://www.cbsnews.com/news/amelia-earhart-missing-plane-not-found-nikumaroro-expedition",
       "publishedAt": "2026-10-19T14:20:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
       "translationStatus": "fallback"
     },
     {
@@ -2938,7 +3253,7 @@
       "titleKo": "超低出生体重児の大動脈の血管へのステント治療成功 静岡",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61864",
       "publishedAt": "2026-10-19T14:17:16.000Z",
-      "collectedAt": "2026-10-19T23:05:15.579Z",
+      "collectedAt": "2026-10-20T01:48:17.422Z",
       "translationStatus": "fallback"
     },
     {
@@ -2953,7 +3268,7 @@
       "titleKo": "US airman dies as daredevil descent goes wrong before Texas college football game",
       "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T14:13:18.000Z",
-      "collectedAt": "2026-10-19T23:05:15.041Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
       "translationStatus": "fallback"
     },
     {
@@ -2968,7 +3283,7 @@
       "titleKo": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
       "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
       "publishedAt": "2026-10-19T14:11:08.000Z",
-      "collectedAt": "2026-10-19T23:05:14.604Z",
+      "collectedAt": "2026-10-20T01:48:16.570Z",
       "translationStatus": "fallback"
     },
     {
@@ -2983,22 +3298,7 @@
       "titleKo": "Catalonia's former rebel president can return to Spain, court rules",
       "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T14:06:53.000Z",
-      "collectedAt": "2026-10-19T23:05:15.041Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "852b32e0ffb5b42c",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Tricky time for lunchboxes: banana shortage hits supermarket shelves after cool weather in Queensland",
-      "titleKo": "Tricky time for lunchboxes: banana shortage hits supermarket shelves after cool weather in Queensland",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/tricky-time-for-lunchboxes-banana-shortage-hits-supermarket-shelves-after-cool-weather-in-queensland",
-      "publishedAt": "2026-10-19T14:00:03.000Z",
-      "collectedAt": "2026-10-19T23:05:14.604Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
       "translationStatus": "fallback"
     },
     {
@@ -3007,28 +3307,13 @@
       "source": "The Guardian",
       "sourceKo": "가디언",
       "regions": [
-        "world"
+        "aitech"
       ],
       "titleOriginal": "Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff",
       "titleKo": "Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff",
       "url": "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff",
       "publishedAt": "2026-10-19T14:00:03.000Z",
-      "collectedAt": "2026-10-19T23:05:14.604Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "a56860c0b5a51776",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "After 25 years, Australian dance star Lucy Guerin bows out of the company she founded",
-      "titleKo": "After 25 years, Australian dance star Lucy Guerin bows out of the company she founded",
-      "url": "https://www.theguardian.com/stage/2026/oct/20/after-25-years-australian-dance-star-lucy-guerin-bows-out-of-the-company-she-founded",
-      "publishedAt": "2026-10-19T14:00:02.000Z",
-      "collectedAt": "2026-10-19T23:05:14.604Z",
+      "collectedAt": "2026-10-20T01:48:16.648Z",
       "translationStatus": "fallback"
     },
     {
@@ -3043,7 +3328,7 @@
       "titleKo": "Protesters block entrances to Paris’s Louvre museum",
       "url": "https://www.euronews.com/video/2026/10/19/protesters-block-entrances-to-pariss-louvre-museum",
       "publishedAt": "2026-10-19T13:57:12.000Z",
-      "collectedAt": "2026-10-19T23:05:14.229Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -3058,7 +3343,7 @@
       "titleKo": "U.S. lauds Israel for arresting 10 over West Bank settler attacks",
       "url": "https://www.cbsnews.com/news/us-israel-west-bank-settler-violence-palestinians-arrests",
       "publishedAt": "2026-10-19T13:56:03.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
       "translationStatus": "fallback"
     },
     {
@@ -3073,22 +3358,7 @@
       "titleKo": "Former South African president denies impeding investigation and prosecution of apartheid-era cases",
       "url": "https://abcnews.com/International/wireStory/former-south-african-president-denies-impeding-investigation-prosecution-137377328",
       "publishedAt": "2026-10-19T13:50:32.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "7f9a2b39b4eff893",
-      "sourceId": "abcnews",
-      "source": "ABC News",
-      "sourceKo": "ABC뉴스",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Gangs in Haiti target foreign troops in biggest attack since new force began operations",
-      "titleKo": "Gangs in Haiti target foreign troops in biggest attack since new force began operations",
-      "url": "https://abcnews.com/International/wireStory/gangs-haiti-target-foreign-troops-biggest-attack-new-137376267",
-      "publishedAt": "2026-10-19T13:50:26.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "fallback"
     },
     {
@@ -3103,7 +3373,7 @@
       "titleKo": "Japan and the US kick off joint drills around islands as regional tensions rise",
       "url": "https://abcnews.com/International/wireStory/japan-us-kick-off-joint-drills-islands-regional-137376718",
       "publishedAt": "2026-10-19T13:50:24.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "fallback"
     },
     {
@@ -3118,22 +3388,7 @@
       "titleKo": "UN food agency to cut aid to 500,000 people in Gaza as funding dries up",
       "url": "https://www.euronews.com/2026/10/19/un-food-agency-to-cut-aid-to-500000-people-in-gaza-as-funding-dries-up",
       "publishedAt": "2026-10-19T13:46:51.000Z",
-      "collectedAt": "2026-10-19T23:05:14.230Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "453fea8fabecfa86",
-      "sourceId": "abcnews",
-      "source": "ABC News",
-      "sourceKo": "ABC뉴스",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Russian missiles and drones hit Kyiv overnight, killing 1 and injuring 8",
-      "titleKo": "Russian missiles and drones hit Kyiv overnight, killing 1 and injuring 8",
-      "url": "https://abcnews.com/International/wireStory/russian-missiles-drones-hit-kyiv-overnight-killing-1-137371029",
-      "publishedAt": "2026-10-19T13:46:20.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -3148,7 +3403,7 @@
       "titleKo": "팔레스타인인들, 서안 지구 방문 중 이스라엘 하산-나훔에 돌 던져",
       "url": "https://www.jpost.com/israel-news/article-912156",
       "publishedAt": "2026-10-19T13:43:55.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
+      "collectedAt": "2026-10-20T01:48:16.850Z",
       "translationStatus": "translated"
     },
     {
@@ -3163,7 +3418,7 @@
       "titleKo": "르완다 대통령 망명 비판가, 참수된 채 발견",
       "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T13:42:41.000Z",
-      "collectedAt": "2026-10-19T23:05:15.041Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
       "translationStatus": "translated"
     },
     {
@@ -3178,7 +3433,7 @@
       "titleKo": "파리 국제 모터쇼, 새로운 중국 브랜드에 관심 집중",
       "url": "https://www.euronews.com/2026/10/19/new-chinese-brands-drive-curiosity-at-the-mondial-de-lauto-car-show-in-paris",
       "publishedAt": "2026-10-19T13:40:31.000Z",
-      "collectedAt": "2026-10-19T23:05:14.230Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "translated"
     },
     {
@@ -3193,7 +3448,7 @@
       "titleKo": "기업·지자체 이메일 발송 업체, 부정 접속으로 900만 건 유출 추정",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61855",
       "publishedAt": "2026-10-19T13:39:13.000Z",
-      "collectedAt": "2026-10-19T23:05:15.597Z",
+      "collectedAt": "2026-10-20T01:48:17.395Z",
       "translationStatus": "translated"
     },
     {
@@ -3208,7 +3463,7 @@
       "titleKo": "리스본 광장 가득 채운 텐트, 포르투갈 주택 위기 부각",
       "url": "https://www.euronews.com/video/2026/10/19/tents-fill-lisbon-square-as-protesters-highlight-portugals-housing-crisis",
       "publishedAt": "2026-10-19T13:38:58.000Z",
-      "collectedAt": "2026-10-19T23:05:14.230Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "translated"
     },
     {
@@ -3223,7 +3478,7 @@
       "titleKo": "프랑스 시위, 약탈·차량 방화 등으로 폭력 사태로 번져",
       "url": "https://www.cbsnews.com/video/french-protests-turn-violent-with-looting-torched-cars-and-more",
       "publishedAt": "2026-10-19T13:20:24.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
       "translationStatus": "translated"
     },
     {
@@ -3238,7 +3493,7 @@
       "titleKo": "엘리 굴딩, 논란의 호주 광산 다이아몬드 홍보 '실수' 인정",
       "url": "https://www.theguardian.com/music/2026/oct/19/ellie-goulding-diamonds-australia-argyle-mine",
       "publishedAt": "2026-10-19T13:20:18.000Z",
-      "collectedAt": "2026-10-19T23:05:14.577Z",
+      "collectedAt": "2026-10-20T01:48:16.634Z",
       "translationStatus": "translated"
     },
     {
@@ -3253,7 +3508,7 @@
       "titleKo": "트럼프 \"젤렌스키, 러시아-우크라이나 전쟁 종식 원치 않아\"",
       "url": "https://www.cbsnews.com/news/ukraine-russia-drone-st-petersburg-oil-facilites",
       "publishedAt": "2026-10-19T13:15:23.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
       "translationStatus": "translated"
     },
     {
@@ -3268,7 +3523,7 @@
       "titleKo": "소비세 감세 법안, 여당 \"21일 위원회 심의 개시\" 야당 \"충실한 심의 촉구\"",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61845",
       "publishedAt": "2026-10-19T13:06:43.000Z",
-      "collectedAt": "2026-10-19T23:05:15.590Z",
+      "collectedAt": "2026-10-20T01:48:17.400Z",
       "translationStatus": "translated"
     },
     {
@@ -3283,7 +3538,7 @@
       "titleKo": "호주 총리, 차량에 치여 중상 입은 의원 \"사고 아냐\"",
       "url": "https://abcnews.com/International/wireStory/police-car-hit-australian-lawmaker-critically-injuring-driver-137371405",
       "publishedAt": "2026-10-19T13:06:15.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "translated"
     },
     {
@@ -3298,7 +3553,7 @@
       "titleKo": "북한, 선전 방송 재개 및 국경 무기 추가 배치 위협",
       "url": "https://abcnews.com/International/wireStory/north-korea-threatens-restart-propaganda-broadcasts-deploy-weapons-137373680",
       "publishedAt": "2026-10-19T13:06:11.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "translated"
     },
     {
@@ -3313,22 +3568,7 @@
       "titleKo": "온라인 영장 청구, 1도3현 선행 도입 후 전국 확대 예정",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61848",
       "publishedAt": "2026-10-19T13:01:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.579Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e8e73fa4d17bce7b",
-      "sourceId": "abcnews",
-      "source": "ABC News",
-      "sourceKo": "ABC뉴스",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "German police say 2 men turned themselves in after smashing car into an airport fence",
-      "titleKo": "독일 경찰 \"차량으로 공항 울타리 들이받은 남성 2명 자수\"",
-      "url": "https://abcnews.com/International/wireStory/german-police-2-men-turned-after-smashing-car-137374754",
-      "publishedAt": "2026-10-19T12:58:31.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.422Z",
       "translationStatus": "translated"
     },
     {
@@ -3343,7 +3583,7 @@
       "titleKo": "4 dead, dozens injured after fire at Canadian military base, officials say",
       "url": "https://www.cbsnews.com/news/deadly-incident-fire-alberta-canada-military-base-cfb-wainwright",
       "publishedAt": "2026-10-19T12:56:47.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
       "translationStatus": "fallback"
     },
     {
@@ -3358,7 +3598,7 @@
       "titleKo": "簗前農相・関文部科学相めぐり追及 食料品の消費税減税 財源は",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61821",
       "publishedAt": "2026-10-19T12:56:24.000Z",
-      "collectedAt": "2026-10-19T23:05:15.590Z",
+      "collectedAt": "2026-10-20T01:48:17.400Z",
       "translationStatus": "fallback"
     },
     {
@@ -3373,7 +3613,7 @@
       "titleKo": "Falling crucifix kills priest during livestreamed Mass in Ecuador",
       "url": "https://www.cbsnews.com/news/falling-crucifix-kills-priest-livestreamed-mass-ecuador",
       "publishedAt": "2026-10-19T12:53:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
       "translationStatus": "fallback"
     },
     {
@@ -3388,7 +3628,7 @@
       "titleKo": "旅客機の操縦席に小動物が見つかり欠航 福岡空港",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61850",
       "publishedAt": "2026-10-19T12:53:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.579Z",
+      "collectedAt": "2026-10-20T01:48:17.422Z",
       "translationStatus": "fallback"
     },
     {
@@ -3403,7 +3643,7 @@
       "titleKo": "日本郵政 ポイントサイトに不正ログイン 他社の流出情報利用か",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61849",
       "publishedAt": "2026-10-19T12:52:31.000Z",
-      "collectedAt": "2026-10-19T23:05:15.597Z",
+      "collectedAt": "2026-10-20T01:48:17.395Z",
       "translationStatus": "fallback"
     },
     {
@@ -3418,7 +3658,7 @@
       "titleKo": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
       "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
       "publishedAt": "2026-10-19T12:51:04.000Z",
-      "collectedAt": "2026-10-19T23:05:14.577Z",
+      "collectedAt": "2026-10-20T01:48:16.634Z",
       "translationStatus": "fallback"
     },
     {
@@ -3433,7 +3673,7 @@
       "titleKo": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
       "url": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-10-19T12:31:00.000Z",
-      "collectedAt": "2026-10-19T23:05:14.351Z",
+      "collectedAt": "2026-10-20T01:48:16.597Z",
       "translationStatus": "fallback"
     },
     {
@@ -3448,7 +3688,7 @@
       "titleKo": "Myanmar refugees find hope in Thailand's work program",
       "url": "https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-10-19T12:31:00.000Z",
-      "collectedAt": "2026-10-19T23:05:14.351Z",
+      "collectedAt": "2026-10-20T01:48:16.597Z",
       "translationStatus": "fallback"
     },
     {
@@ -3463,7 +3703,7 @@
       "titleKo": "渋谷区マンション建設工事めぐり住民が最高裁に特別抗告",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61843",
       "publishedAt": "2026-10-19T12:07:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.579Z",
+      "collectedAt": "2026-10-20T01:48:17.422Z",
       "translationStatus": "fallback"
     },
     {
@@ -3478,7 +3718,7 @@
       "titleKo": "US issues rare Middle East red alert warning to its citizens in the region",
       "url": "https://www.euronews.com/2026/10/19/us-issues-rare-middle-east-red-alert-warning-to-its-citizens-in-the-region",
       "publishedAt": "2026-10-19T11:55:24.000Z",
-      "collectedAt": "2026-10-19T23:05:14.230Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -3493,7 +3733,7 @@
       "titleKo": "“簗氏 事務員報酬支払い”報道 大学教授が宇都宮地検に告発状",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61832",
       "publishedAt": "2026-10-19T11:50:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.590Z",
+      "collectedAt": "2026-10-20T01:48:17.400Z",
       "translationStatus": "fallback"
     },
     {
@@ -3508,7 +3748,7 @@
       "titleKo": "Roads and cars submerged as heavy rain floods eastern Spain",
       "url": "https://www.euronews.com/2026/10/19/roads-and-cars-submerged-as-heavy-rain-floods-eastern-spain",
       "publishedAt": "2026-10-19T11:47:11.000Z",
-      "collectedAt": "2026-10-19T23:05:14.230Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -3523,7 +3763,7 @@
       "titleKo": "Personal attacks fire up debate before Brazil's run-off vote",
       "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T11:41:24.000Z",
-      "collectedAt": "2026-10-19T23:05:15.041Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
       "translationStatus": "fallback"
     },
     {
@@ -3538,7 +3778,22 @@
       "titleKo": "Italy plans tougher security measures after violent protests",
       "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T11:23:36.000Z",
-      "collectedAt": "2026-10-19T23:05:15.041Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "5c8e16d370a745fd",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "China's economy accelerated in the July-September quarter on robust exports",
+      "titleKo": "China's economy accelerated in the July-September quarter on robust exports",
+      "url": "https://abcnews.com/International/wireStory/chinas-economy-accelerates-robust-exports-domestic-weakness-persists-137369591",
+      "publishedAt": "2026-10-19T11:22:13.000Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "fallback"
     },
     {
@@ -3553,7 +3808,7 @@
       "titleKo": "Over 16% of Japanese companies experience data breaches",
       "url": "https://www.japantimes.co.jp/business/2026/10/19/16pct-japan-firms-data-breaches",
       "publishedAt": "2026-10-19T11:08:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
       "translationStatus": "fallback"
     },
     {
@@ -3568,7 +3823,7 @@
       "titleKo": "Saudi Arabia is learning the hard way: they can’t count on Trump for protection | Mohamad Bazzi",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
       "publishedAt": "2026-10-19T11:00:55.000Z",
-      "collectedAt": "2026-10-19T23:05:14.673Z",
+      "collectedAt": "2026-10-20T01:48:16.593Z",
       "translationStatus": "fallback"
     },
     {
@@ -3583,7 +3838,7 @@
       "titleKo": "From delivery driver to global fame: A Korean writer's journey",
       "url": "https://www.dw.com/en/from-delivery-driver-to-global-fame-a-korean-writer-s-journey/a-79672757?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-10-19T10:55:00.000Z",
-      "collectedAt": "2026-10-19T23:05:14.351Z",
+      "collectedAt": "2026-10-20T01:48:16.597Z",
       "translationStatus": "fallback"
     },
     {
@@ -3598,7 +3853,7 @@
       "titleKo": "Lula supporters spell out his name in Rio waters before Brazil runoff",
       "url": "https://www.euronews.com/video/2026/10/19/lula-supporters-spell-out-his-name-in-rio-waters-before-brazil-runoff",
       "publishedAt": "2026-10-19T10:52:37.000Z",
-      "collectedAt": "2026-10-19T23:05:14.230Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -3613,7 +3868,7 @@
       "titleKo": "ストーカー加害者にGPS機器など検討へ 踏み込んだ対策の背景は",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61517",
       "publishedAt": "2026-10-19T10:48:20.000Z",
-      "collectedAt": "2026-10-19T23:05:15.579Z",
+      "collectedAt": "2026-10-20T01:48:17.422Z",
       "translationStatus": "fallback"
     },
     {
@@ -3628,7 +3883,7 @@
       "titleKo": "Russia woos Asian tourists in attempt to counter European visits collapse",
       "url": "https://www.euronews.com/2026/10/19/russia-woos-asian-tourists-in-attempt-to-counter-european-visits-collapse",
       "publishedAt": "2026-10-19T10:48:05.000Z",
-      "collectedAt": "2026-10-19T23:05:14.230Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -3643,22 +3898,7 @@
       "titleKo": "サッカー マンチェスターシティーの財務規則違反を認定",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61598",
       "publishedAt": "2026-10-19T10:46:03.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "98b5ae5759daff36",
-      "sourceId": "nhk",
-      "source": "NHK",
-      "sourceKo": "NHK",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "【動画】Pickup NEWS（10月19日）",
-      "titleKo": "【動画】Pickup NEWS（10月19日）",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261018de61265",
-      "publishedAt": "2026-10-19T10:44:27.000Z",
-      "collectedAt": "2026-10-19T23:05:15.580Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
@@ -3673,7 +3913,7 @@
       "titleKo": "Can European luxury brands still count on China for growth?",
       "url": "https://www.euronews.com/2026/10/19/can-european-luxury-brands-still-count-on-china-for-growth",
       "publishedAt": "2026-10-19T10:42:43.000Z",
-      "collectedAt": "2026-10-19T23:05:14.238Z",
+      "collectedAt": "2026-10-20T01:48:16.384Z",
       "translationStatus": "fallback"
     },
     {
@@ -3688,7 +3928,7 @@
       "titleKo": "ミクロネシア大統領が来日へ 高市首相と首脳会談も",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61789",
       "publishedAt": "2026-10-19T10:40:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
+      "collectedAt": "2026-10-20T01:48:17.583Z",
       "translationStatus": "fallback"
     },
     {
@@ -3703,7 +3943,7 @@
       "titleKo": "Cartel members linked to murders of 10 workers from Canadian company",
       "url": "https://www.cbsnews.com/news/mexico-arrests-suspects-murders-workers-canada-mining-company",
       "publishedAt": "2026-10-19T10:35:13.000Z",
-      "collectedAt": "2026-10-19T23:05:15.149Z",
+      "collectedAt": "2026-10-20T01:48:17.025Z",
       "translationStatus": "fallback"
     },
     {
@@ -3718,7 +3958,7 @@
       "titleKo": "マンション修繕の談合防止へ 国交省で対策検討を開始",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61808",
       "publishedAt": "2026-10-19T10:33:39.000Z",
-      "collectedAt": "2026-10-19T23:05:15.597Z",
+      "collectedAt": "2026-10-20T01:48:17.395Z",
       "translationStatus": "fallback"
     },
     {
@@ -3733,7 +3973,7 @@
       "titleKo": "自民 維新幹部 消費税減税法案 今国会成立へ 野党の協力求める",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61585",
       "publishedAt": "2026-10-19T10:32:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.590Z",
+      "collectedAt": "2026-10-20T01:48:17.400Z",
       "translationStatus": "fallback"
     },
     {
@@ -3748,7 +3988,7 @@
       "titleKo": "愛子さま 鳥取砂丘を訪問",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61798",
       "publishedAt": "2026-10-19T10:31:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.579Z",
+      "collectedAt": "2026-10-20T01:48:17.422Z",
       "translationStatus": "fallback"
     },
     {
@@ -3763,7 +4003,7 @@
       "titleKo": "高校無償化でも“私立は選べず”約3割 低所得世帯にNGO調査",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61526",
       "publishedAt": "2026-10-19T10:27:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.579Z",
+      "collectedAt": "2026-10-20T01:48:17.422Z",
       "translationStatus": "fallback"
     },
     {
@@ -3778,7 +4018,7 @@
       "titleKo": "「ふるさとチョイス」で不正アクセス疑い 阪急阪神百貨店でも",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61442",
       "publishedAt": "2026-10-19T10:23:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.597Z",
+      "collectedAt": "2026-10-20T01:48:17.395Z",
       "translationStatus": "fallback"
     },
     {
@@ -3793,7 +4033,7 @@
       "titleKo": "Japan to restart accepting foreign workers for meal services at some facilities",
       "url": "https://www.japantimes.co.jp/news/2026/10/19/japan/foreign-workers-meal-services",
       "publishedAt": "2026-10-19T10:22:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
       "translationStatus": "fallback"
     },
     {
@@ -3808,7 +4048,7 @@
       "titleKo": "No Kings Day: Thousands rally across US against Trump",
       "url": "https://www.euronews.com/video/2026/10/19/no-kings-day-thousands-rally-across-us-against-trump",
       "publishedAt": "2026-10-19T10:21:29.000Z",
-      "collectedAt": "2026-10-19T23:05:14.230Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -3823,7 +4063,7 @@
       "titleKo": "Philippines summons Chinese ambassador to protest remarks it says threatened force",
       "url": "https://abcnews.com/International/wireStory/philippines-summons-chinese-ambassador-protest-remarks-threatened-force-137371744",
       "publishedAt": "2026-10-19T10:18:19.000Z",
-      "collectedAt": "2026-10-19T23:05:15.159Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "fallback"
     },
     {
@@ -3838,22 +4078,7 @@
       "titleKo": "神奈川 藤沢 乗用車がバスなど次々に衝突1人死亡13人けが",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61387",
       "publishedAt": "2026-10-19T10:18:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.580Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "ed6f52c499173575",
-      "sourceId": "nhk",
-      "source": "NHK",
-      "sourceKo": "NHK",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "中国GDP ＋4.5％ 内需停滞で伸び悩む 7ー9月期",
-      "titleKo": "中国GDP ＋4.5％ 内需停滞で伸び悩む 7ー9月期",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61389",
-      "publishedAt": "2026-10-19T10:17:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
+      "collectedAt": "2026-10-20T01:48:17.422Z",
       "translationStatus": "fallback"
     },
     {
@@ -3868,7 +4093,7 @@
       "titleKo": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
       "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
       "publishedAt": "2026-10-19T10:07:09.000Z",
-      "collectedAt": "2026-10-19T23:05:14.604Z",
+      "collectedAt": "2026-10-20T01:48:16.570Z",
       "translationStatus": "fallback"
     },
     {
@@ -3883,7 +4108,7 @@
       "titleKo": "高市首相 秋の例大祭の靖国神社に私費で玉串料奉納 中国は抗議",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61346",
       "publishedAt": "2026-10-19T10:06:05.000Z",
-      "collectedAt": "2026-10-19T23:05:15.590Z",
+      "collectedAt": "2026-10-20T01:48:17.401Z",
       "translationStatus": "fallback"
     },
     {
@@ -3898,7 +4123,7 @@
       "titleKo": "Australian MP seriously hurt in suspected car attack",
       "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-10-19T10:06:00.000Z",
-      "collectedAt": "2026-10-19T23:05:14.351Z",
+      "collectedAt": "2026-10-20T01:48:16.597Z",
       "translationStatus": "fallback"
     },
     {
@@ -3913,7 +4138,7 @@
       "titleKo": "Latest news bulletin | October 19th, 2026 – Midday",
       "url": "https://www.euronews.com/video/2026/10/19/latest-news-bulletin-october-19th-2026-midday",
       "publishedAt": "2026-10-19T10:00:15.000Z",
-      "collectedAt": "2026-10-19T23:05:14.230Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -3928,7 +4153,7 @@
       "titleKo": "We must tax the wealth of billionaires, not just income. California can lead the way | Ro Khanna",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california",
       "publishedAt": "2026-10-19T10:00:05.000Z",
-      "collectedAt": "2026-10-19T23:05:14.644Z",
+      "collectedAt": "2026-10-20T01:48:16.616Z",
       "translationStatus": "fallback"
     },
     {
@@ -3943,7 +4168,7 @@
       "titleKo": "Tourists are avoiding York, my home town – but I know how to get them back",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/19/tourists-york",
       "publishedAt": "2026-10-19T10:00:05.000Z",
-      "collectedAt": "2026-10-19T23:05:14.577Z",
+      "collectedAt": "2026-10-20T01:48:16.634Z",
       "translationStatus": "fallback"
     },
     {
@@ -3958,7 +4183,7 @@
       "titleKo": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
       "url": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
       "publishedAt": "2026-10-19T10:00:05.000Z",
-      "collectedAt": "2026-10-19T23:05:14.729Z",
+      "collectedAt": "2026-10-20T01:48:16.648Z",
       "translationStatus": "fallback"
     },
     {
@@ -3973,7 +4198,7 @@
       "titleKo": "China reveals advanced nuclear sub was used to test-fire missile",
       "url": "https://www.japantimes.co.jp/news/2026/10/19/asia-pacific/china-nuclear-sub-test-fire",
       "publishedAt": "2026-10-19T09:59:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
       "translationStatus": "fallback"
     },
     {
@@ -3988,7 +4213,7 @@
       "titleKo": "高市首相 消費税減税の財源確保 “歳出歳入の見直し進める”",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61375",
       "publishedAt": "2026-10-19T09:55:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.590Z",
+      "collectedAt": "2026-10-20T01:48:17.401Z",
       "translationStatus": "fallback"
     },
     {
@@ -4003,7 +4228,7 @@
       "titleKo": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
       "url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
       "publishedAt": "2026-10-19T09:54:33.000Z",
-      "collectedAt": "2026-10-19T23:05:14.673Z",
+      "collectedAt": "2026-10-20T01:48:16.593Z",
       "translationStatus": "fallback"
     },
     {
@@ -4018,7 +4243,22 @@
       "titleKo": "Australian MP Helen Haines 'critically' hurt in car ramming attack, officials say",
       "url": "https://www.euronews.com/2026/10/19/australian-mp-helen-haines-critically-hurt-in-car-ramming-attack-officials-say",
       "publishedAt": "2026-10-19T09:42:40.000Z",
-      "collectedAt": "2026-10-19T23:05:14.230Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "b5a6196289aad4ed",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Albertans vote on path to independence as Carney fights to keep Canada united",
+      "titleKo": "Albertans vote on path to independence as Carney fights to keep Canada united",
+      "url": "https://abcnews.com/International/wireStory/albertans-vote-path-independence-carney-fights-canada-united-137370162",
+      "publishedAt": "2026-10-19T09:38:21.000Z",
+      "collectedAt": "2026-10-20T01:48:17.005Z",
       "translationStatus": "fallback"
     },
     {
@@ -4033,7 +4273,7 @@
       "titleKo": "‘Ghost Shark’: Australia unveils submarine drone's secret weapons",
       "url": "https://www.euronews.com/2026/10/19/ghost-shark-australia-unveils-submarine-drones-secret-weapons",
       "publishedAt": "2026-10-19T09:33:06.000Z",
-      "collectedAt": "2026-10-19T23:05:14.230Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -4048,7 +4288,7 @@
       "titleKo": "「ふるさとチョイス」で不正アクセスの疑い サービス一時停止",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61781",
       "publishedAt": "2026-10-19T09:30:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.597Z",
+      "collectedAt": "2026-10-20T01:48:17.395Z",
       "translationStatus": "fallback"
     },
     {
@@ -4063,7 +4303,7 @@
       "titleKo": "China’s economy grows faster than forecast after AI boom boosts exports",
       "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
       "publishedAt": "2026-10-19T09:27:04.000Z",
-      "collectedAt": "2026-10-19T23:05:14.604Z",
+      "collectedAt": "2026-10-20T01:48:16.570Z",
       "translationStatus": "fallback"
     },
     {
@@ -4078,7 +4318,7 @@
       "titleKo": "円相場 対ドルで小幅に値下がり 原油先物価格上昇傾向を背景に",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61777",
       "publishedAt": "2026-10-19T09:23:02.000Z",
-      "collectedAt": "2026-10-19T23:05:15.597Z",
+      "collectedAt": "2026-10-20T01:48:17.395Z",
       "translationStatus": "fallback"
     },
     {
@@ -4093,7 +4333,7 @@
       "titleKo": "Lula and Bolsonaro trade insults in TV debate ahead of weekend presidential runoff",
       "url": "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff",
       "publishedAt": "2026-10-19T09:21:10.000Z",
-      "collectedAt": "2026-10-19T23:05:14.230Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -4108,7 +4348,7 @@
       "titleKo": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
       "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T09:11:42.000Z",
-      "collectedAt": "2026-10-19T23:05:15.041Z",
+      "collectedAt": "2026-10-20T01:48:17.127Z",
       "translationStatus": "fallback"
     },
     {
@@ -4123,7 +4363,7 @@
       "titleKo": "New species of sperm whale identified from fossils found in Gunma",
       "url": "https://www.japantimes.co.jp/news/2026/10/19/japan/society/japan-whale-fossils-new-species",
       "publishedAt": "2026-10-19T09:11:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
       "translationStatus": "fallback"
     },
     {
@@ -4138,7 +4378,7 @@
       "titleKo": "More than half of UK first-time buyers paying more for mortgage than they did for rent",
       "url": "https://www.theguardian.com/money/2026/oct/19/uk-first-time-buyers-paying-more-mortgage-rent",
       "publishedAt": "2026-10-19T09:10:41.000Z",
-      "collectedAt": "2026-10-19T23:05:14.577Z",
+      "collectedAt": "2026-10-20T01:48:16.634Z",
       "translationStatus": "fallback"
     },
     {
@@ -4153,7 +4393,7 @@
       "titleKo": "外国人材 「外食業」のうち給食業務は別分野で受入れ再開案",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61741",
       "publishedAt": "2026-10-19T09:09:07.000Z",
-      "collectedAt": "2026-10-19T23:05:15.590Z",
+      "collectedAt": "2026-10-20T01:48:17.400Z",
       "translationStatus": "fallback"
     },
     {
@@ -4168,7 +4408,7 @@
       "titleKo": "Three deaths from float crushes raise safety concerns over Japanese festivals",
       "url": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
       "publishedAt": "2026-10-19T09:08:34.000Z",
-      "collectedAt": "2026-10-19T23:05:14.604Z",
+      "collectedAt": "2026-10-20T01:48:16.570Z",
       "translationStatus": "fallback"
     },
     {
@@ -4183,7 +4423,7 @@
       "titleKo": "Gulf states top disaster resilience as Lebanon and Iraq lag far behind",
       "url": "https://www.euronews.com/2026/10/19/gulf-states-top-disaster-resilience-as-lebanon-and-iraq-lag-far-behind",
       "publishedAt": "2026-10-19T08:57:34.000Z",
-      "collectedAt": "2026-10-19T23:05:14.230Z",
+      "collectedAt": "2026-10-20T01:48:16.454Z",
       "translationStatus": "fallback"
     },
     {
@@ -4198,7 +4438,7 @@
       "titleKo": "European stocks open in the red as French businesses count the cost of the riots",
       "url": "https://www.euronews.com/2026/10/19/european-stocks-open-in-the-red-as-french-businesses-count-the-cost-of-the-riots",
       "publishedAt": "2026-10-19T08:56:56.000Z",
-      "collectedAt": "2026-10-19T23:05:14.238Z",
+      "collectedAt": "2026-10-20T01:48:16.384Z",
       "translationStatus": "fallback"
     },
     {
@@ -4213,7 +4453,7 @@
       "titleKo": "笹川環境相が靖国神社に参拝 秋の例大祭にあわせ",
       "url": "https://news.web.nhk/newsweb/na/nd-20261019de61734",
       "publishedAt": "2026-10-19T08:53:10.000Z",
-      "collectedAt": "2026-10-19T23:05:15.590Z",
+      "collectedAt": "2026-10-20T01:48:17.400Z",
       "translationStatus": "fallback"
     },
     {
@@ -4228,7 +4468,7 @@
       "titleKo": "Tensions overshadow 70th anniversary of key Japan-Soviet declaration",
       "url": "https://www.japantimes.co.jp/news/2026/10/19/japan/politics/japan-soviet-union-declation-anniversary",
       "publishedAt": "2026-10-19T08:44:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
       "translationStatus": "fallback"
     },
     {
@@ -4243,7 +4483,7 @@
       "titleKo": "Sydney’s new $4 billion airport set to open with barely any flights",
       "url": "https://www.japantimes.co.jp/news/2026/10/19/asia-pacific/sydney-new-airport",
       "publishedAt": "2026-10-19T08:37:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
+      "collectedAt": "2026-10-20T01:48:17.662Z",
       "translationStatus": "fallback"
     },
     {
@@ -4258,7 +4498,7 @@
       "titleKo": "WATCH: Blind student, guide dog enjoy adventures in Scotland",
       "url": "https://abcnews.com/video/137371314",
       "publishedAt": "2026-10-19T08:29:42.000Z",
-      "collectedAt": "2026-10-19T23:05:15.141Z",
+      "collectedAt": "2026-10-20T01:48:17.097Z",
       "translationStatus": "fallback"
     },
     {
@@ -4273,247 +4513,7 @@
       "titleKo": "High prices and interest rates: Expert advice on managing your money",
       "url": "https://www.euronews.com/2026/10/19/high-prices-and-interest-rates-expert-advice-on-managing-your-money",
       "publishedAt": "2026-10-19T08:28:34.000Z",
-      "collectedAt": "2026-10-19T23:05:14.238Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "9e225c1ac568cdb1",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceKo": "도이체벨레",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
-      "titleKo": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
-      "url": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-10-19T08:26:00.000Z",
-      "collectedAt": "2026-10-19T23:05:14.351Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "b60f05ae04eb4f8b",
-      "sourceId": "bbc",
-      "source": "BBC News",
-      "sourceKo": "BBC",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-      "titleKo": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T08:17:19.000Z",
-      "collectedAt": "2026-10-19T23:05:15.041Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "63fd68a009453277",
-      "sourceId": "nhk",
-      "source": "NHK",
-      "sourceKo": "NHK",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "パレスチナ選挙延期“極めて残念” 中曽根外務副大臣が伝達",
-      "titleKo": "パレスチナ選挙延期“極めて残念” 中曽根外務副大臣が伝達",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61687",
-      "publishedAt": "2026-10-19T08:17:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "9bfae4a4308798d6",
-      "sourceId": "jpost",
-      "source": "The Jerusalem Post",
-      "sourceKo": "예루살렘포스트",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "IDF, Shin Bet arrest 10 suspects connected to attack on US journalist, EU diplomats in West Bank",
-      "titleKo": "이스라엘군·신베트, 서안지구 미 언론인·EU 외교관 공격 관련 용의자 10명 체포",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912116",
-      "publishedAt": "2026-10-19T07:57:19.000Z",
-      "collectedAt": "2026-10-19T23:05:14.949Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "3150369448c1e101",
-      "sourceId": "nhk",
-      "source": "NHK",
-      "sourceKo": "NHK",
-      "regions": [
-        "economy"
-      ],
-      "titleOriginal": "日経平均株価 値下がり 半導体関連銘柄を中心に売り注文",
-      "titleKo": "日経平均株価 値下がり 半導体関連銘柄を中心に売り注文",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61495",
-      "publishedAt": "2026-10-19T07:55:32.000Z",
-      "collectedAt": "2026-10-19T23:05:15.597Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "0e27f4fe9a91d16d",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "Cases of consumers disputing personal training contracts rise",
-      "titleKo": "Cases of consumers disputing personal training contracts rise",
-      "url": "https://www.japantimes.co.jp/news/2026/10/19/japan/personal-trainer-contracts",
-      "publishedAt": "2026-10-19T07:52:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "a86bb8c0ce211abf",
-      "sourceId": "bbc",
-      "source": "BBC News",
-      "sourceKo": "BBC",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
-      "titleKo": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T07:35:06.000Z",
-      "collectedAt": "2026-10-19T23:05:15.041Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "073b09ffa79a6a56",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "Fukushima University to undergo overhaul with greater science focus",
-      "titleKo": "Fukushima University to undergo overhaul with greater science focus",
-      "url": "https://www.japantimes.co.jp/news/2026/10/19/japan/fukushima-university-reorganization",
-      "publishedAt": "2026-10-19T07:34:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "a802bb83ad8e2c36",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "World faces nature reality check at U.N. biodiversity conference",
-      "titleKo": "World faces nature reality check at U.N. biodiversity conference",
-      "url": "https://www.japantimes.co.jp/environment/2026/10/19/wildlife/un-biodiversity-conference",
-      "publishedAt": "2026-10-19T07:33:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "eb7011257ec78ce6",
-      "sourceId": "nhk",
-      "source": "NHK",
-      "sourceKo": "NHK",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "訪問介護の介護報酬 戸別訪問の移動コストなど反映方針 厚労省",
-      "titleKo": "訪問介護の介護報酬 戸別訪問の移動コストなど反映方針 厚労省",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61601",
-      "publishedAt": "2026-10-19T07:11:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.579Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "19836b1dc8cbdeab",
-      "sourceId": "nhk",
-      "source": "NHK",
-      "sourceKo": "NHK",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "三菱電機 自動車部品子会社にホンハイの出資受け入れで会見",
-      "titleKo": "三菱電機 自動車部品子会社にホンハイの出資受け入れで会見",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61602",
-      "publishedAt": "2026-10-19T06:56:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "41a980249033c4a5",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "JICA and the World Bank should put the poor first",
-      "titleKo": "JICA and the World Bank should put the poor first",
-      "url": "https://www.japantimes.co.jp/commentary/2026/10/19/world/poor-first-then-climate",
-      "publishedAt": "2026-10-19T06:56:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "1b0a81ddd0bbd7a7",
-      "sourceId": "nhk",
-      "source": "NHK",
-      "sourceKo": "NHK",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "【随時更新】ロシア ウクライナに軍事侵攻（10月19日の動き）",
-      "titleKo": "【随時更新】ロシア ウクライナに軍事侵攻（10月19日の動き）",
-      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53325",
-      "publishedAt": "2026-10-19T06:46:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.568Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "2ac2b6a1232acdb3",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "Asian Para Games officially open in Nagoya",
-      "titleKo": "Asian Para Games officially open in Nagoya",
-      "url": "https://www.japantimes.co.jp/sports/2026/10/19/asian-games/asian-para-games-open",
-      "publishedAt": "2026-10-19T06:45:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "b250de118d6fc710",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "Why harassment scandals continue engulfing Japan’s local leaders",
-      "titleKo": "Why harassment scandals continue engulfing Japan’s local leaders",
-      "url": "https://www.japantimes.co.jp/news/2026/10/19/japan/politics/power-harassment-local-chief-election",
-      "publishedAt": "2026-10-19T06:40:00.000Z",
-      "collectedAt": "2026-10-19T23:05:16.381Z",
-      "translationStatus": "fallback"
-    },
-    {
-      "id": "80e156596bd68154",
-      "sourceId": "nhk",
-      "source": "NHK",
-      "sourceKo": "NHK",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "車の窓にヒグマの足跡 ドア開け車内荒らしたか 北海道清里町",
-      "titleKo": "車の窓にヒグマの足跡 ドア開け車内荒らしたか 北海道清里町",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61591",
-      "publishedAt": "2026-10-19T06:32:00.000Z",
-      "collectedAt": "2026-10-19T23:05:15.579Z",
+      "collectedAt": "2026-10-20T01:48:16.384Z",
       "translationStatus": "fallback"
     }
   ]
