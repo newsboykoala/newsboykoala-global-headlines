@@ -1,14 +1,470 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "0c3d6efc86d1574c08411b2ddc6529a9c92bb2aee13882a25e5ca4ee5d7f16fd": {
-      "titleKo": "러시아가 미국인 스티븐 허버드 석방… 트럼프 확인",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
     "0554f460e4ae3407dd900cec31d79af8a6d0bd64edfc15dbb28afacf7b030edf": {
       "titleKo": "일한 오마르, 연방 수색 후 DC 자택 떠날 예정…트럼프의 정치적 협박 비난",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "d081ca070270783fa8decf885510fcb7cf7c9e9ef2386da5d8caf374aaa9d5c7": {
+      "titleKo": "네타냐후, \"평생의 사명\" 강조하며 이스라엘 국민에 '이란 임무 완수' 시간 요청",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "a5f1fd813fd29495011256874716e8f0b2fca242025c7278cd2bac99366e1d9a": {
+      "titleKo": "크리스타 파이크 사형 실패 전, IV팀 \"혈관 터질 수도\" 경고",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "6c485335891ee50ecf961e8358f99278102cbab203fc44db80285f8200d4db5e": {
+      "titleKo": "트럼프, \"이란이 유가 인상 위해 선박 공격 조작\" 주장",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "44fce54465140376df4fb881366a234f4e3509ffb3fe8e85bff5bd6a7e0a56ea": {
+      "titleKo": "[영상] 픽업 뉴스 (10월 23일)",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "81c101d5c1df634f4cb72f1da8f9b1f7a8f7f1d606990d90518d255c059acea4": {
+      "titleKo": "루이스 해밀턴, 아프리카 그랑프리 출전 위해 2030년대 초반까지 선수 생활 연장 목표",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "047f37966076a119fcc65e7783bc4ffac15b158184335deb115e5e15af48a290": {
+      "titleKo": "영상: 가톨릭 주교들, 백악관 집무실에서 트럼프 위해 기도",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "1b46c80d6bc5486b6139c6e279f0061415c58062173d474071da82bc1842189d": {
+      "titleKo": "여론조사: 종교적 이스라엘인들, 리쿠드당 떠나 극우 대안으로 선회",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "2251a2d2a3540ff9404d2b4c1b81c696eaec24f0fec90c4e35cd17d26651826b": {
+      "titleKo": "아랍에미리트 외교관, 인권 문제 우려에도 차기 유엔 사무총장 될 수도",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "14050881abe00c4fe2d3affd44ee470efad669f19c8b5818791eed5a759566a1": {
+      "titleKo": "라이브: ABC 뉴스 라이브",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "e96610d0fa35ffa9e7dde2f7a97e1969257975740d87527fbafe407e2a4056af": {
+      "titleKo": "이스라엘은 희망 위에 세워졌다: 이번 선거가 구원할 마지막 기회일 수도",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "fa49fd83f7e149bf51e1e5138d0e3f0ae2010e9da03cb2e56878e2c6fc9397de": {
+      "titleKo": "러시아군, 우크라이나에 대규모 공격…2명 사망 30명 이상 부상",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "09d9ec58426f66b48ef258e7446e787faa68ba10cdef05a3e3bbbb45dc86ec55": {
+      "titleKo": "연방 당국, 버지니아 유력 민주당 의원 마약 스캔들 혐의 기소",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "e8cee0cf5f8b739685b2b68849060f662cd1cab6060381dffc5bd627e0a5f533": {
+      "titleKo": "전 인질 엘카나 보봇, \"신앙과 가족이 하마스 억류에서 살아남게 도왔다\" 회고",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "4b7f5373d08b722e7824629bc587f138a872ab7f1876e4efe161fa9d18f87578": {
+      "titleKo": "허커비, \"평화 위원회, 트럼프의 가자 평화 계획 이행 능력 의문\" 제기 - 보도",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "2f92db72eeb6496840267db08ce63a2adf4afc8e0a90100dc41d21fea5599297": {
+      "titleKo": "프랑스, \"샤몬다 바이러스의 인간 감염 첫 확인\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "d698aa2944608ccfa04232b151d2cbd4f30d5db51a79522177b47111871f54e9": {
+      "titleKo": "'힐탑 유스', 요르단강 서안 결혼식서 무기 휘두르고 반시오니스트 노래 부르는 모습 포착돼 - 보도",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "be231f446d447154d9a92b61dd47a20f926394dcb2a07e1a3a80e755986d8634": {
+      "titleKo": "구금 중인 수치 여사와 통화한 차남 \"생존 확인돼 다행이다\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "3c164d78a990a47b818b5cab6c721ba8e5480acd340acfdb665764549a0a545d": {
+      "titleKo": "재향군인들, \"의회 승인 없이는 트럼프 기념 아치 막아달라\" 연방 판사에 요청",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "ba41d7283d37a72fe61be5df33ccc4b7383732b953f829e0d432ddb443379bb3": {
+      "titleKo": "일본제철 산하 US스틸, 4700억 엔대 투자 계획 발표",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "f20ee127214733594bdec9ac63223aad86eb3797ef45ab11e589ef2f3337f3d5": {
+      "titleKo": "자녀 전동 오토바이 사고로 더 많은 부모들 기소 직면",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "118d9f21932a55b6aefa4db9a2b41bacfa1ed5cbca413b93dcd917cb32e6f2d6": {
+      "titleKo": "에너지 백서 \"석유 위기 이후 대책으로는 감당할 수 없는 상황\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "5ebbd34609bdc12a55fce88610a3e1aa9a6e681f40c913a39fb800d72d7416d1": {
+      "titleKo": "여성들, 기네스 세계 기록 위해 장난감 자동차 타기 도전",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "b3a9f0d15b9581b867dc5aece2ac058beb187d5d9abb1d44f74f33199893162a": {
+      "titleKo": "아이들 전동 자전거 사고에 부모 형사 책임 증가",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "9ef6fbd0437e042e6c6e4c01d8eb7e687ad937eb8f07f14e32978c193e872c91": {
+      "titleKo": "'에이리언', '피켓 펜스' 출연 배우 톰 스커릿 93세로 사망",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "4c268eb9f06761796cf84fc3c9d92ee61e0d5aac8268e742cbd9bcef4bb84a71": {
+      "titleKo": "대법원, 뉴햄프셔주 유권자 학생증 사용 금지 가능 판결",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "b055340d3d94a37a6f771341ba11bd096cddbd3c0d261630aaeb0e26ef4417d9": {
+      "titleKo": "트럼프, 라마스와미 광고 칭찬…일부 공화당 비판론자들 비판 목소리",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "45261c6e2df3436cd0d89027a91a1ef601ab31e71aab4d06443661d5e4749161": {
+      "titleKo": "톰 스커릿 93세로 사망",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "902f63b0cdda090a23f43adc14aadb61f8e6753d55a0a710baaa187e1f1c0c70": {
+      "titleKo": "[편집자 주] 간츠 후보 사퇴 후 이스라엘 총선, 깊은 정치적 분열 드러내 - 논평",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "2569d0e4acd91141c38856b2ba6503111c478abb265924564ec64596b39bafe6": {
+      "titleKo": "올리브 수확기 폭력·절도, 공개적이고 명백히 규탄해야 - 사설",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "0c4adf5987496ae958ae354ef44ee8245454d0011f9d71610e637d6c35500634": {
+      "titleKo": "고이즈미 방위상, 오키나와 미군 기지 헬기 이착륙장 폐쇄 합의",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "2efbde8188f0815a0fd000ba1eee7576ac486fe6992259b4b61fd322f3ce4685": {
+      "titleKo": "모테기 외상, 미중러 정상회담 관련 미국과 긴밀히 소통하며 대응",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "e8fae329878b756f8339ce9f76d218132403e2594e4174ea22677bac21cee6f2": {
+      "titleKo": "티베트 강진으로 최소 16명 사망",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "037d6c6d3e852fc64480bdaa946d80ddea2ea69fc290e9f04ea6330fd5dd6026": {
+      "titleKo": "밀리폴 카타르, 33개국 기업 참가…드론·AI·사이버보안 기술 전시",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "a82eac7bfbcc5178f4f34339ff664a6d47d1f19be1529a3e4cbcf2bb69b02a20": {
+      "titleKo": "2026년 10월 23일 오전 뉴스 브리핑",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "1ff7e3892088619c4a1c52d9b9af3a100cf4b3f257b08ddf5209264338993780": {
+      "titleKo": "영국 가스 안보 강화 시급…벨기에와의 막판 협상은 근본적 해결책 못 돼",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "7568236cad90020947e2ff9b25fbfa2561bc5f593d4826e7c9f80f6e393ca4d6": {
+      "titleKo": "호소노 부흥상, '상한 초과 사무실 설치' 보도에 '사무적 실수'라며 보고서 정정",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "ecdf0545a1ab2cf1e960741eb552fd4bd37cda901fe12cc27c154419d507e844": {
+      "titleKo": "베네수엘라 국민, 2년 만의 첫 전국 시위서 '선거 실시' 촉구",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "47a14c99cd17423ada3d6be21d62294ab0b02cdaceeb29a2aec9f8b6bccc9b02": {
+      "titleKo": "짐 찰머스, 한 문제 해결이 다른 문제 악화시키는 '딜레마' 직면",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "408d00b2719a34b676bed2f766b9ac64dd21665089ad410d08f354645f03be3c": {
+      "titleKo": "강력 지진 티베트 강타, 16명 사망 - 외신 보도",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "a10d45244163d7a83bc102ed0b012408dfb86d940bf4e67260c3366f98ae0af0": {
+      "titleKo": "IDF 군인, 팔레스타인 차량 발포로 18세 여성 중상 입힌 혐의로 기소",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "a14bd3068f6a1cba2eaeb85956a882f73e14c7ab6308787edd6f74d50d13540b": {
+      "titleKo": "재러드 쿠슈너, UAE·사우디 수십억 달러 자금 접근…이스라엘 은행 계좌도 포함 – 보도",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "a61a1a80a6f681a7e292eb424cd995be19bd5cff0ee6d2f795e2c64b3c1c52c7": {
+      "titleKo": "테러 이후 삶의 취약성: 감사와 절망 사이 어딘가 – 오피니언",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "f34be15cfc309b9f6bee81d15907caa7dcd10de2c52deccaec1a18a30ae6abd8": {
+      "titleKo": "루브르 등 파리 주요 박물관, 시위 중 폭력 우려로 내일 휴관",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "1c547aec235f236e41799f5b14c1f5494f937ec2d3e055fcef2910bfcfde5ca5": {
+      "titleKo": "한국 서울시장, 정치자금법 위반 2심 판결 '무죄'로 역전",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "103510363056e7e19368d7da7e5bf23fe8e4a235c9566e8823f2801ecdb9a92b": {
+      "titleKo": "여성, 캘리포니아 해안 전체 수영 완주하며 역사적 기록",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "2f08f51c53d33f78171092b0e716d04eead385e4395a8c5522a51282986198c0": {
+      "titleKo": "나이지리아 에볼라 감염 여성, 스위스 외교관 부인으로 확인",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "863128bcaad9683b6b2b02c461646e533d2a225ef9cae314de2c40e6f3c3ef06": {
+      "titleKo": "이스라엘 검문소 '대규모 공격' 시도 저지 중 5명 부상 – 이스라엘 당국",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "a077e43dd41efe415624cfa0aa6cde186e9814f872587046c4dc56817777e4c1": {
+      "titleKo": "이와이 코스모 증권 회장, 부정 접속으로 사과…부정 거래 125만 주",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "335433910d9981287b36c614e989b3fe979ea2c7ebfe6bd4ede634bb43c85376": {
+      "titleKo": "“트럼프 위성 서비스 복구 주장” 후 우크라 스타링크 접속 제한…당국자들 밝혀",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "cc9f7247f6076b377b6d98980181b3ade17efd4ec1482facd3fe2284831a6fdd": {
+      "titleKo": "GMO FX 거래 서버에 부정 접속…계좌 부정 조작 상담도 접수",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "cdc6e1b2e8dcd4c88f93667d79cc92c08b863a197561ca29de7bb182fb7b4d37": {
+      "titleKo": "“하룻밤 새 모든 것이 죽었다”: ‘바다의 베이츠 씨’로 불리는 티사이드 어부 출신 활동가",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "31ce927db20842b2f349ba2f6b5000cb34f8a7f009caeb569533e20382451d76": {
+      "titleKo": "벤 그비르, '포스트'에 “네타냐후는 아이젠코트보다 나와 함께해야” -인터뷰",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "0dc840e83c7c15f9c718bb8bbf803ff5f726d894f7733212db6f798335ea8993": {
+      "titleKo": "트럼프-푸틴 러브스토리 다음 장: 우크라이나 팔아넘기기",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "db9784ee7d6369db2865980a5c4c38679774b94abe5f01637eb355675e815f7f": {
+      "titleKo": "2026년 10월 23일 정오 최신 뉴스 브리핑",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "28723029f8dddefe3558c30c5351e74a6e76cba4df0d0c308c8037821e457c37": {
+      "titleKo": "우리는 왜 또다시 리얼리티 TV에 그토록 목말라하는가?",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "4273121e649e605a1552a7c13b0bad5a1f39e793426c5c518ae845697e39b7a9": {
+      "titleKo": "독자 Q&A: 프랑스의 다음 행보는? 유럽 칼럼니스트에게 질문하세요",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "b4aecdda35080ba35999dfdb06317b9ba2104b39adeacc603850a45068f7ca1c": {
+      "titleKo": "개정 황실전범 24일 시행, 황족 수 확보 목표",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "46bd69eb54258e10b1ee47ae2fa10bcb27fb611023f48156cb05fbd6a912c62c": {
+      "titleKo": "다카르 청소년 올림픽 개최, 세네갈 올림픽 열기로 들썩",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "62dd2d38103d680f7fd66510fa41f0780ba824bb2525e1c010d73f065d4b4f02": {
+      "titleKo": "유럽 성장 둔화 속 프랑스 경기 위축 진입: 얼마나 악화될까?",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "5389bd193f13ff957b2f9dd51978a92e65cebdbec30fed4bb9edfa402f3aa304": {
+      "titleKo": "리니어 담합 관련, 국토교통성 다이세이 건설·가지마 건설 영업 정지 처분",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "d266de6c2def139e55481fa0dd14304a91a4dd8d002e860bc33e83c67b343492": {
+      "titleKo": "네팔 히말라야서 시신 2구 발견…실종 일본인 추정",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "b61344ba53b618a432b92c248e1bca9b673ca5a5432931daae5688a5b6f2c808": {
+      "titleKo": "동부 닛코선 사고 발생, 국토교통성 철도 사업자 소집해 재발 방지 회의",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "efe36de0a618df0d2d5c487f352d12017a96f6e90c12df9d6b9b05d855f2b2b0": {
+      "titleKo": "서안지구 총격 사건, 이스라엘인 5명 부상, 팔레스타인 공격 용의자 2명 사망",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "740e1b337cd568d52219fe526d0711a76962f6b3bd725a4c98e25be47a4885c7": {
+      "titleKo": "트럼프, \"대통령 3선 출마할 권리 있다\" 주장",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "835d056aaae77c07a5b1c89fbc69052799b661e41f7da9f4050f735357b7ead0": {
+      "titleKo": "엔화 환율 상승",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "5f672392012933b14d5e07942fd516a7f0cd62f8428ffae8b3b9eb44a9cb5f8d": {
+      "titleKo": "\"쇼핑몰만 열려있다면, 이스라엘인들은 전쟁 범죄와 함께 살 수 있다\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "c108d82c162da6ec5fc8432538b8b9c30e0f81fe22427fc804cf3c07258e88e1": {
+      "titleKo": "선거관리위원회, 선거 앞두고 10월 7일 조사 집회 방송 금지 리쿠드당 요청 거부",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "5ca1c046b5ad401c7dbcdbb305a02b4d9f1f8354b8d0e81c8e6edf094ae15c6e": {
+      "titleKo": "우크라이나, \"스타링크 여전히 제한적\"…트럼프 \"제한 해제됐다\" 발언에 반박",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "c93e88bcaf2423ea82ccfdb0daf88546185f6528f83e2bf1f19f6fbd3a13c1e2": {
+      "titleKo": "호르무즈 인근 유조선 공격 증가하며 UAE 해변에 기름 유출",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "1464a46f106d6802036501e6f484ee3276610897e676e99555a6c0df2c9fa221": {
+      "titleKo": "시가은행과 오사카 이케다센슈HD, 경영 통합 최종 조율",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "b75b0dc3ec55b59ac3010794e7dc960578fb1c53c4de360214d71d63417ca727": {
+      "titleKo": "롱아일랜드 유대교 회당 방화 혐의로 남성 체포, 기소…인명 피해 없어",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "316410deba0e7b75c1fb57df2d56330be4d7ee058fbfe124ba6034c1e46449e5": {
+      "titleKo": "슈퍼 쌀 평균 가격 5kg 2821엔, 10주 연속 하락",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "3012b7d9a6e2315e45c331941e2b012a2ed835a0b05ce00bef0891fdc7aab7d4": {
+      "titleKo": "스리랑카 상징 코끼리 죽음, 서식지 우려 증폭",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "9669faed07b076452110822788983ae09d80f62c4773aee1f6a2cf8c2ba098b9": {
+      "titleKo": "마르세유, 슈투름 그라츠에 패하며 유럽대항전 부진 이어져",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "ca1a219acb130bb2fd73710c169b6a58a35ccae1432e5fd213e0aed96a56a9f9": {
+      "titleKo": "부티지지, 몬태나 상원의원 선거서 민주당 후보 아닌 무소속 후보 지지",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "f74ffe422fda852d95f94f33f5838da0a32de479c7edf198718b0b0a98dfd66c": {
+      "titleKo": "머스크, 미국 중간선거 앞두고 정치 기부금 4억 4500만 달러 돌파",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-23T10:20:32.936Z",
+      "updatedAt": "2026-10-23T10:20:32.936Z"
+    },
+    "0c3d6efc86d1574c08411b2ddc6529a9c92bb2aee13882a25e5ca4ee5d7f16fd": {
+      "titleKo": "러시아가 미국인 스티븐 허버드 석방… 트럼프 확인",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
@@ -43,24 +499,6 @@
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
     },
-    "d081ca070270783fa8decf885510fcb7cf7c9e9ef2386da5d8caf374aaa9d5c7": {
-      "titleKo": "네타냐후, \"평생의 사명\" 강조하며 이스라엘 국민에 '이란 임무 완수' 시간 요청",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "a5f1fd813fd29495011256874716e8f0b2fca242025c7278cd2bac99366e1d9a": {
-      "titleKo": "크리스타 파이크 사형 실패 전, IV팀 \"혈관 터질 수도\" 경고",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "6c485335891ee50ecf961e8358f99278102cbab203fc44db80285f8200d4db5e": {
-      "titleKo": "트럼프, \"이란이 유가 인상 위해 선박 공격 조작\" 주장",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
     "731ba9ca9c2569e7c9015940daf1bddb2e7660659b269660e314f49ba5a0567b": {
       "titleKo": "전시회, 폐기물 감축 및 지구 보호에 있어 디자인의 역할 다뤄",
       "model": "gemini-2.5-flash",
@@ -73,38 +511,14 @@
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
     },
-    "44fce54465140376df4fb881366a234f4e3509ffb3fe8e85bff5bd6a7e0a56ea": {
-      "titleKo": "[영상] 픽업 뉴스 (10월 23일)",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
     "79d0ae98ed91e43fbebd69e4a0b097dd9b98d8649a36338398eea0d10aa042b2": {
       "titleKo": "영상: 혼잡 교차로 진입 혐의로 아랍인 버스 운전사 제압하는 경찰관",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
     },
-    "81c101d5c1df634f4cb72f1da8f9b1f7a8f7f1d606990d90518d255c059acea4": {
-      "titleKo": "루이스 해밀턴, 아프리카 그랑프리 출전 위해 2030년대 초반까지 선수 생활 연장 목표",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "047f37966076a119fcc65e7783bc4ffac15b158184335deb115e5e15af48a290": {
-      "titleKo": "영상: 가톨릭 주교들, 백악관 집무실에서 트럼프 위해 기도",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
     "6de09cedc6565e694a918d132336b2b9e2c62182026a5d7aaddee1f862772938": {
       "titleKo": "AI 주식 급락, 유가 급등 속 전 세계 시장 압도",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "1b46c80d6bc5486b6139c6e279f0061415c58062173d474071da82bc1842189d": {
-      "titleKo": "여론조사: 종교적 이스라엘인들, 리쿠드당 떠나 극우 대안으로 선회",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
@@ -121,38 +535,8 @@
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
     },
-    "2251a2d2a3540ff9404d2b4c1b81c696eaec24f0fec90c4e35cd17d26651826b": {
-      "titleKo": "아랍에미리트 외교관, 인권 문제 우려에도 차기 유엔 사무총장 될 수도",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "14050881abe00c4fe2d3affd44ee470efad669f19c8b5818791eed5a759566a1": {
-      "titleKo": "라이브: ABC 뉴스 라이브",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "e96610d0fa35ffa9e7dde2f7a97e1969257975740d87527fbafe407e2a4056af": {
-      "titleKo": "이스라엘은 희망 위에 세워졌다: 이번 선거가 구원할 마지막 기회일 수도",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
     "69cbfd9123a231d6d9a1982a636be8877b4bda9323dcbdbc44b1f15df23d9603": {
       "titleKo": "라빈, 92년 아랍 정당에 의존해 승리…아이젠코트는 무엇을 할까?",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "fa49fd83f7e149bf51e1e5138d0e3f0ae2010e9da03cb2e56878e2c6fc9397de": {
-      "titleKo": "러시아군, 우크라이나에 대규모 공격…2명 사망 30명 이상 부상",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "09d9ec58426f66b48ef258e7446e787faa68ba10cdef05a3e3bbbb45dc86ec55": {
-      "titleKo": "연방 당국, 버지니아 유력 민주당 의원 마약 스캔들 혐의 기소",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
@@ -163,62 +547,8 @@
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
     },
-    "e8cee0cf5f8b739685b2b68849060f662cd1cab6060381dffc5bd627e0a5f533": {
-      "titleKo": "전 인질 엘카나 보봇, \"신앙과 가족이 하마스 억류에서 살아남게 도왔다\" 회고",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "4b7f5373d08b722e7824629bc587f138a872ab7f1876e4efe161fa9d18f87578": {
-      "titleKo": "허커비, \"평화 위원회, 트럼프의 가자 평화 계획 이행 능력 의문\" 제기 - 보도",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
     "f93f6e208c030721f9f2b2a207f815ad54ee5a88b915b6aafae578c32272f543": {
       "titleKo": "러시아-우크라이나 분쟁, 대화 재개 전망에도 계속",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "2f92db72eeb6496840267db08ce63a2adf4afc8e0a90100dc41d21fea5599297": {
-      "titleKo": "프랑스, \"샤몬다 바이러스의 인간 감염 첫 확인\"",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "d698aa2944608ccfa04232b151d2cbd4f30d5db51a79522177b47111871f54e9": {
-      "titleKo": "'힐탑 유스', 요르단강 서안 결혼식서 무기 휘두르고 반시오니스트 노래 부르는 모습 포착돼 - 보도",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "be231f446d447154d9a92b61dd47a20f926394dcb2a07e1a3a80e755986d8634": {
-      "titleKo": "구금 중인 수치 여사와 통화한 차남 \"생존 확인돼 다행이다\"",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "3c164d78a990a47b818b5cab6c721ba8e5480acd340acfdb665764549a0a545d": {
-      "titleKo": "재향군인들, \"의회 승인 없이는 트럼프 기념 아치 막아달라\" 연방 판사에 요청",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "ba41d7283d37a72fe61be5df33ccc4b7383732b953f829e0d432ddb443379bb3": {
-      "titleKo": "일본제철 산하 US스틸, 4700억 엔대 투자 계획 발표",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "f20ee127214733594bdec9ac63223aad86eb3797ef45ab11e589ef2f3337f3d5": {
-      "titleKo": "자녀 전동 오토바이 사고로 더 많은 부모들 기소 직면",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "118d9f21932a55b6aefa4db9a2b41bacfa1ed5cbca413b93dcd917cb32e6f2d6": {
-      "titleKo": "에너지 백서 \"석유 위기 이후 대책으로는 감당할 수 없는 상황\"",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
@@ -229,68 +559,8 @@
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
     },
-    "5ebbd34609bdc12a55fce88610a3e1aa9a6e681f40c913a39fb800d72d7416d1": {
-      "titleKo": "여성들, 기네스 세계 기록 위해 장난감 자동차 타기 도전",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "b3a9f0d15b9581b867dc5aece2ac058beb187d5d9abb1d44f74f33199893162a": {
-      "titleKo": "아이들 전동 자전거 사고에 부모 형사 책임 증가",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "9ef6fbd0437e042e6c6e4c01d8eb7e687ad937eb8f07f14e32978c193e872c91": {
-      "titleKo": "'에이리언', '피켓 펜스' 출연 배우 톰 스커릿 93세로 사망",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "4c268eb9f06761796cf84fc3c9d92ee61e0d5aac8268e742cbd9bcef4bb84a71": {
-      "titleKo": "대법원, 뉴햄프셔주 유권자 학생증 사용 금지 가능 판결",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "b055340d3d94a37a6f771341ba11bd096cddbd3c0d261630aaeb0e26ef4417d9": {
-      "titleKo": "트럼프, 라마스와미 광고 칭찬…일부 공화당 비판론자들 비판 목소리",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "45261c6e2df3436cd0d89027a91a1ef601ab31e71aab4d06443661d5e4749161": {
-      "titleKo": "톰 스커릿 93세로 사망",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
     "5cd7706d6b68d0c61f4e62a81fc6eb5840af12d8b46c75138ca729d8baaefdca": {
       "titleKo": "유대아 교차로 인근 총격 테러로 여러 명 부상, IDF 테러범 추적 작전 개시",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "902f63b0cdda090a23f43adc14aadb61f8e6753d55a0a710baaa187e1f1c0c70": {
-      "titleKo": "[편집자 주] 간츠 후보 사퇴 후 이스라엘 총선, 깊은 정치적 분열 드러내 - 논평",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "2569d0e4acd91141c38856b2ba6503111c478abb265924564ec64596b39bafe6": {
-      "titleKo": "올리브 수확기 폭력·절도, 공개적이고 명백히 규탄해야 - 사설",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "0c4adf5987496ae958ae354ef44ee8245454d0011f9d71610e637d6c35500634": {
-      "titleKo": "고이즈미 방위상, 오키나와 미군 기지 헬기 이착륙장 폐쇄 합의",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "2efbde8188f0815a0fd000ba1eee7576ac486fe6992259b4b61fd322f3ce4685": {
-      "titleKo": "모테기 외상, 미중러 정상회담 관련 미국과 긴밀히 소통하며 대응",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
@@ -307,56 +577,14 @@
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
     },
-    "e8fae329878b756f8339ce9f76d218132403e2594e4174ea22677bac21cee6f2": {
-      "titleKo": "티베트 강진으로 최소 16명 사망",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
     "dc9ec44817f3c13d3ba776e8acb3cd9d632db0e2ff177f77a5a29062c9fbf70d": {
       "titleKo": "요르단강 서안 총격 테러 부상자 4명으로 늘어…2명 중상",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
     },
-    "037d6c6d3e852fc64480bdaa946d80ddea2ea69fc290e9f04ea6330fd5dd6026": {
-      "titleKo": "밀리폴 카타르, 33개국 기업 참가…드론·AI·사이버보안 기술 전시",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "a82eac7bfbcc5178f4f34339ff664a6d47d1f19be1529a3e4cbcf2bb69b02a20": {
-      "titleKo": "2026년 10월 23일 오전 뉴스 브리핑",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "1ff7e3892088619c4a1c52d9b9af3a100cf4b3f257b08ddf5209264338993780": {
-      "titleKo": "영국 가스 안보 강화 시급…벨기에와의 막판 협상은 근본적 해결책 못 돼",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "7568236cad90020947e2ff9b25fbfa2561bc5f593d4826e7c9f80f6e393ca4d6": {
-      "titleKo": "호소노 부흥상, '상한 초과 사무실 설치' 보도에 '사무적 실수'라며 보고서 정정",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "ecdf0545a1ab2cf1e960741eb552fd4bd37cda901fe12cc27c154419d507e844": {
-      "titleKo": "베네수엘라 국민, 2년 만의 첫 전국 시위서 '선거 실시' 촉구",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
     "12a85f4bdda6e73bea0c4aa68c44bd22377da55fbd2c7a6c08b75f9f031e158e": {
       "titleKo": "의료진 \"헤브론 인근 요르단강 서안 총격 테러로 이스라엘인 6명 부상\"",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T05:23:24.944Z",
-      "updatedAt": "2026-10-23T05:23:24.944Z"
-    },
-    "47a14c99cd17423ada3d6be21d62294ab0b02cdaceeb29a2aec9f8b6bccc9b02": {
-      "titleKo": "짐 찰머스, 한 문제 해결이 다른 문제 악화시키는 '딜레마' 직면",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-23T05:23:24.944Z",
       "updatedAt": "2026-10-23T05:23:24.944Z"
@@ -441,12 +669,6 @@
     },
     "0fe831a00aa39c0a771b933ddbd2446140dc9ebdf0fae739d62b215ca367d666": {
       "titleKo": "베네수엘라 국민, 약 2년 만의 첫 전국 시위서 \"선거 실시\" 촉구",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T00:41:22.963Z",
-      "updatedAt": "2026-10-23T00:41:22.963Z"
-    },
-    "408d00b2719a34b676bed2f766b9ac64dd21665089ad410d08f354645f03be3c": {
-      "titleKo": "강력 지진 티베트 강타, 16명 사망 - 외신 보도",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-23T00:41:22.963Z",
       "updatedAt": "2026-10-23T00:41:22.963Z"
