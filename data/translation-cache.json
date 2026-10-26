@@ -1,14 +1,320 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "1ecaec60d6f463b721ead33dc9a80e6e621ecb82b1de3aa9d1464926f0a0ecfe": {
-      "titleKo": "프랑스 시위대와 경찰 충돌 속 1,000명 이상 체포",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
     "e7bb3f5d796cf75a6cb85677a959d2919daeabf8c64a6baddf32dea1940808c4": {
       "titleKo": "베네수엘라 야권 지도자 마리아 마차도, 수개월 망명 끝에 귀국",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "1fd1598f5ffcdbcd968bc64673c3c6a20a7b876a07018b0651079b99f5546bf4": {
+      "titleKo": "【영상】픽업 뉴스 (10월 26일)",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "3d8cc0542cb1535e4e4d13a25427d68079d8490f5b57adee4b0ac90c6ee0a7f4": {
+      "titleKo": "이스라엘군, '선거 전 이란 공격 놓고 자미르-네타냐후 충돌' 보도 부인 유보",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "c83e7499b6ec5dfe18e671a086c54099e4cdd6f4ff0fdaa9fc11824131b7d41e": {
+      "titleKo": "메카 방위 조약부터 테헤란 회담까지: 중동 안보 지형 변화하나?",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "b85306bd233f4e66c7059e72d37eaded120729892eb5cc74c7c73fe59076c4ad": {
+      "titleKo": "영국, 엘 파셰르 '강간 캠페인' 연루 수단 군부 지도자들 제재",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "9486ce33ff1c6aa71f6f0225cf0efac9657b59df53ec78d5d269f317d6dbc772": {
+      "titleKo": "AI 기업 앤트로픽, IPO 준비…중요한 발걸음 내딛어",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "952174769ee88c8ed310fcee41c1468406d7c7d85759d7aa8032e12a9a62ecac": {
+      "titleKo": "2026년 미국 중간선거: 게리맨더링의 역사",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "aed8b3e73c76f5af0aa960f10a4e9660cfa6f5a9bb5793c8d064cf95b432715b": {
+      "titleKo": "만화가, '남성 전용' 일본 새 황위 계승법에 소송 제기",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "4fa756f7e2efcbff76746e8cd417f129df05f9611b95c357e28e962c718308bb": {
+      "titleKo": "앤트로픽, 블록버스터급 주식 상장 앞두고 인류에 '재앙적 위험' 경고",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "f4b3ca9b33352559184f4ec56c45b8bcf3876c301999feb9c99bb357af8f43ee": {
+      "titleKo": "이란, 트럼프의 공격 위협 일축… '외교는 계속 진행 중' 밝혀",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "a85e8a22f3c14fb3d9c4ffc4842db544518942cf6b7de182de533d9c8b212a75": {
+      "titleKo": "세르비아, 노련한 통치자 부치치 학생 주도 시위대에 선거 패배... 축하 물결",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "61828f97b3cea45a8ece37496d87c560e599da6b619698da0f4c984381f7ba1f": {
+      "titleKo": "미 중간선거: 오바마, 민주당 유세서 트럼프 '혼돈과 잔혹함' 맹비난",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "8d0700b56ee8c17ca64d271ae96bc4efd19e239886b96604e5ed92490f5d55f8": {
+      "titleKo": "DR 콩고, 에볼라 경보 대응 중 공격받아 간호사 사망",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "bc9b25ebaa91154876ed400784d2fac9b139f8d09bf287199cce12dac9d0cfe4": {
+      "titleKo": "앤트로픽, AI 주도권 경쟁 위해 IPO 신청",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "14050881abe00c4fe2d3affd44ee470efad669f19c8b5818791eed5a759566a1": {
+      "titleKo": "라이브: ABC 뉴스 라이브",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "9a7369464dcb7cd81d936d16c753c0b19264ead0af07fa317ee7c452c35e84ea": {
+      "titleKo": "트럼프, 네타냐후의 추가 지지 요청 논의 부인: \"나는 그것에 대해 말한 적 없다\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "fb7599c38d6aab80ebd38c7cdf89e639f26d440d5be06de5ffbffd858ca9dd19": {
+      "titleKo": "외교부, 이스라엘 '집단학살' 비난 UN 보고서 맹비난하며 \"'지하드' 정당화\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "83b962d88e476ad818514a32e26d4e228e6d335ae0fbb0288dbf1c6780b5ec80": {
+      "titleKo": "이스라엘의 진실의 순간: 크네세트 선거, 미래 미-이스라엘 관계에 중대 - 오피니언",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "5311aa398e851422da24657ff8dff1d026aa214775f79397c56a74c07f503288": {
+      "titleKo": "혼란스러운 프랑스 시위 지도자들, 정부 제안 거부 \"더 많은 것을 원한다\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "ca437da278f62401cecc51cc4ceba9b994a4919a754d39a6a4b9d30ba54e9d01": {
+      "titleKo": "FBI, 기밀 국방·중동 정보 기자 유출 혐의로 CIA 계약직 직원 체포",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "d5b0ac4c59a64bc9c09daffea00bfdcf1aa5d71009da565c347533664eb5a123": {
+      "titleKo": "\"우리는 그들이 말하는 대로 한다\": 예시바 학생들, IDF 징집 강제에 대한 대응 랍비에게 위임",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "8f2b5b2737d89b60547879dc2a162dd120608da717ac0e01b33833d01dd81a91": {
+      "titleKo": "IDF, 주말 작전 중 가자지구 공습으로 하마스·이슬람 지하드 테러범 4명 사살",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "da11afbc0aea18c1417216f7650cc9478abe0e08f2107cfadcc84e32510de192": {
+      "titleKo": "국가, 헤브론 사업장 철거 사전 심리 없이 진행됐다고 대법원에 밝혀",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "c5beaacaf4ee552048d2df605eb08652466f9d3eaf33f690a9ce8210c4a8e780": {
+      "titleKo": "이란으로 끝나는 캠페인, 그리고 신뢰의 문제 - 분석",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "0c8314f26f9a0d26d137f67fc0fe5cce85d515d44b2e2498aae614c3a2044791": {
+      "titleKo": "웨일스 유대인 전문가, '유대인 수 적다고 반유대주의 없던 건 아냐' 포스트지 인터뷰",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "24b56c252714720d586a87e8634c126e63d4c8c70acffbc2f3cebd749fff19bb": {
+      "titleKo": "트럼프, 과거·향후 선거 유권자 사기 신고자에 100만 달러 보상금 제안",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "88926c0a3fa8bbce37383fbb565bb97f703d44163c20000d0f8e6b8090b6af13": {
+      "titleKo": "뉴욕타임스, 유엔 알바네세의 '미디어 학살' 주장에 '잘못되고 오해의 소지 있다' 맹비난",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "e184f096902fcb4c31ebd675a43a77908d4811224b58b9e4fe539188d3426238": {
+      "titleKo": "잠수함 스캔들: 차히 리버 공보 고문, 뇌물 알선 유죄 판결",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "0d2265049ccd5ece50348b88e8ab6d7cb3503ddff5eb8cfaa5cff8ea20446e1d": {
+      "titleKo": "장애인 단체, 국가에 '기간 짧을 경우 투표 환경 개선' 요구",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "51c1ae4480fcfc1bb93649ed13fdab2f3cd8dd02abb3c5078d2bb2993e96a7f6": {
+      "titleKo": "램비, 핸슨이 '건강 상태 조롱 만화'에 사과 안 했다고 밝혀",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "3682fc1f36868c6c62262b681bf56a8026fb9fea0e4a46c92ec94eaf28dd1657": {
+      "titleKo": "연준, 이번 주 금리 인상 가능성 있나?",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "2adaa6a0c6019445dd85c5d69df901b0233f3c309443c3159199c38190021923": {
+      "titleKo": "미 공화·민주 전 주지사들, 사우스캐롤라이나 상원의원 후보에 이례적 공동 지지",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "b9869e1ee1f39cf611e410c6b357482b76c5c52e82368d7074ef1907426b5924": {
+      "titleKo": "트럼프, 측근 패배에 ‘조작된’ 브라질 대선 맹비난",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "f68188111c030250ba99d608df2dc7f7b91f254f42463869fa8b289c8ffc27fa": {
+      "titleKo": "룰라, 극적인 브라질 대선 역전승으로 4선 성공",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "4b2f181f24e1e44377c7a18e3411459317f1936418057ed063fe0834a04c4594": {
+      "titleKo": "트럼프, 선거 사기 유죄 판결 정보에 100만 달러 제공 약속",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "e556d1505b010f579d2914d7d79c5460d7544fe4adbaeea94bbc68a775767bab": {
+      "titleKo": "핀란드 국방장관 “단결해 러시아 압력 강화해야”",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "dd39fff6056068dba30c9e0dabd7060633d9fc4549be00760b7a012f37d3290c": {
+      "titleKo": "\"그와 논의한 적 없다\" 트럼프, 네타냐후 2차 지지 총리 압력설 부인",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "cf4fb998759d332afd51225cbdc4ca5b13bccad0d91eb31d4e9a6282525843e9": {
+      "titleKo": "유엔 조사단 \"이스라엘, 서안 지구서 반인도적 범죄 저질렀다\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "5c8528ecaa8aa719294cc626684bcc6afc04ecf5345bd71d13585b62175d2e2b": {
+      "titleKo": "주교들, 트럼프와 사진 찍은 백악관 회동에 '한탄'",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "6615a53bd622a6afa05127a94cf7a36f69f74e7f3ad0ac3cdaa3fe60a2eab8b5": {
+      "titleKo": "중의원 의원 정수 31명 삭감안, 오늘 정당 간 협의",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "aadf475cdae356b5ccb32cfdfd3cf2164462d88d284a2fca0352ca866d554f79": {
+      "titleKo": "GMO, 해커 집단 협박 계속되자 주의 당부 한층 강화",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "7b06694f418bc7316f22e48e06af00d30f7f78e61f8de002f2dd019db2c7064c": {
+      "titleKo": "프랑스, 시위 분노 잠재우려 학생들 새 대학 입학 허용 약속",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "a7dfd62bc9587041b1c20e3a77654225d5ccdf123cc573e3016467ebed9ba654": {
+      "titleKo": "선거 승리 거둔 세르비아 학생 운동, 권력 장악 노려",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "ee63fc9380818b46e2f924940a72e8a3162716bded02a47e2d5f27271bad2c4f": {
+      "titleKo": "'스타트렉' 체코프 역 배우 월터 코닉, 90세로 별세",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "ee33e52275458b53ac01998dfc3dc8abaa192a1879a08d95555cb5b3a2e6d0e0": {
+      "titleKo": "요르단, 교회 공격범 '테러 단체' 연계 후 시리아 남부 공습",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "dee68b8127df0b460d7306999dc92c78527ef10b13d0fe464f1296f18b34ffa4": {
+      "titleKo": "이스라엘 변호사, 외국 요원 접촉 및 사법 방해 혐의로 기소",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "04cbda358835bdc0fdb87e26b33a203534a8b68604968b59dcfb633c2571b941": {
+      "titleKo": "법원, \"트럼프 행정부, 제임스 코미 딸 불법 해고\" 판결",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "aa8c251faf2a2aaf356b5d6776c70c0125fe1bad2a7e923f65bab579bf2fcb90": {
+      "titleKo": "이스라엘 베이테누당, \"왓츠앱 통한 선거 개입 가능성\" 주장",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "c825dd40d3aad980e57e372c7ccb696e1cc993eccd801c146ec692c2ae8d6a75": {
+      "titleKo": "美 IT 대기업 메타, 주식 발행으로 최대 15조 엔 조달…AI 대규모 설비 투자 방침",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "58b5016838a9c4d42c11a89a0137a823422b653bb4a0c585ad2e0912998599fa": {
+      "titleKo": "FTC, \"달러 제너럴, 수년간 계산대에서 고객에게 과다 청구\" 밝혀",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "e86b3b1b5307f686115e06d6b93b86d0d98588ee6ed01f2cd8b807f9475890c5": {
+      "titleKo": "레바논 소식통, \"헤즈볼라, 이란 자금으로 이스라엘과 전쟁 재개 준비 중\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "6238ccc663e1721dddfda73e02ce4962d456dfcecefa6c413ddfeafdf0b0c064": {
+      "titleKo": "'컴백 키드' 룰라, 어떻게 보우소나루를 꺾었나?",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-10-26T20:28:39.765Z",
+      "updatedAt": "2026-10-26T20:28:39.765Z"
+    },
+    "1ecaec60d6f463b721ead33dc9a80e6e621ecb82b1de3aa9d1464926f0a0ecfe": {
+      "titleKo": "프랑스 시위대와 경찰 충돌 속 1,000명 이상 체포",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-26T15:10:50.892Z",
       "updatedAt": "2026-10-26T15:10:50.892Z"
@@ -51,12 +357,6 @@
     },
     "3b1d210cabfda39dbf17e6e141c30a6aecb2f3ee6900b610805722d465fb473f": {
       "titleKo": "최신: 브라질, 룰라 대 트럼프 동맹 플라비우 보우소나루의 긴장된 결선 투표 진행",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
-    "1fd1598f5ffcdbcd968bc64673c3c6a20a7b876a07018b0651079b99f5546bf4": {
-      "titleKo": "【영상】픽업 뉴스 (10월 26일)",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-26T15:10:50.892Z",
       "updatedAt": "2026-10-26T15:10:50.892Z"
@@ -181,32 +481,8 @@
       "translatedAt": "2026-10-26T15:10:50.892Z",
       "updatedAt": "2026-10-26T15:10:50.892Z"
     },
-    "3d8cc0542cb1535e4e4d13a25427d68079d8490f5b57adee4b0ac90c6ee0a7f4": {
-      "titleKo": "이스라엘군, '선거 전 이란 공격 놓고 자미르-네타냐후 충돌' 보도 부인 유보",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
-    "c83e7499b6ec5dfe18e671a086c54099e4cdd6f4ff0fdaa9fc11824131b7d41e": {
-      "titleKo": "메카 방위 조약부터 테헤란 회담까지: 중동 안보 지형 변화하나?",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
-    "b85306bd233f4e66c7059e72d37eaded120729892eb5cc74c7c73fe59076c4ad": {
-      "titleKo": "영국, 엘 파셰르 '강간 캠페인' 연루 수단 군부 지도자들 제재",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
     "7369c7b45c89d98d1d34a62f6e9755197749645f13e19a2942891ab2f41d6593": {
       "titleKo": "헤즈볼라, 이란 자금 지원받아 새 역내 전쟁 준비 중인 것으로 알려져",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
-    "9486ce33ff1c6aa71f6f0225cf0efac9657b59df53ec78d5d269f317d6dbc772": {
-      "titleKo": "AI 기업 앤트로픽, IPO 준비…중요한 발걸음 내딛어",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-26T15:10:50.892Z",
       "updatedAt": "2026-10-26T15:10:50.892Z"
@@ -271,24 +547,6 @@
       "translatedAt": "2026-10-26T15:10:50.892Z",
       "updatedAt": "2026-10-26T15:10:50.892Z"
     },
-    "952174769ee88c8ed310fcee41c1468406d7c7d85759d7aa8032e12a9a62ecac": {
-      "titleKo": "2026년 미국 중간선거: 게리맨더링의 역사",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
-    "aed8b3e73c76f5af0aa960f10a4e9660cfa6f5a9bb5793c8d064cf95b432715b": {
-      "titleKo": "만화가, '남성 전용' 일본 새 황위 계승법에 소송 제기",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
-    "4fa756f7e2efcbff76746e8cd417f129df05f9611b95c357e28e962c718308bb": {
-      "titleKo": "앤트로픽, 블록버스터급 주식 상장 앞두고 인류에 '재앙적 위험' 경고",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
     "31156e242c4ff229c78f66906653005602ede5c2d279cfece023bd8ae05e0c53": {
       "titleKo": "프랑스 대통령, 학생들 요구에 '구체적 조치' 약속",
       "model": "gemini-2.5-flash",
@@ -307,20 +565,8 @@
       "translatedAt": "2026-10-26T15:10:50.892Z",
       "updatedAt": "2026-10-26T15:10:50.892Z"
     },
-    "f4b3ca9b33352559184f4ec56c45b8bcf3876c301999feb9c99bb357af8f43ee": {
-      "titleKo": "이란, 트럼프의 공격 위협 일축… '외교는 계속 진행 중' 밝혀",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
     "ac16b5f57959eb56023bfed46272066d558b38e8e11c580f0eaa28c4401fa890": {
       "titleKo": "룰라, 브라질 대통령 4선 성공… 보우소나루는 결과 불복",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
-    "a85e8a22f3c14fb3d9c4ffc4842db544518942cf6b7de182de533d9c8b212a75": {
-      "titleKo": "세르비아, 노련한 통치자 부치치 학생 주도 시위대에 선거 패배... 축하 물결",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-26T15:10:50.892Z",
       "updatedAt": "2026-10-26T15:10:50.892Z"
@@ -337,26 +583,8 @@
       "translatedAt": "2026-10-26T15:10:50.892Z",
       "updatedAt": "2026-10-26T15:10:50.892Z"
     },
-    "61828f97b3cea45a8ece37496d87c560e599da6b619698da0f4c984381f7ba1f": {
-      "titleKo": "미 중간선거: 오바마, 민주당 유세서 트럼프 '혼돈과 잔혹함' 맹비난",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
     "bde9282dfaa2e39d8655d3f85257865b9405785b5232a4e15beba22e316b1872": {
       "titleKo": "트럼프 평화 위원회, 바이든 유대인 담당관 영입... 의회 대외협력 총괄",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
-    "8d0700b56ee8c17ca64d271ae96bc4efd19e239886b96604e5ed92490f5d55f8": {
-      "titleKo": "DR 콩고, 에볼라 경보 대응 중 공격받아 간호사 사망",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-26T15:10:50.892Z",
-      "updatedAt": "2026-10-26T15:10:50.892Z"
-    },
-    "bc9b25ebaa91154876ed400784d2fac9b139f8d09bf287199cce12dac9d0cfe4": {
-      "titleKo": "앤트로픽, AI 주도권 경쟁 위해 IPO 신청",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-26T15:10:50.892Z",
       "updatedAt": "2026-10-26T15:10:50.892Z"
@@ -3675,12 +3903,6 @@
     },
     "2251a2d2a3540ff9404d2b4c1b81c696eaec24f0fec90c4e35cd17d26651826b": {
       "titleKo": "아랍에미리트 외교관, 인권 문제 우려에도 차기 유엔 사무총장 될 수도",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-10-23T10:20:32.936Z",
-      "updatedAt": "2026-10-23T10:20:32.936Z"
-    },
-    "14050881abe00c4fe2d3affd44ee470efad669f19c8b5818791eed5a759566a1": {
-      "titleKo": "라이브: ABC 뉴스 라이브",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-10-23T10:20:32.936Z",
       "updatedAt": "2026-10-23T10:20:32.936Z"
