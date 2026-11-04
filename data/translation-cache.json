@@ -1,6 +1,318 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "4cb9b9e37a31d88c60f259c0537cdff8d07bea2aca5673139ee396fb17d10b1a": {
+      "titleKo": "대법원, 오하나 판결 위반 인정…감사원장 선출은 다음 크네세스로",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "4f68616427457242968ee80408112d39a4627290fe020db02d9055f9d82c6e73": {
+      "titleKo": "미국 중간선거 결과, 관세 경감 희망하는 캐나다인들에게 '승리'",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "c4a54accff9269b87e5145db1a22978f8a621025f06980d2d4526c4e88046b43": {
+      "titleKo": "민주당, 부패 분노가 중간선거 참패 이끌자 트럼프 진영에 '변호사 선임' 경고",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "e6aa74c8779df2152825c5cd0df209d2d39d0df400c795621ecdf4e4b3c95536": {
+      "titleKo": "승리인가 패배인가? 11월 6일자 가디언 위클리 심층 분석",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "8bafeb965ca2343d0532c2e6ad001c46dd3ac995be41de04b3d2467288084f06": {
+      "titleKo": "이란 \"미국 선거 결과, 미국인들이 전쟁 거부 보여줘\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "925d65c0776c3fe3c8c87566201aed8ca528641e2f2db7cbd7df5c7d4ef2ba08": {
+      "titleKo": "민주당 하원 다수당 확보, 트럼프 지지율 '역대 최저'",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "14ab5ec3265676acded62ec91b70761b1899426fb0d23f4dbb552a51522a4a2f": {
+      "titleKo": "'세대당 한 번 있을 일': 역사적 선거는 트럼프와 MAGA 운동에 대한 충격적인 거부",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "139ddab28b235d57c7e202bac3f4694e22685873aded56e30d8ed1b3d83e8dad": {
+      "titleKo": "뉴욕 유대인 지도자 5명, 이스라엘 아랍인 역대 최고 투표율 후 '정치적 파트너십' 촉구",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "302f971e80584d827fb490600995868788294c2a43868e2ee73400676598ce07": {
+      "titleKo": "우크라이나 \"보디캠 영상, 치명적인 러시아의 이중 폭격 보여줘\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "fbef58fa8bdf4e57b7dff6cb2e94a2e0616416b39bd8ca7543fa6b84b8419c25": {
+      "titleKo": "민주당 의회 장악 후 중간선거 후폭풍 시작",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "9091240edbf99b9143b080b18d34b90f495423d3fcc04fdcb876b3d239d966d5": {
+      "titleKo": "브라질 산타클로스 학교, 구세주 그리스도상 앞에서 졸업식 거행",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "36bb2acf637c54a2ca3abd8a70da0ba38d8f15a733543d2f3660c114e1cfaa14": {
+      "titleKo": "일본우편, 사이버 공격으로 해외 배송 'UGX' 일부 중단",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "a1b4bf5ce1cfde7c85ff8325f3db46c37b78771c2595265be167b08da604f858": {
+      "titleKo": "젤렌스키, \"미 대선 결과, 우크라이나 지원 확대 가져오길 기대\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "f5c59b6d16e3f12e8225030b688603d71a6c50a34e73bb3e6c785d44dc06dc70": {
+      "titleKo": "마이크 존슨, 중간선거 패배 후 공화당 대표 재선 불출마 - 보도",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "fd7164042c6c9a96130d2f2c08d275399fecbbe4df81b5a23d85154c69d26c10": {
+      "titleKo": "미시간 상원의원 당선자 엘사예드, \"트럼프가 옳다\"…이스라엘 지원 중단 계획 동의",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "b5ca44c359a1ffbc4be4e8ab88a82921166886a6c579f7c7e83d983be99ad571": {
+      "titleKo": "뉴욕 다우 평균 주가, 1569달러 상승 마감…미 정치 혼란 회피에 매수세",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "b96aa00a0328075fac161bb166862f3a271f7d12c2e3d4724451d7152c8b610e": {
+      "titleKo": "2026 미 중간선거 실시간: 접전지 개표 지속, 공화당 책임론 시작 속 민주당 승리 추가",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "9214ae80ef1b61f9f989f34e7b70388fcd34b833515afcc47ad8a6594c318172": {
+      "titleKo": "미시시피·알래스카 상원 선거 초접전 최신 소식",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "6678e6ec1160af0e320a2dcc81873be90c0e8adbb2a0968b81effc0a9a8766bd": {
+      "titleKo": "민주당 인허가 법안 발의자들, \"새 미 의회 기다리지 않을 것\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "abfe1c0e1fe904263b98b19a639a89992bb7f7411acb99639d97263619812ccc": {
+      "titleKo": "다카이치 총리 동정 2026년 11월 4일",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "0b49cf12e86a075e6e211a6ec5b1b745800844f3cda5ad94a263b44dec9aadd7": {
+      "titleKo": "트럼프, 이란 전쟁 여파 속 헤그세스 교체 가능성 일축",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "101aba035a29f96aae9e506cfb8b01d78b8fcea3d442f7170bad03d6306a2436": {
+      "titleKo": "“우리는 이제 막 시작했을 뿐”: 중간선거 압승, 민주당 정치권에서 반시오니즘 일반화",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "57e0e3e0f41a3d3e5513f3f8e0de1094dbb80bbe6da82f75498c6eed803faa9d": {
+      "titleKo": "힐러리 숄튼 하원의원, 압둘 엘-사예드 상원 승리 및 민주당 중간선거 대승 관련 발언",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "40d126fa81484d7a642253917acbdf5475026a8c29f8ee69ca322ee4b0e132f8": {
+      "titleKo": "민주당, 상원 장악 승리 — 실시간 업데이트",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "e09d5217ad67c5c4314ad4434b771a31d7c55cf66a21b41873ded1897cb865ee": {
+      "titleKo": "민주당 중간선거 승리, 워터게이트 이후 성과 넘어서… 디샌티스, 공화당에 암울한 전망 제시",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "f2b1690a1381a56884eecdc3bdf26a8757801354f825728ba0f7b114839a67ad": {
+      "titleKo": "뉴욕 공화당, 이스라엘·맘다니 문제로 유대인 유권자 구애했지만 결국 패배",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "20164da86a8c869314d37daad00a60f769aa442008476fe0fd577efc01ed6087": {
+      "titleKo": "공포 조장 캠페인: 빅토리아주 주요 정당, 선거 광고 속 AI 생성 지도자 영상 놓고 공방",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "1821fc5ab055fe4d378796710b66f68c548c309a9a1abdfe65eb4854c331c901": {
+      "titleKo": "이란 정치·종교 지도자들, 전쟁 임박 속 핵무기 지지 입장으로 전환 – 보도",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "7334e30dbe341d4b0f3c9353ca7c0b3b198adb1ca6f473d7d16d50a10ad94d34": {
+      "titleKo": "데이비드 존스 법정관리 돌입…매장 폐쇄·수천 명 일자리 위협 예상",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "49fd248cf04f1c1bb5502b00c62ed35f36f3627bbaeb6c8ae3e56ecd4d51ff4f": {
+      "titleKo": "JR 우치보선 운행 재개",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "865892e843db2c945f2ba49acb81f8fed83e9a3139f98ecb2760f8787428dfb7": {
+      "titleKo": "위스콘신 유권자들, 비상사태 시 예배의 자유 투표 안건 부결",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "bcf9cdc1701ac79edfe3c489c947722a3237ef46379e084eaf33e8e3132a4318": {
+      "titleKo": "호주, '거세된' 트럼프 행정부 대처 고심…'문제는 경제' 교훈 명확",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "abc6ca37341b0afdcbe70a856c4045c4f7172133dd3b0d6406297c8cae74e817": {
+      "titleKo": "전문가들 \"중간선거, 데이터센터 구축에 영향 줄 수도\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "210ef0d538ba8373bc3813e345d5aefb84ce3a22cfa2301f4ed6c1b5185356c7": {
+      "titleKo": "스페인 열차 사고, 일본인 2명 사망 확인…외무성 간부 밝혀",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "d0fb4de2d89f073f90319f431aaf09766fcdc7d1c318a64f0e0158a439bb7c99": {
+      "titleKo": "민주당 의회 장악 후 다우지수 연중 최대 상승폭 기록",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "b6e842b48a85118558b19ea1f0dc6bbd72b92e779ff7b27270e4599f5272540c": {
+      "titleKo": "챔피언스리그: 레알 마드리드 막판 역전승…리버풀은 페네르바체에 패배",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "cc0c51cb84c7317b1411d5c41933f30ff5e6555ea08a3ac61ed131d9032c9b8d": {
+      "titleKo": "이스라엘이여, 우리가 내민 손을 잡지 않겠는가?",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "72caca174e1cbfd91a518d980c6cae64868e93b810a05b842c36c87c54dc81d3": {
+      "titleKo": "텍사스, 트럼프·머스크·공화당에 대한 충격적 반발 속 '블루 스테이트'로 변모",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "73f1bb858f8a23f150bf89712b9b6485dace0f7648b3d4789ecceaa10abc8689": {
+      "titleKo": "국내서 궁지 몰린 트럼프, 이란 문제 중대 기로: 협상인가 확전인가",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "a8ddca155f325d3738c51149f74da7d3d3e06d5360e833a2f3965064d5cf45bc": {
+      "titleKo": "스페인 마드리드, 22개국 참여 제30차 이베로-아메리카 정상회의 개최",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "8d9bc10443c7264ca2c37ae8b3d58302dce11871809d5b3ba7aa181b01ddee97": {
+      "titleKo": "압둘 엘-사예드의 '샤와르마 법', 미국에 상륙",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "5f2929e7edf4d7b6791e8c930c02f979ab15f6a843bf599ddd9d8360f2617fe2": {
+      "titleKo": "맥도날드, 매출 둔화에 '저가 메뉴' 출시 계획",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "c82bb845671adcd74eced31ae511a25a2bacc0b7c38719723fbf67ea665b7b11": {
+      "titleKo": "6개 대륙 노아하이드교도, 예루살렘서 역사적 첫 국제 회의 개최",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "66a40383343f0393489acb737fac7305ecae620af33f0398ef703bb8b8995739": {
+      "titleKo": "이스라엘, 국가 안보 영구 훼손 전 미국과 세계에 각성해야 - 논평",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "2d77c9b85fbbd84e62c5d518197c5b6ebb76cee396ded288b7900a3b17248cf0": {
+      "titleKo": "엘사예드, 슈머 상원 원내대표 지지 여부 밝히기 거부",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "89763060be664bae5b5e8aa09ae69f19e9aa592be5ce5e4c33c4967f2a770160": {
+      "titleKo": "거대 우주망원경, 22년간 궤도 비행 후 지구로 추락",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "c14ed3a14e6423483203d0b97a98f9fd4ca99db889c5c55ec12ce2d049267cf1": {
+      "titleKo": "[영상] 콜로라도 의회 선거에 대해 알아야 할 것들",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "601ab019463cfb7b014cb7865c5de59f0328b5b0fc8bfcccee9e4448afdba1ad": {
+      "titleKo": "[영상] 공화당, 이제 어디로 가야 하나?",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "a97f10f3fb502be8100abbd6f8c6710cfc12ba6301975bc66dce3ee0b452e5f2": {
+      "titleKo": "민주당의 선거 참패, 연방 보건 정책 재편할 듯",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "cc5a1176499cdba197038b2e2074ca0946fc708486b0bab42c7ed61d63002319": {
+      "titleKo": "헤르초그, 당 대표들과 협의 중… 하레디 파벌 \"네타냐후 총리 추천 안 할 것\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "ecbdd348d8ba2e2776fc36ddd6714572460b7acc0afbb84ce8579d03bf1b3bca": {
+      "titleKo": "밴스, 공화당 중간선거 패배 이란 전쟁 탓… 트럼프 \"다시 할 것\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
+    "68540b37b089bc75b9abb03395b1e62e7588c58f8a2326ebb18e6c76b3ee2237": {
+      "titleKo": "교통부 고위 관계자, 플라이두바이 공격 관련 경찰 조사 받아 — 보도",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-04T23:38:56.316Z",
+      "updatedAt": "2026-11-04T23:38:56.316Z"
+    },
     "35e977fed0b6001273bbb9a9ee6a6da404b684ea586db6d6a3fc7f2604ee9ca7": {
       "titleKo": "중의원 재무금융위, 소비세 감세 법안…여당 6일 표결 제안에도 협의 지속",
       "model": "gemini-2.5-flash",
@@ -49,32 +361,8 @@
       "translatedAt": "2026-11-04T18:09:45.700Z",
       "updatedAt": "2026-11-04T18:09:45.700Z"
     },
-    "4cb9b9e37a31d88c60f259c0537cdff8d07bea2aca5673139ee396fb17d10b1a": {
-      "titleKo": "대법원, 오하나 판결 위반 인정…감사원장 선출은 다음 크네세스로",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-04T18:09:45.700Z",
-      "updatedAt": "2026-11-04T18:09:45.700Z"
-    },
-    "4f68616427457242968ee80408112d39a4627290fe020db02d9055f9d82c6e73": {
-      "titleKo": "미국 중간선거 결과, 관세 경감 희망하는 캐나다인들에게 '승리'",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-04T18:09:45.700Z",
-      "updatedAt": "2026-11-04T18:09:45.700Z"
-    },
     "713743643d693eae3c65cfc62b74160766eb52e19dff2709ac858b6e5e6d22ee": {
       "titleKo": "2026년 선거 실시간 결과: 밴스, 공화당 패배 '명백한' 이유는 이란 전쟁 때문이라고 밝혀",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-04T18:09:45.700Z",
-      "updatedAt": "2026-11-04T18:09:45.700Z"
-    },
-    "c4a54accff9269b87e5145db1a22978f8a621025f06980d2d4526c4e88046b43": {
-      "titleKo": "민주당, 부패 분노가 중간선거 참패 이끌자 트럼프 진영에 '변호사 선임' 경고",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-04T18:09:45.700Z",
-      "updatedAt": "2026-11-04T18:09:45.700Z"
-    },
-    "e6aa74c8779df2152825c5cd0df209d2d39d0df400c795621ecdf4e4b3c95536": {
-      "titleKo": "승리인가 패배인가? 11월 6일자 가디언 위클리 심층 분석",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-04T18:09:45.700Z",
       "updatedAt": "2026-11-04T18:09:45.700Z"
@@ -111,36 +399,6 @@
     },
     "8dc45dbb25f1755f6211487e307d66949185f4a1d7538423863c98dafddd382e": {
       "titleKo": "민주당 상원 장악, 슈머 \"트럼프에 '입법 철조망' 설치\" 공언",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-04T18:09:45.700Z",
-      "updatedAt": "2026-11-04T18:09:45.700Z"
-    },
-    "8bafeb965ca2343d0532c2e6ad001c46dd3ac995be41de04b3d2467288084f06": {
-      "titleKo": "이란 \"미국 선거 결과, 미국인들이 전쟁 거부 보여줘\"",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-04T18:09:45.700Z",
-      "updatedAt": "2026-11-04T18:09:45.700Z"
-    },
-    "925d65c0776c3fe3c8c87566201aed8ca528641e2f2db7cbd7df5c7d4ef2ba08": {
-      "titleKo": "민주당 하원 다수당 확보, 트럼프 지지율 '역대 최저'",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-04T18:09:45.700Z",
-      "updatedAt": "2026-11-04T18:09:45.700Z"
-    },
-    "14ab5ec3265676acded62ec91b70761b1899426fb0d23f4dbb552a51522a4a2f": {
-      "titleKo": "'세대당 한 번 있을 일': 역사적 선거는 트럼프와 MAGA 운동에 대한 충격적인 거부",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-04T18:09:45.700Z",
-      "updatedAt": "2026-11-04T18:09:45.700Z"
-    },
-    "139ddab28b235d57c7e202bac3f4694e22685873aded56e30d8ed1b3d83e8dad": {
-      "titleKo": "뉴욕 유대인 지도자 5명, 이스라엘 아랍인 역대 최고 투표율 후 '정치적 파트너십' 촉구",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-04T18:09:45.700Z",
-      "updatedAt": "2026-11-04T18:09:45.700Z"
-    },
-    "302f971e80584d827fb490600995868788294c2a43868e2ee73400676598ce07": {
-      "titleKo": "우크라이나 \"보디캠 영상, 치명적인 러시아의 이중 폭격 보여줘\"",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-04T18:09:45.700Z",
       "updatedAt": "2026-11-04T18:09:45.700Z"
@@ -205,18 +463,6 @@
       "translatedAt": "2026-11-04T18:09:45.700Z",
       "updatedAt": "2026-11-04T18:09:45.700Z"
     },
-    "fbef58fa8bdf4e57b7dff6cb2e94a2e0616416b39bd8ca7543fa6b84b8419c25": {
-      "titleKo": "민주당 의회 장악 후 중간선거 후폭풍 시작",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-04T18:09:45.700Z",
-      "updatedAt": "2026-11-04T18:09:45.700Z"
-    },
-    "9091240edbf99b9143b080b18d34b90f495423d3fcc04fdcb876b3d239d966d5": {
-      "titleKo": "브라질 산타클로스 학교, 구세주 그리스도상 앞에서 졸업식 거행",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-04T18:09:45.700Z",
-      "updatedAt": "2026-11-04T18:09:45.700Z"
-    },
     "92c5e012be30db23b39309a5a8765ec744d310adea69966f82a6d43aee02966b": {
       "titleKo": "미 하원의장 존슨, 공화당 중간선거 패배 후 소수당 대표직 유지 않겠다",
       "model": "gemini-2.5-flash",
@@ -225,12 +471,6 @@
     },
     "190e14036ba6f325e3895d6b83e72eb10b08fcc7da18936d2fe041cf0b257ccf": {
       "titleKo": "트럼프의 원조 결정, 걸프 지역의 미국 안보 공약 신뢰 흔들 수 있어 - 인터뷰",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-04T18:09:45.700Z",
-      "updatedAt": "2026-11-04T18:09:45.700Z"
-    },
-    "36bb2acf637c54a2ca3abd8a70da0ba38d8f15a733543d2f3660c114e1cfaa14": {
-      "titleKo": "일본우편, 사이버 공격으로 해외 배송 'UGX' 일부 중단",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-04T18:09:45.700Z",
       "updatedAt": "2026-11-04T18:09:45.700Z"
