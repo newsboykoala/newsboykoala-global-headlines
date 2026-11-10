@@ -1,14 +1,374 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "b7b39af417ab449f7b35b4aa6c353609c2d83306bb03067e61eb5cb6b6dfebe9": {
-      "titleKo": "자민당-유신회, 소비세 감세 법안 통과 위해 참의원 심의에서도 긴밀 협력",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
     "14050881abe00c4fe2d3affd44ee470efad669f19c8b5818791eed5a759566a1": {
       "titleKo": "라이브: ABC 뉴스 라이브",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "687bdb69aabbe8f70c1fa6aaa8c1813d202fe8c5906d41d5d64edbf346b3f4f1": {
+      "titleKo": "FDA, GLP-1 약물 '희귀 시력 상실' 부작용 경고",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "5321339180d9ddbbb22a5d6cd3cd62752cc90711d67679b29785df13f80bb3a0": {
+      "titleKo": "[영상] 픽업 뉴스 (11월 10일)",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "b529309717c1cd60fabe89e09ef3b2e9e949a0da181df356cf63ec6e33aaed86": {
+      "titleKo": "【영상】38년 전 도난당한 '도어즈' 짐 모리슨 동상, 행방은?",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "08c227a7a9f9fd92022b6239619b8ca2ccf1944debcc541432a821ec99887d92": {
+      "titleKo": "텍사스 학교, 은퇴한 관리인 기려 학교 이름 붙여",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "2fa731fee6516e2e862ba24907c0000fb370ebd8f204573414e3873e59792f5d": {
+      "titleKo": "FDA, GLP-1 약물에 '시력 상실 위험 증가 가능성' 경고 문구 포함 의무화 발표",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "015216574e64e4b3761f9973babca79891eb3dc98d1bed4d591b3f83e6bab313": {
+      "titleKo": "남성들 몸에 불붙은 영상 공개되자 학생 사교 클럽 정지",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "996c2c3d93a44588b712f55229e3696eebbf741265ddca4f3e88add037c39d0a": {
+      "titleKo": "오하이오 주립대 학생 사교 클럽, 운동복에 불붙은 학생 2명 영상 공개되자 정지",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "5168f38348adfaac2073c8184c502d75e04e19c50e3159536aecd952e24e3a9f": {
+      "titleKo": "상원, 가스관부터 청정에너지까지 프로젝트 가속화 법안 진전",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "8dd8b38f32036ba68c63c6e243bbd64adf7bae3414fdf4c2b9be84b85b0bdfd5": {
+      "titleKo": "시청: '러브 이즈 블라인드' 시즌 11, 에리카 커크: 지금 유행하는 것은?",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "868e27aee55ade19d08d9c3715127115044deee239a6e65826764c8e61608888": {
+      "titleKo": "2026년 중간선거 공화당 패배 분석",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "e840a9a271c61d1fe9e728a5002b7395d2f313598b8d1615dd2ef671fe631c40": {
+      "titleKo": "러셀 브랜드, 강간 및 성폭행 혐의로 징역 10년 이상 선고",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "57760035013d247210025bddb396e1e5742f8d39b7d612e4e3d82f5297d72f47": {
+      "titleKo": "유람선 엔터테이너 추락, 최소 9시간 만에 어부에게 구조돼",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "baa97782846e4a1610c21ac4648e74d68be2bd8aa2b776d610e58f3a84e04b47": {
+      "titleKo": "엔비디아, 중국 스파이 의혹으로 젠슨 황 CEO 조사",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "c71ad0a4660ae036348dfd5b53794ef4655651764c78a10ff980f686a11c08db": {
+      "titleKo": "매시, 헤그세스 탄핵안 발의, 표결 준비",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "8220d607a1db1bc48cac4b4c89855b36cb2725f22df7539d02b5f16a77d06b57": {
+      "titleKo": "판사, 러셀 브랜드 선고 공판서 \"성범죄자\" 지칭",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "7d7bddd294c616696c13f33fc40300892f94bbbf503d5096d8f1699dafe2cf7e": {
+      "titleKo": "트럼프 \"FBI, 엔비디아 CEO의 중국 스파이 의혹 불륜 조사 중\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "6f0b38df023cb1277659d851382decdde5779434144a32ec58eda07a892e53dc": {
+      "titleKo": "[시청] 빌스-바이킹스 대결, 무엇을 기대할까?",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "140bc2ffea4fe223ce1486b1c707bfa2396111c49f506c90b04c7278cfd4ecc4": {
+      "titleKo": "엔비디아 주가 하락…CEO, 중국 스파이 연루 의혹 여파",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "cc64d2dace0ba90fa83b4b45f10a66493ed2a546e1fd4828d5eda61e1218cf44": {
+      "titleKo": "엔비디아 주가 하락…이사회, CEO의 중국 스파이 연루 의혹 조사",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "6663d9a5adf900843fa48d791595458bec063b4bd28bc9c445069189a918d69f": {
+      "titleKo": "엡스타인 동료, 모델 에이전시 운영 중 '나를 위험에 빠뜨렸다' 학대 생존자 주장",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "57e6ae6a10949cfcdc9ceb988a098cdefdc9524801d07bb9e0f8c099b6f17fae": {
+      "titleKo": "우크라이나 평화 회담 재개, '일부 유연성' 보이며 교전 당사자들 참여…미국 관리들 밝혀",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "dfc6c7e1836bddc2e952f63af3e4fbcb83acbc824d32da551e9cacf94cf1a309": {
+      "titleKo": "혼다, 미국에 신공장 건설…하이브리드차 수요 대응",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "91d78fc3c80ad825660c8f5cc5621bee75fadc97091196083c85243b01abe985": {
+      "titleKo": "하원 및 상원 중간선거, 아직 당선자 없어",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "4909230c74ae636132bbadaa9866b24eede0dfe90511029cd27d0211a56d2b6e": {
+      "titleKo": "타타 인도 아이폰 부품 공장서 또 안전사고…직원 3명 사망",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "b18910b42796a757cdf9ffa920be7350b577abfe0763492b246440d4d8ccf263": {
+      "titleKo": "아이젠코트 야샤르, 마탄 카하나 차기 크네세트 의장으로 제안",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "0bdbc129259d1e471aaf954524189641481af5841151a2074374f9866f240189": {
+      "titleKo": "예루살렘 L3 경전철, 다마스쿠스 문까지 연장…도심 정류장 추가",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "3426c05111495b9c60f7a5cdf706fc4777c492bb123d3ee98d825f71fc464c6a": {
+      "titleKo": "스트리팅 \"영국, 러시아와 추가 소통 채널 선호할 것\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "181acd2ce691e51b303880f0af1193b7f4cd6280cf746131fdf79b23815708a6": {
+      "titleKo": "마크롱 앙코르 방문, 프랑스의 '보호자' 역할 부각",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "5562bc3fb599d347e22666e45865ea2de4d1e35a79a78cd99cf83c4bc4caae61": {
+      "titleKo": "엔비디아, 젠슨 황 CEO의 '중국 스파이 의혹' 관계에 주주 소송 피소",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "a5bf65abf01f658edd303eee1e4fce2aa30c66d77a05d217c4fb7d4d70916867": {
+      "titleKo": "교사 급여 지급 못 해…팔레스타인 자치정부, 서안지구 학생 수업 4년 연속 단축",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "73fc7e599f720f0719a16be7bbdb330e2b23d9d79a2e02f477f5a468221e2dc0": {
+      "titleKo": "리버럴은 메시, 권위주의자는 호날두 선호…정치가 스포츠 선택에 미치는 영향 | 션 잉글",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "6e236370941c5971b7e194a878cb3746452fac9f14ed7d1aa69db39109416d8b": {
+      "titleKo": "하킴 제프리스의 순간, 유대인에게 큰 의미 - 오피니언",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "c11169bbb92f6ba46acb0b29771beaeff0d47f5bb6d5abe3a1078b1f9200da61": {
+      "titleKo": "필리핀 \"보도된 비행기 추락은 오보\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "2aec3959376c273a2796d4ab3332f7f6950772c038dbcef00e9f334eded819ae": {
+      "titleKo": "제26대 크네세트 오늘 취임…초선의원 46명 첫 등원",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "3e655dbca766e08c4fd7861ad0117ba6931b3886dd074c6b39a230e3ff7cd6eb": {
+      "titleKo": "일본 총무성 \"DV 피해자 등 주민 정보 유출 10년간 119건\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "e77b576c26b8cdd4c9a740294928ad947834ca66c2f4c5048235e7baf75f71c5": {
+      "titleKo": "일본은행 10월 회의, 물가 2% 도달 \"가능할 때 금리 인상\" 지적 나와",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "3934980a9f9778e7c35e34a07e9e65a42e60290735754d85872956fe7b39fa0b": {
+      "titleKo": "일본 총무성, 사이버 공격 피해 확산 방지 위한 접근 억제책 검토",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "f28fc871c129df7e012beb6b3a7708db3fe6a4d63e9de0f16e5ca7720b706610": {
+      "titleKo": "페루, 교황 방문 앞두고 교황 레오 14세 거대 동상 공개",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "cb8732215476665a65718736c37f4b710c022c3ea5142245bd1750d2b4c2407c": {
+      "titleKo": "에디온, 악성 프로그램으로 신용카드 정보 500여 건 유출 우려",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "58acabdba598861a90cf5b7c9389383788d69bb1ab9d86d164cacb5e3947467f": {
+      "titleKo": "팔레스타인계 미국인, 2028년 펜실베이니아 상원 의원 존 페터먼에 도전",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "7b88ad76caaed01654f498041a0414ccdd107b51df9d4eaea69215a7a9b6a76c": {
+      "titleKo": "프랑스, 슈퍼마켓 사이버 공격에 이란에 대한 조치 위협",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "4c5f5b64ac8ccc7a9d55cbec4e03510818b25bc1ae63cf71bcecbe0543c1f754": {
+      "titleKo": "콩고민주공화국, '겁쟁이' 병사 66명에 사형 선고",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "7047d58bc06b94c8a4d89f7b7c19c9478596af0a5c864de7e8c54526e3d8adff": {
+      "titleKo": "자미르: 군 지도부, 대담함과 결단력과 함께 책임감 요구",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "f1acce0ce31eb46dc20efe27094884a519a31ca4299fc66dc5cc469fa8650546": {
+      "titleKo": "10월 도산 950건, 전년 동월 대비 소폭 감소에도 높은 수준 지속",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "63afe23157abf22a040a33d6c33e89174aa13693f5cbf3c9cbc23d4f1388fa1f": {
+      "titleKo": "이스라엘 제26대 크네세트, 총리·대통령 참석 하에 취임 예정",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "06d8cb570083196d0b35b4ac4a25544af718fa83f140ee363e406d9f9d5086a2": {
+      "titleKo": "사카나 AI, 2027년 상장 가능성",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "c553581f462595a997f0d147df24137ce55a0929189e25e63570d1a5338d46d8": {
+      "titleKo": "도쿄지법, SNS 가짜 광고 게재 관련 마에자와 유사쿠 씨 소송 기각",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "7f81414d07e25d30d9ba545724850c2c1bf9df275841ad669f2f07872e3a3e98": {
+      "titleKo": "소비세 감세 법안, 참의원 내일 심의 돌입…여야 의운위서 공식 합의",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "aa813dab6beb4768bbae4b7cfc215824b9c2f233430c287c3692f47146c24f39": {
+      "titleKo": "일본, 어린이 소셜 미디어 노출 제한 요구할 예정",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "c8fcff573ac59c3e526b1f1d75818604d09d513de0e64e4e76ceb58ec1215868": {
+      "titleKo": "주가 한때 1900엔 넘게 상승, 6만 엔대 회복…AI 관련주 등에 매수세",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "ec5f58ab28255e2599c372b9b6956464da895b6c3148632860b0abb535cb1d57": {
+      "titleKo": "대만 국방부 \"중국군, 서태평양에 항모 등 전개해 훈련\" 비난",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "0a7b844d1f45f62b9e264fbb30595558bd32d1247e4b395c3ad43a82bb2f7ad5": {
+      "titleKo": "JR 동일본, '워크스루 개찰구' 야마노테선 전역 등 내후년 봄 도입 예정",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "8937cec12da7c80a15d1548020e727a1d7c2bf670f3c75b09fa94612dbd3c161": {
+      "titleKo": "아카자와 경제산업상, \"러시아 기업 관리하 JT 현지 법인에 여러 차례 항의\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "dcbfbbf1cac37f36fb2305c6e4a9b8b2cc1c4169b7dba6a32588cceb94657c17": {
+      "titleKo": "이란 위협으로 미 공중급유기, 영국 RAF 밀든홀 기지서 대피 보도",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "d393f14923e29c82567c8f55cd933241285dd97a6fd5a1c9e3094c90e5405d79": {
+      "titleKo": "AI 붐이 수출 견인하며 중국 무역 흑자 1조 달러 돌파",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "0089837fce2a3af4e701c336ad2568b1c16324f88f711a1519ed0d85b5db7eff": {
+      "titleKo": "쌀 거래 법령 위반 19개 사업자 행정지도…신법 시행 후 처음",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "15b5600a8726730d97ec7ec2ca16d439c7b713e3feae6c42a0966e54ba8eb69b": {
+      "titleKo": "캘리포니아 유권자, 일회성 억만장자 부유세 부결…미 언론 예측",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "d6a21eb7548be04c7c37006bd33c1d6560909ca08de820029091eaf01547999b": {
+      "titleKo": "인도네시아 부통령 운명 기로에…의원들 조사 검토",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "59bdd90001cbbf5da4c768f4abb074f8e85efbc3437ed79ac4cdbf9967484206": {
+      "titleKo": "소프트뱅크 그룹 중간 결산, 7680억 엔 최종 적자",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "8b94345482d2262261f3dfeb593198d2c780caca0972436b74aa2864722cc88b": {
+      "titleKo": "캘리포니아 발의안 40 '억만장자세' 부결…AP 통신 예측",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-10T08:24:37.528Z",
+      "updatedAt": "2026-11-10T08:24:37.528Z"
+    },
+    "b7b39af417ab449f7b35b4aa6c353609c2d83306bb03067e61eb5cb6b6dfebe9": {
+      "titleKo": "자민당-유신회, 소비세 감세 법안 통과 위해 참의원 심의에서도 긴밀 협력",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-10T01:02:55.683Z",
       "updatedAt": "2026-11-10T01:02:55.683Z"
@@ -27,12 +387,6 @@
     },
     "8261169aae50452c1cd0dcbbeea4d9904c085eab0226276f77e1d57120f88628": {
       "titleKo": "트럼프 \"이란 추가 군사 행동 '불필요해 보여'…테헤란 대화 중\"",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "687bdb69aabbe8f70c1fa6aaa8c1813d202fe8c5906d41d5d64edbf346b3f4f1": {
-      "titleKo": "FDA, GLP-1 약물 '희귀 시력 상실' 부작용 경고",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-10T01:02:55.683Z",
       "updatedAt": "2026-11-10T01:02:55.683Z"
@@ -61,104 +415,8 @@
       "translatedAt": "2026-11-10T01:02:55.683Z",
       "updatedAt": "2026-11-10T01:02:55.683Z"
     },
-    "5321339180d9ddbbb22a5d6cd3cd62752cc90711d67679b29785df13f80bb3a0": {
-      "titleKo": "[영상] 픽업 뉴스 (11월 10일)",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "b529309717c1cd60fabe89e09ef3b2e9e949a0da181df356cf63ec6e33aaed86": {
-      "titleKo": "【영상】38년 전 도난당한 '도어즈' 짐 모리슨 동상, 행방은?",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "08c227a7a9f9fd92022b6239619b8ca2ccf1944debcc541432a821ec99887d92": {
-      "titleKo": "텍사스 학교, 은퇴한 관리인 기려 학교 이름 붙여",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "2fa731fee6516e2e862ba24907c0000fb370ebd8f204573414e3873e59792f5d": {
-      "titleKo": "FDA, GLP-1 약물에 '시력 상실 위험 증가 가능성' 경고 문구 포함 의무화 발표",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "015216574e64e4b3761f9973babca79891eb3dc98d1bed4d591b3f83e6bab313": {
-      "titleKo": "남성들 몸에 불붙은 영상 공개되자 학생 사교 클럽 정지",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
     "b4a3bf6194c2c80690ddc98e2d24541add23bfb0d264bc62d3090aefb078682e": {
       "titleKo": "도널드 트럼프, 피트 헤그세스 옹호 재차 강조하며 새로운 탄핵 시도 비난 – 라이브",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "996c2c3d93a44588b712f55229e3696eebbf741265ddca4f3e88add037c39d0a": {
-      "titleKo": "오하이오 주립대 학생 사교 클럽, 운동복에 불붙은 학생 2명 영상 공개되자 정지",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "5168f38348adfaac2073c8184c502d75e04e19c50e3159536aecd952e24e3a9f": {
-      "titleKo": "상원, 가스관부터 청정에너지까지 프로젝트 가속화 법안 진전",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "8dd8b38f32036ba68c63c6e243bbd64adf7bae3414fdf4c2b9be84b85b0bdfd5": {
-      "titleKo": "시청: '러브 이즈 블라인드' 시즌 11, 에리카 커크: 지금 유행하는 것은?",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "868e27aee55ade19d08d9c3715127115044deee239a6e65826764c8e61608888": {
-      "titleKo": "2026년 중간선거 공화당 패배 분석",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "e840a9a271c61d1fe9e728a5002b7395d2f313598b8d1615dd2ef671fe631c40": {
-      "titleKo": "러셀 브랜드, 강간 및 성폭행 혐의로 징역 10년 이상 선고",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "57760035013d247210025bddb396e1e5742f8d39b7d612e4e3d82f5297d72f47": {
-      "titleKo": "유람선 엔터테이너 추락, 최소 9시간 만에 어부에게 구조돼",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "baa97782846e4a1610c21ac4648e74d68be2bd8aa2b776d610e58f3a84e04b47": {
-      "titleKo": "엔비디아, 중국 스파이 의혹으로 젠슨 황 CEO 조사",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "c71ad0a4660ae036348dfd5b53794ef4655651764c78a10ff980f686a11c08db": {
-      "titleKo": "매시, 헤그세스 탄핵안 발의, 표결 준비",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "8220d607a1db1bc48cac4b4c89855b36cb2725f22df7539d02b5f16a77d06b57": {
-      "titleKo": "판사, 러셀 브랜드 선고 공판서 \"성범죄자\" 지칭",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "7d7bddd294c616696c13f33fc40300892f94bbbf503d5096d8f1699dafe2cf7e": {
-      "titleKo": "트럼프 \"FBI, 엔비디아 CEO의 중국 스파이 의혹 불륜 조사 중\"",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "6f0b38df023cb1277659d851382decdde5779434144a32ec58eda07a892e53dc": {
-      "titleKo": "[시청] 빌스-바이킹스 대결, 무엇을 기대할까?",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-10T01:02:55.683Z",
       "updatedAt": "2026-11-10T01:02:55.683Z"
@@ -171,12 +429,6 @@
     },
     "b69f78df4fc3953543331a346839b84f7c34a30b1cdc01d184e11b59fedc93f9": {
       "titleKo": "닛케이 평균 주가 한때 6만엔대 회복…반도체주 중심 매수세",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "140bc2ffea4fe223ce1486b1c707bfa2396111c49f506c90b04c7278cfd4ecc4": {
-      "titleKo": "엔비디아 주가 하락…CEO, 중국 스파이 연루 의혹 여파",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-10T01:02:55.683Z",
       "updatedAt": "2026-11-10T01:02:55.683Z"
@@ -199,12 +451,6 @@
       "translatedAt": "2026-11-10T01:02:55.683Z",
       "updatedAt": "2026-11-10T01:02:55.683Z"
     },
-    "cc64d2dace0ba90fa83b4b45f10a66493ed2a546e1fd4828d5eda61e1218cf44": {
-      "titleKo": "엔비디아 주가 하락…이사회, CEO의 중국 스파이 연루 의혹 조사",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
     "23b3f327797bdc85e1c1bc186d4c745f6edbb6b008ebb268554448c173c0d4ab": {
       "titleKo": "제이크 태퍼·알렉스 톰슨, 바이든 기억력 저하 일화 회고",
       "model": "gemini-2.5-flash",
@@ -213,18 +459,6 @@
     },
     "15f1e89aa5bdf13a89745ed3425dd992891380577c2d96977802b4cabd5cd8a1": {
       "titleKo": "베이컨스필드 광산 붕괴 생존자 토드 러셀, 54세로 병사",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "6663d9a5adf900843fa48d791595458bec063b4bd28bc9c445069189a918d69f": {
-      "titleKo": "엡스타인 동료, 모델 에이전시 운영 중 '나를 위험에 빠뜨렸다' 학대 생존자 주장",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "57e6ae6a10949cfcdc9ceb988a098cdefdc9524801d07bb9e0f8c099b6f17fae": {
-      "titleKo": "우크라이나 평화 회담 재개, '일부 유연성' 보이며 교전 당사자들 참여…미국 관리들 밝혀",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-10T01:02:55.683Z",
       "updatedAt": "2026-11-10T01:02:55.683Z"
@@ -249,12 +483,6 @@
     },
     "406a661378baecefb844390fbfde7ac0fa6a6daaa9e20b4f49ddd36740294e39": {
       "titleKo": "판사, 돌리 파튼 유산 측의 조카 상대 소송 기각",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-10T01:02:55.683Z",
-      "updatedAt": "2026-11-10T01:02:55.683Z"
-    },
-    "dfc6c7e1836bddc2e952f63af3e4fbcb83acbc824d32da551e9cacf94cf1a309": {
-      "titleKo": "혼다, 미국에 신공장 건설…하이브리드차 수요 대응",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-10T01:02:55.683Z",
       "updatedAt": "2026-11-10T01:02:55.683Z"
@@ -2289,12 +2517,6 @@
     },
     "04d985fa864df37242c1b8e66478ec6117993187119ae4c11d760e9c02f30ad2": {
       "titleKo": "미국 민주당, 도널드 트럼프 조사 맹세",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-07T16:43:31.797Z",
-      "updatedAt": "2026-11-07T16:43:31.797Z"
-    },
-    "91d78fc3c80ad825660c8f5cc5621bee75fadc97091196083c85243b01abe985": {
-      "titleKo": "하원 및 상원 중간선거, 아직 당선자 없어",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-07T16:43:31.797Z",
       "updatedAt": "2026-11-07T16:43:31.797Z"
