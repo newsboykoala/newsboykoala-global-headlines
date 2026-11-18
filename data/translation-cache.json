@@ -1,38 +1,392 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "87e93b3cc2e23b5f99af05b9bf69a5ab5fcb402d6c74e8833b15845dc8e05578": {
-      "titleKo": "러시아기로 추정되는 항공기, 후쿠오카 오키노시마 주변 영공 침범",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
     "58db22bd2535338ce49e5c96e7abdc5e204afc6fcff5fdb159766bdc0f7d6fcc": {
       "titleKo": "'아메리칸 닥터' 리뷰 – 학살의 가자지구, 목숨 걸고 싸우는 의료진",
       "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
     },
     "316c53d4e22cd27222cf58e5b27a41552b841f104fe54748ad57a060ed51592c": {
       "titleKo": "하마 피오나, '초대형' 복통 앓아",
       "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
     },
     "f5b3bf6d537f40b5728a7539250a622c1c10403d46df8852108d02f6840a748b": {
       "titleKo": "블랙프라이데이, 새 기술 제품 대신 리퍼폰·노트북…전문가 구매 팁",
       "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
     },
     "041cd45af1ef9537fa6829c6c9de946f1f2fac4ee93853d7354f638a6dbe579f": {
       "titleKo": "우크라이나-러시아 대규모 공방전, 트럼프-푸틴 회담 예정",
       "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
     },
     "686ab3d221b4fe8585fa3f92b7867146a2495d9dc2e73ab9d4f5dfc697d3d7ff": {
       "titleKo": "에드 밀리밴드, 서안지구 이스라엘 기업에 첫 제재 발표",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "383f9b8bb4a547e4545c733cfbe5a19e28799fa9b596b0f52beb1418ce5c0356": {
+      "titleKo": "미국, IRGC 미사일 발사대 공격…미군 관계자 '포스트'에 밝혀",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "d8b19f44b58126b6d7704e301a827609c446b52856a6b8df663c0331ae44705c": {
+      "titleKo": "'방에 있었지만 보이지 않았다': 나치 전범 뉘른베르크 재판에 기여한 잊힌 여성들 - 인터뷰",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "e439d55994a89ebce5785a45003e251d077f41b30aa2d65c92da48ede3c033f8": {
+      "titleKo": "헤르초그, 팔라비 왕세자에 '이슬람 정권 붕괴 후 이란 귀국 보길 희망'",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "8164007f94325d826336808166b68c3ee18aebcd9a20ac8d15f4d357ab419251": {
+      "titleKo": "'당신을 존경한다': 바이든의 네타냐후 마지막 통화 녹취록, 회고록과 상충 - 단독",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "473302efdbb906ac08e1cc4019fd82c2abac844a90915ce3a659e4ec2a8d244f": {
+      "titleKo": "영국 심리치료 단체, 반이스라엘 수사학 관련 UKLFI 고발로 규제 조사 직면",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "0c688bc89f99f4484f95ceb9e5d2c9576fc8244b4f695b502b9ba39a2ef3ba27": {
+      "titleKo": "오츠마 예후디트, '귀환법 개정안' 제안…디아스포라 개종 인정 위협",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "bdb5767e57eb258c8437c1fa0b0c1f07ace30f2983540efdf3f96b731441234c": {
+      "titleKo": "미국, 호르무즈 해협 이란 케슘섬 공습 개시",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "f1914d0d51192e6db1e920fa64562cb781272c56d0f74cd3c5b41bc58b68cbb1": {
+      "titleKo": "소식통 \"NSA 기밀 내부망 다운\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "1cac4bfcea0f8fde64501d95a194995fe653296e03ec50513d7ef7ebc609422c": {
+      "titleKo": "영국서 체포된 미군 병사, 간첩 혐의로 미국 구금 중",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "ffd957c4e04552675ec481355ffadda5839bc10a717b28b022c713cb14a13da7": {
+      "titleKo": "밀번, 노조 우려에도 청년 고용 기업 세금 감면 촉구",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "2f4445ffa6b7e50c9b8e3279906b2319dbade16b6909a69710a74328ceb317bd": {
+      "titleKo": "아랍 운동가 체포 배후 제보자, 고위 안보 관계자 사칭 후 총리실 사임",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "3582b47ef5a96cd3765004ae002775aa1119f2a0548b1eb4e13875d7d8168226": {
+      "titleKo": "이란 분쟁 도시서 새 반정부 시위 발생",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "2a34c79b574c0b671873133be7542b18b124c083107ff86378ab85ca4439de7e": {
+      "titleKo": "레오 교황 특사, 성지 기독교인에 위로와 통합 메시지 전달",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "b33665cd1ceb3eb70d43e95a78981f12167d020a5741964d9106ca0e4425fb2f": {
+      "titleKo": "벨벳 혁명 기념일, 슬로바키아 친러 지도자 규탄 시위",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "e830a7674c0dcb1887296068151ce16696e223b9cc2d14fe8d05bef40dbacc21": {
+      "titleKo": "국가안보국 내부 통신망 마비",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "90501886f664d339c8d3b59d2ad6c2356c62b5aa1ca4f456b59ad994ecdbc962": {
+      "titleKo": "WATCH: 이글스 자폐증 재단 직원들, 경기 당일 빛났다",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "7b1a9c43d79223c55ff4e480d2f110264052640a43cf55c383585b694913582b": {
+      "titleKo": "트럼프 관세가 캐나다 자동차 산업 압박하자, 카니 중국으로 눈 돌려",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "4c8fcb3bc19b65f97edfb17dc0a02c29eb6941003895f3207d65348201928bb2": {
+      "titleKo": "EU·아세안, 무역 관계 심화 추진…비공식 장벽에 기업들 고전하며 난관 여전",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "f310a1b7676af01886ae33b926accca851e7f85fed1f7ab40789abc3b2c34668": {
+      "titleKo": "이스라엘 아랍계 의원들, 유대계 의원들과 동등한가? 곧 밝혀질 것",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "5560cc83b2a5bbb859cb6d9a7654bc3ff008b7cb5c2eb685d0d2a209a44da096": {
+      "titleKo": "영상에 따르면 ICE 요원, 캘리포니아서 임신한 미국 시민에 최루액 분사",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "00fc23ed0b4eeb5d40f3612d3881927220433b6a781c6a68c08a31f1e3a2f3a2": {
+      "titleKo": "이란, 미 중간선거 후 협상 입장 강화…호르무즈 해협 긴장 고조 검토 중 보도",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "a3d678ea3ef00224f41b5c19636fdbd8deced67730e5f5b13f55e05abf54d648": {
+      "titleKo": "호주, 서안지구 정착촌·정착민 폭력 연루 개인·단체 제재",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "ea35d05162430d130c47b1d76ce0e571658442f44d180216d51acedc109f994e": {
+      "titleKo": "톱시드 즈베레프, 셸턴 꺾고 준결승 진출 확정",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "a74fcc847656e0185144e0d47aaeb775ec52ba65d94c1ec6d0e9144067e6050a": {
+      "titleKo": "바레인, '교활한' 이란 공격 방공망으로 요격했다고 밝혀",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "b9d5bf0df83d88051945f29561b561be1e73a1a7ec552f6fb7f842a8f6feba72": {
+      "titleKo": "백악관, 하이디 오버턴 FDA 국장 지명 철회",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "3e0c718e4dfca9f0fd1d4875bc6609de2501e93af422564c5e3429ad0eb9f2c1": {
+      "titleKo": "뉴욕 증시 다우, 한때 1000달러 넘게 하락…IT·금융주 매도 주문",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "24d8eff071419026969dc9fe65a77b316c991c171e54dfcd03dde56db80b6e8f": {
+      "titleKo": "트럼프의 FDA 국장 지명자 하이디 오버턴, 공화당 지지 확보에 난항",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "5fd30c5001c6b08990f84a26d687a45c57ba066e1aa252bc289d9aae200f04ce": {
+      "titleKo": "젠슨 황, 엔비디아 CEO로 복귀 안 할 것…이사회 의장 투자자들에게 밝혀",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "af952c8095e47f3af2f8939f19de19a4a896a3a07bc3d0cccbb6622982d968e0": {
+      "titleKo": "미군, 이란 미사일 시설 공격... 양측 공방전으로 확산",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "88156bee76d02d7a2f676f6afe6a8e17722edc9d3ece94f468c4f4771a9ba49e": {
+      "titleKo": "\"이란 유가 인상으로 생활 불가능 수준\"... 이란인들 증언, 보도",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "04b956e7b56ea34b7b1bdee58c0e0292a930caf434da8878f62bdc6fc00b7803": {
+      "titleKo": "루비오 \"최근 기술 장애, 연관성 '증거 전무'\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "426768245013cf15d6489cf2fe61d09627ad258f7f4372d70d56ce154e1ad83d": {
+      "titleKo": "백악관, 하이디 오버턴 FDA 국장 지명 철회",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "c68af13a8660a89772639dd47b21061e80202f4c3a81bdad463895da1c0c8946": {
+      "titleKo": "엔비디아 황 회장 복귀 의욕 표명... 이사회는 \"의향 없어\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "666c2bd30fda6f83ebeac51cc4804393384e93a81ea1c585577a2ca363c38c6d": {
+      "titleKo": "인기 웹사이트 해킹... 암호화폐 탈취 및 아이폰 사용자 표적",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "59fc96bdfd0af65b82e5daef4d1a2a2e082386db6c822f2ac5adc2388f09353c": {
+      "titleKo": "싱크탱크 \"아마존 블랙프라이데이·사이버먼데이 할인, 기만적인 경우 많다\"",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "a889c836fb1ff665ab126ecafbd521ce6be444e281878e1cc64858c21c0e94d7": {
+      "titleKo": "소니, 플레이스테이션 스토어 가격 관련 20억 파운드 영국 소송 승소",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "4ac6022e73ba4cdb45b3ccf7d0f7920462fbeba37d5e935daf747b5613fdbba2": {
+      "titleKo": "오이타 사가세키 화재 1년, 지역 공동화 방지 여부가 과제로 떠올라",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "5a1c9860b255cd6944489c45769acf84f2e4b61a0d163e8ac660c9d6fd4ca5d4": {
+      "titleKo": "법무장관, 신정부 출범까지 논란의 E1 정착촌 입찰 절차 동결",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "21fc2a5b9b97cc5662a6910b0dfbdda59b5a90c4bb4a800f85ee49df447db959": {
+      "titleKo": "엔비디아, 실적 호조에도 황 CEO 복귀시키지 않을 것이라고 밝혀",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "5355d532fea3ab794fc38ce809c893f06073e47dbbc468030882c16ec018f0c4": {
+      "titleKo": "잇따른 기술 관련 서비스 중단 사태, 원인은 무엇인가?",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "c6bf717d341cff03e1a889017296335d00e3ad1bbb4d344456366b32701f2f87": {
+      "titleKo": "일본 무역 적자, 에너지 수입 급증에도 감소",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "5fffbd57858639734a98bfd1f836821c767f1c47b1927f5ce6de328bf8bc25c0": {
+      "titleKo": "대규모 데이터센터, 일부 주 및 국가만큼 전력 소비... 연구 결과 경고",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "38a13a8732106968cbb218b9f4843326cfc9be843527f2dd40043852b409dda4": {
+      "titleKo": "이탈리아 젤라토 챔피언, 이스라엘 내 체인 확장에도 반이스라엘 반발 우려 일축",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "5552413d3fe03106e668990fc8abc9ebc4db898b6e43135dbf0b5d633c67dcfb": {
+      "titleKo": "이스라엘 의회, 아이젠코트 측근을 의장으로 선출…네타냐후에 타격",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "515e4b9e80d8850b2711d83c87dfd6f290a9da4a5a90ecb157f350bd3369c9e8": {
+      "titleKo": "트럼프 지명자 하이디 오버턴, FDA 국장 후보에서 낙마",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "d9e4bee959fb8c104d2238e66cb32bfa434ac65a9f40f01d01d2660ff58cf20f": {
+      "titleKo": "이란 지원 트럼프 암살 음모 유죄 판결 받은 남성, 선고받아",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "3fa99f06cb51230392953d5b7e11db9f962dd87804fb91e94023fa7bbe9fef4c": {
+      "titleKo": "파키스탄 남성, 이란 지원 트럼프 암살 음모로 27.5년형 선고",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "1ee88a5255779107399592e98f7b8816ba6b3349bb9801d0ff67ad1b3a3bcc47": {
+      "titleKo": "타이거 우즈, 12월 히어로 월드 챌린지에서 복귀전 치른다",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "8fd0296bdc13e48efabac964fcadcb45a68479206acc05037e6c796461f4685d": {
+      "titleKo": "엔비디아, 낙관적 전망 제시하며 황 CEO 복귀설 일축",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "c2c450b6910efe650d34a8fe853bf47ef785e4b55d1785944f8f6336eae71a7d": {
+      "titleKo": "원네이션, '강경책'으로 호주 난민 수용 90% 삭감할 것이라고 밝혀",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "90e6c90b07cc56504038ca7ad1e75a6ca286d0baca61eccac1c855b5b818ad27": {
+      "titleKo": "레우미 은행, 대출 급증과 높은 수수료로 올해 두 번째 사상 최고 이익 기록",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "b84cb32b4c7c793e8c630cc96c5f11102f25d6cce11e1811f94935c505a8d069": {
+      "titleKo": "황 사임 후 첫 실적 발표…엔비디아, 강력한 실적 기록",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "7384b1a54c3b57d2f8d9f1641aac712c0cf88da8ff000a90489a028fe40bb4ac": {
+      "titleKo": "운항 중단 사태 후 더피, FAA에 500억 달러 요청",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "d5c33e016c3bc7d20f78e8a0f04c55541a5cc285d51dfcb630aa4d59b1138b5d": {
+      "titleKo": "바레인 저명 인권 운동가 나빌 라잡 62세로 사망",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "76cf9a05910bb50eb25905f8e568d6894c7e6a52e4e0584f7e7c3609d140d717": {
+      "titleKo": "【영상】픽업 뉴스 (11월 18일)",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "fc9fb6cf49efe19bc37c480287fd5ad43ccafed3e959be6db13f7d50b569420c": {
+      "titleKo": "지난주 운항 중단 사태 중 낯선 이들, 시카고에서 내슈빌까지 동행 운전",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "e4178118b81c08f5d339304dbd14c42253afd416a68f281fdc7e012261d061b5": {
+      "titleKo": "버스 정류장에서 학생들과 픽업트럭의 아찔한 순간 카메라에 포착",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "06e0827d2f8e6f413b952965e682f78d5db99757248525da73a412ec11009197": {
+      "titleKo": "최근 기술계 혼란 속 NSA와 애플 서비스 중단",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "97c150df7e77c812e708c7721d2a458959153614ce9accd07f71408c9eb41e1b": {
+      "titleKo": "이스라엘 부동산 개발업자, 시영 기업 부패 수사 관련 조사받아",
+      "model": "gemini-2.5-flash",
+      "translatedAt": "2026-11-18T01:59:36.766Z",
+      "updatedAt": "2026-11-18T01:59:36.766Z"
+    },
+    "87e93b3cc2e23b5f99af05b9bf69a5ab5fcb402d6c74e8833b15845dc8e05578": {
+      "titleKo": "러시아기로 추정되는 항공기, 후쿠오카 오키노시마 주변 영공 침범",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-17T19:50:26.328Z",
       "updatedAt": "2026-11-17T19:50:26.328Z"
@@ -103,20 +457,8 @@
       "translatedAt": "2026-11-17T19:50:26.328Z",
       "updatedAt": "2026-11-17T19:50:26.328Z"
     },
-    "383f9b8bb4a547e4545c733cfbe5a19e28799fa9b596b0f52beb1418ce5c0356": {
-      "titleKo": "미국, IRGC 미사일 발사대 공격…미군 관계자 '포스트'에 밝혀",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
     "3db37f1eceb2bc2b929f0be85dee5f1aa32b07aadb989144df64ee7d007cb5b9": {
       "titleKo": "영국 경찰에 체포된 미 육군 장교, 간첩 혐의로 미군에 구금",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "d8b19f44b58126b6d7704e301a827609c446b52856a6b8df663c0331ae44705c": {
-      "titleKo": "'방에 있었지만 보이지 않았다': 나치 전범 뉘른베르크 재판에 기여한 잊힌 여성들 - 인터뷰",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-17T19:50:26.328Z",
       "updatedAt": "2026-11-17T19:50:26.328Z"
@@ -133,36 +475,6 @@
       "translatedAt": "2026-11-17T19:50:26.328Z",
       "updatedAt": "2026-11-17T19:50:26.328Z"
     },
-    "e439d55994a89ebce5785a45003e251d077f41b30aa2d65c92da48ede3c033f8": {
-      "titleKo": "헤르초그, 팔라비 왕세자에 '이슬람 정권 붕괴 후 이란 귀국 보길 희망'",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "8164007f94325d826336808166b68c3ee18aebcd9a20ac8d15f4d357ab419251": {
-      "titleKo": "'당신을 존경한다': 바이든의 네타냐후 마지막 통화 녹취록, 회고록과 상충 - 단독",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "473302efdbb906ac08e1cc4019fd82c2abac844a90915ce3a659e4ec2a8d244f": {
-      "titleKo": "영국 심리치료 단체, 반이스라엘 수사학 관련 UKLFI 고발로 규제 조사 직면",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "0c688bc89f99f4484f95ceb9e5d2c9576fc8244b4f695b502b9ba39a2ef3ba27": {
-      "titleKo": "오츠마 예후디트, '귀환법 개정안' 제안…디아스포라 개종 인정 위협",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "bdb5767e57eb258c8437c1fa0b0c1f07ace30f2983540efdf3f96b731441234c": {
-      "titleKo": "미국, 호르무즈 해협 이란 케슘섬 공습 개시",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
     "009103f9aa5dc385c49e32106452bfca9855b347b9445cc27d9c1e266b4f77e1": {
       "titleKo": "애플 사용자들, 아이클라우드 등 시스템 장애 보고…서비스 중단 추정",
       "model": "gemini-2.5-flash",
@@ -171,18 +483,6 @@
     },
     "37d80717f3164c6da9d5654acafa1069be6f965661f2d34718daa87b7793b2a5": {
       "titleKo": "미군 관계자 \"오늘 일찍 전투기, 케슘섬 이란 미사일 발사 기지 타격\"",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "f1914d0d51192e6db1e920fa64562cb781272c56d0f74cd3c5b41bc58b68cbb1": {
-      "titleKo": "소식통 \"NSA 기밀 내부망 다운\"",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "1cac4bfcea0f8fde64501d95a194995fe653296e03ec50513d7ef7ebc609422c": {
-      "titleKo": "영국서 체포된 미군 병사, 간첩 혐의로 미국 구금 중",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-17T19:50:26.328Z",
       "updatedAt": "2026-11-17T19:50:26.328Z"
@@ -199,12 +499,6 @@
       "translatedAt": "2026-11-17T19:50:26.328Z",
       "updatedAt": "2026-11-17T19:50:26.328Z"
     },
-    "ffd957c4e04552675ec481355ffadda5839bc10a717b28b022c713cb14a13da7": {
-      "titleKo": "밀번, 노조 우려에도 청년 고용 기업 세금 감면 촉구",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
     "65fee89761a4a84d000c2a73baf6f1d1e553d412bd6ce896bec8373171115fc5": {
       "titleKo": "FAA, 전국 운항 중단 사태 후 라우터 설치 중단",
       "model": "gemini-2.5-flash",
@@ -213,12 +507,6 @@
     },
     "819f9e97638b3dd5d8cb660ce3b7d9f4b77fa36eb99865b242c5f6ed6e6c066c": {
       "titleKo": "연준 리사 쿡, 변경 없는 백악관 청문회 거부",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "2f4445ffa6b7e50c9b8e3279906b2319dbade16b6909a69710a74328ceb317bd": {
-      "titleKo": "아랍 운동가 체포 배후 제보자, 고위 안보 관계자 사칭 후 총리실 사임",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-17T19:50:26.328Z",
       "updatedAt": "2026-11-17T19:50:26.328Z"
@@ -253,24 +541,6 @@
       "translatedAt": "2026-11-17T19:50:26.328Z",
       "updatedAt": "2026-11-17T19:50:26.328Z"
     },
-    "3582b47ef5a96cd3765004ae002775aa1119f2a0548b1eb4e13875d7d8168226": {
-      "titleKo": "이란 분쟁 도시서 새 반정부 시위 발생",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "2a34c79b574c0b671873133be7542b18b124c083107ff86378ab85ca4439de7e": {
-      "titleKo": "레오 교황 특사, 성지 기독교인에 위로와 통합 메시지 전달",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "b33665cd1ceb3eb70d43e95a78981f12167d020a5741964d9106ca0e4425fb2f": {
-      "titleKo": "벨벳 혁명 기념일, 슬로바키아 친러 지도자 규탄 시위",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
     "65d7a051652e1d2c4bb67afe98428b0cd1b02c7d999b630b6139939d8d419386": {
       "titleKo": "맘다니, 과잉 진압 논란 NYPD 부대 해체…선거 공약 이행",
       "model": "gemini-2.5-flash",
@@ -279,24 +549,6 @@
     },
     "778004cc90204c4d681d8b074c7d2b0325e431d66256b0004036e9b78c491fa7": {
       "titleKo": "경찰 부청장, 선거일 매표 행위 체포 옹호…총리실 정보원 '부적절' 인정",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "e830a7674c0dcb1887296068151ce16696e223b9cc2d14fe8d05bef40dbacc21": {
-      "titleKo": "국가안보국 내부 통신망 마비",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "90501886f664d339c8d3b59d2ad6c2356c62b5aa1ca4f456b59ad994ecdbc962": {
-      "titleKo": "WATCH: 이글스 자폐증 재단 직원들, 경기 당일 빛났다",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "7b1a9c43d79223c55ff4e480d2f110264052640a43cf55c383585b694913582b": {
-      "titleKo": "트럼프 관세가 캐나다 자동차 산업 압박하자, 카니 중국으로 눈 돌려",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-17T19:50:26.328Z",
       "updatedAt": "2026-11-17T19:50:26.328Z"
@@ -321,18 +573,6 @@
     },
     "da83cf97c2fc89f03f8353bc73ade9b149e4c2db8371eb0862b10534be405de4": {
       "titleKo": "선거 당일 매표 의혹 제기한 네타냐후 전 보좌관, 투표 전 아랍 정당 예상 의석수 총리와 논의했다고 밝혀",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "4c8fcb3bc19b65f97edfb17dc0a02c29eb6941003895f3207d65348201928bb2": {
-      "titleKo": "EU·아세안, 무역 관계 심화 추진…비공식 장벽에 기업들 고전하며 난관 여전",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-17T19:50:26.328Z",
-      "updatedAt": "2026-11-17T19:50:26.328Z"
-    },
-    "f310a1b7676af01886ae33b926accca851e7f85fed1f7ab40789abc3b2c34668": {
-      "titleKo": "이스라엘 아랍계 의원들, 유대계 의원들과 동등한가? 곧 밝혀질 것",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-17T19:50:26.328Z",
       "updatedAt": "2026-11-17T19:50:26.328Z"
@@ -1035,12 +1275,6 @@
     },
     "4989da27fe5553c77f7c55bf231160e83a938193c93a4f77ecb02b11b9f116bb": {
       "titleKo": "네타냐후, 체코 총리와 함께 \"유럽도 이란 미사일·핵 프로그램 표적\" 경고",
-      "model": "gemini-2.5-flash",
-      "translatedAt": "2026-11-16T19:45:43.611Z",
-      "updatedAt": "2026-11-16T19:45:43.611Z"
-    },
-    "5560cc83b2a5bbb859cb6d9a7654bc3ff008b7cb5c2eb685d0d2a209a44da096": {
-      "titleKo": "영상에 따르면 ICE 요원, 캘리포니아서 임신한 미국 시민에 최루액 분사",
       "model": "gemini-2.5-flash",
       "translatedAt": "2026-11-16T19:45:43.611Z",
       "updatedAt": "2026-11-16T19:45:43.611Z"
