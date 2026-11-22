@@ -1,21 +1,651 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T22:23:49.763Z",
+  "generatedAt": "2026-11-22T02:28:20.145Z",
   "articleCount": 300,
   "collection": {
     "state": "ok",
-    "availableSources": 13,
+    "availableSources": 14,
     "totalSources": 14
   },
   "translation": {
     "state": "translated",
     "model": "gemini-2.5-flash",
-    "translated": 108,
-    "fallback": 0,
-    "pending": 192,
+    "translated": 132,
+    "fallback": 1,
+    "pending": 167,
     "message": "번역이 완료되었습니다."
   },
   "articles": [
+    {
+      "id": "5fb3e7481af0c4c8",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "火災で焼失の首里城正殿 午後から国主催の復元完成式 沖縄",
+      "titleKo": "화재로 소실된 슈리성 정전, 오후부터 국가 주최 복원 완성식 개최 (오키나와)",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79841",
+      "publishedAt": "2026-11-22T02:15:23.000Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3bf07aff3e3b2bdd",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+      "titleKo": "이번 주 \"선데이 모닝\" (11월 22일): 음식 특집",
+      "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue",
+      "publishedAt": "2026-11-22T02:14:20.000Z",
+      "collectedAt": "2026-11-22T02:27:32.998Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "143c3c99ee4c13bc",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "FBI's national crime database targeted in hack, Trump says",
+      "titleKo": "트럼프 \"FBI 국가 범죄 데이터베이스 해킹 공격받았다\"",
+      "url": "https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810",
+      "publishedAt": "2026-11-22T02:12:39.000Z",
+      "collectedAt": "2026-11-22T02:27:32.897Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "0bce2596af1b3210",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+      "titleKo": "빅토리아 녹색당, 당 브랜드 모방·최하위 선호 투표 안내 카드에 긴급 금지 명령 신청",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+      "publishedAt": "2026-11-22T02:08:49.000Z",
+      "collectedAt": "2026-11-22T02:27:32.344Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "161a804c4bad4b31",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Pro-Israel advocate kicked to the ground during a pro-Palestinian protest in Berlin",
+      "titleKo": "베를린 팔레스타인 지지 시위 중 친이스라엘 지지자, 발로 차여 넘어졌다",
+      "url": "https://www.jpost.com/international/article-915661",
+      "publishedAt": "2026-11-22T02:03:34.000Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "f1345503690b0c8a",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Frustration mounts as Manchester City’s slump continues",
+      "titleKo": "맨체스터 시티 부진 계속되자 좌절감 고조",
+      "url": "https://www.japantimes.co.jp/sports/2026/11/22/soccer/manchester-city-fulham-draw",
+      "publishedAt": "2026-11-22T01:58:00.000Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "6a57c1dfa70ddb07",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Kelly, an orange-and-white beauty, is a true delight",
+      "titleKo": "주황색과 흰색의 아름다운 켈리, 진정한 기쁨을 선사한다",
+      "url": "https://www.japantimes.co.jp/community/2026/11/22/kelly-cat-adoption",
+      "publishedAt": "2026-11-22T01:48:00.000Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "53ad692f069c34ee",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "'Draconian, pure racism': Journalist Ilana Dayan addresses report of Netanyahu election conspiracy",
+      "titleKo": "일라나 다얀 기자, 네타냐후 선거 음모론 보도에 \"'가혹하고 순수한 인종차별'\" 언급",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915660",
+      "publishedAt": "2026-11-22T01:43:20.000Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "c1fde965e6aa10fe",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "ICE officers arrest 2 passengers boarding flight in Seattle",
+      "titleKo": "ICE 요원, 시애틀에서 항공기 탑승하려던 승객 2명 체포",
+      "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle",
+      "publishedAt": "2026-11-22T01:41:00.000Z",
+      "collectedAt": "2026-11-22T02:27:32.998Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2f92585a6ea86a91",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Trump says he wants \"permanent\" deal with Iran",
+      "titleKo": "트럼프 \"이란과 '영구적' 합의 원해\" 밝혀",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons",
+      "publishedAt": "2026-11-22T01:34:57.000Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "70cc7d4b7dd90806",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Athlete swims Strait of Hormuz to highlight Iran war&#039;s wildlife toll",
+      "titleKo": "선수, 호르무즈 해협 횡단 수영으로 이란 전쟁의 야생동물 피해 조명",
+      "url": "https://www.cbsnews.com/news/athlete-swims-strait-of-hormuz-iran-war-wildlife",
+      "publishedAt": "2026-11-22T01:30:53.000Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "eb5e05bad0e99506",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "titleKo": "FBI 수배 10대 명단에 오른 멕시코 마약왕, 총격전 끝에 체포",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T01:25:03.000Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "be7afb287484e851",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "German politician attacked at anti-Israel protest in Berlin; Sa’ar praises her ‘courage’",
+      "titleKo": "베를린 반이스라엘 시위서 독일 정치인 피습…사아르 \"그녀의 용기\" 칭찬",
+      "url": "https://www.timesofisrael.com/liveblog-november-22-2026",
+      "publishedAt": "2026-11-22T01:25:01.000Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "594f64860aad6fd6",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Sohlberg met with team investigating electoral fraud, who confirmed results were valid — report",
+      "titleKo": "솔베르그, 선거 사기 조사팀 만나…팀 \"결과 유효\" 확인 - 보도",
+      "url": "https://www.timesofisrael.com/liveblog_entry/sohlberg-met-with-team-investigating-electoral-fraud-who-confirmed-results-were-valid-report",
+      "publishedAt": "2026-11-22T01:21:00.000Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b70984295bb46d76",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Scotland overpowers Japan in Nations Championship clash",
+      "titleKo": "스코틀랜드, 네이션스 챔피언십서 일본 압도",
+      "url": "https://www.japantimes.co.jp/sports/2026/11/22/more-sports/scotland-routs-brave-blossoms",
+      "publishedAt": "2026-11-22T01:15:00.000Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e4bc914428a69b49",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Hegseth issues new guidelines on US-Canadian defense partnership, further straining ties - report",
+      "titleKo": "헥세스, 미-캐나다 국방 협력 새 지침 발표…관계 더욱 긴장 - 보도",
+      "url": "https://www.jpost.com/international/article-915659",
+      "publishedAt": "2026-11-22T01:12:44.000Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "611bf89454a5ee60",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "アンソロピックの数学者 AIで難問「リーマン予想」証明と主張",
+      "titleKo": "앤스로픽 수학자 AI, 난제 '리만 가설' 증명 주장",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
+      "publishedAt": "2026-11-22T01:10:00.000Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "2baba3e655975e66",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+      "titleKo": "멕시코 북부서 카르텔 두목 검거…유혈 총격전으로 11명 사망",
+      "url": "https://www.timesofisrael.com/liveblog_entry/cartel-leader-captured-in-northern-mexico-in-a-bloody-firefight-that-left-11-dead",
+      "publishedAt": "2026-11-22T01:07:01.000Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "d8b27934cdbd485b",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Bahrain says Iranian attack hit industrial facility; IRGC says it targeted US positions",
+      "titleKo": "바레인 \"이란 공격 산업시설 강타\"…IRGC \"미군 기지 겨냥\"",
+      "url": "https://www.timesofisrael.com/bahrain-says-iranian-attack-hit-industrial-facility-irgc-says-it-targeted-us-positions",
+      "publishedAt": "2026-11-22T01:01:23.000Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9cc08c90299c8466",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
+      "titleKo": "\"문화 전쟁할 시간 없다\": 빅토리아주 전력 공급 위기…전력난·요금 폭탄 피할 수 있을까?",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
+      "publishedAt": "2026-11-22T01:00:13.000Z",
+      "collectedAt": "2026-11-22T02:27:32.344Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "953be900c1930f9b",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "U.S. Agriculture Department and FBI breached by hackers, reports say",
+      "titleKo": "미 농무부·FBI, 해커에 침해당해... 보도",
+      "url": "https://www.japantimes.co.jp/news/2026/11/22/world/crime-legal/us-fbi-usda-cyberattacks",
+      "publishedAt": "2026-11-22T00:52:00.000Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "a7d84b7fa3db21f7",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "【随時更新】ロシア ウクライナに軍事侵攻（11月22日の動き）",
+      "titleKo": "【수시 업데이트】 러시아, 우크라이나 군사 침공 (11월 22일 동향)",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de67166",
+      "publishedAt": "2026-11-22T00:51:35.000Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "eb02e9e4570dbcf5",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "COP31 climate talks close to final deal, summit president says",
+      "titleKo": "COP31 기후 회담, 최종 합의 임박... 의장 밝혀",
+      "url": "https://www.japantimes.co.jp/environment/2026/11/22/climate-change/cop31-climate-talks",
+      "publishedAt": "2026-11-22T00:51:00.000Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "49d29f6c822576cc",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Australia criticizes U.S. Congressional Budget Office over AUKUS comments",
+      "titleKo": "호주, AUKUS 관련 발언에 미 의회예산국 비판",
+      "url": "https://www.japantimes.co.jp/news/2026/11/22/asia-pacific/politics/australia-criticizes-us-aukus-comments",
+      "publishedAt": "2026-11-22T00:38:00.000Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "3ad7e33e0dcb0b13",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
+      "titleKo": "프레드 나일 전 NSW 정치인·우익 기독민주당 대표, 92세 일기로 별세",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
+      "publishedAt": "2026-11-22T00:26:35.000Z",
+      "collectedAt": "2026-11-22T02:27:32.344Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "51df5d0451abfc35",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "German politician attacked at anti-Israel protest in Berlin; Sa’ar praises her ‘courage’",
+      "titleKo": "독일 정치인, 베를린 반이스라엘 시위서 피습... 사아르, 그녀의 '용기' 칭찬",
+      "url": "https://www.timesofisrael.com/liveblog_entry/german-politician-attacked-at-anti-israel-protest-in-berlin-saar-praises-her-courage",
+      "publishedAt": "2026-11-22T00:21:13.000Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "201ceac8800629a5",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
+      "titleKo": "캘리포니아 열차 강도단, '엄청난' 2200만 달러 강탈 위해 치밀하게 범행",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
+      "publishedAt": "2026-11-22T00:20:41.000Z",
+      "collectedAt": "2026-11-22T02:27:32.387Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b21845a7e913b042",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "FBI most wanted 'El Chapo Isidro' captured in US-Mexican raid, dozen killed in operation",
+      "titleKo": "FBI 최상위 수배자 '엘 차포 이시드로' 미-멕시코 합동 급습으로 체포, 작전 중 12명 사망",
+      "url": "https://www.jpost.com/international/article-915658",
+      "publishedAt": "2026-11-22T00:15:20.000Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "21b685d39633ff43",
+      "sourceId": "bbc",
+      "source": "BBC News",
+      "sourceKo": "BBC",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "FBI reportedly investigating apparent hack of its criminal database",
+      "titleKo": "FBI, 범죄 데이터베이스 해킹 의혹 조사 중인 것으로 알려져",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T00:10:44.000Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "ed14877fbde69cd6",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "French protesters rally for sixth weekend over living costs, public services",
+      "titleKo": "프랑스 시위대, 생활비·공공 서비스 문제로 6주째 주말 집회",
+      "url": "https://www.japantimes.co.jp/news/2026/11/22/world/french-protesters-living-costs-public-services",
+      "publishedAt": "2026-11-21T23:58:00.000Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "8f5b2c246c52bc09",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Princeton student detained by ICE at Reagan Airport after conference",
+      "titleKo": "프린스턴대 학생, 학회 후 레이건 공항서 ICE에 구금",
+      "url": "https://www.cbsnews.com/news/princeton-student-ice",
+      "publishedAt": "2026-11-21T23:54:15.000Z",
+      "collectedAt": "2026-11-22T02:27:32.998Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "dc31b703b169b349",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "As Trump basks in summit pomp, China’s Xi strengthens his hand",
+      "titleKo": "트럼프 정상회담 화려함에 도취될 때, 시진핑은 영향력 강화",
+      "url": "https://www.japantimes.co.jp/news/2026/11/22/asia-pacific/politics/trump-china-xi-strength-analysis",
+      "publishedAt": "2026-11-21T23:54:00.000Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b7375eb1519255c8",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Mexico captures top drug lord ‘El Chapo Isidro,’ latest in string of arrests",
+      "titleKo": "멕시코, 거물 마약왕 '엘 차포 이시드로' 체포…연이은 검거 중 최신 사례",
+      "url": "https://www.japantimes.co.jp/news/2026/11/22/world/crime-legal/mexico-captures-el-chapo-isidro",
+      "publishedAt": "2026-11-21T23:52:00.000Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4877d171a2b0d8f7",
+      "sourceId": "jpost",
+      "source": "The Jerusalem Post",
+      "sourceKo": "예루살렘포스트",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Defense lawyer charged with hiding messages for security prisoners in legal paperwork",
+      "titleKo": "변호사, 법률 서류에 보안 수감자 메시지 숨긴 혐의로 기소",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-915656",
+      "publishedAt": "2026-11-21T23:50:27.000Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "60a219805f392eb0",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "デンマーク ロシア主導の暗殺計画阻止と発表 首相「制裁強化」",
+      "titleKo": "덴마크, 러시아 주도 암살 계획 저지 발표…총리 \"제재 강화\"",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79796",
+      "publishedAt": "2026-11-21T23:38:38.000Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "1e3e10d361694b26",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "ゼレンスキー大統領「3か国首脳会談はロシアにとっては失敗」",
+      "titleKo": "젤렌스키 대통령 \"3국 정상회담은 러시아에 실패\"",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79819",
+      "publishedAt": "2026-11-21T23:07:00.000Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "36f96b0ea6710223",
+      "sourceId": "euronews",
+      "source": "Euronews",
+      "sourceKo": "유로뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Ukraine: Dashcam captures massive explosion on Lviv street",
+      "titleKo": "우크라이나: 블랙박스, 르비우 거리 대규모 폭발 포착",
+      "url": "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street",
+      "publishedAt": "2026-11-21T23:05:47.000Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "b167281eef6bb008",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "‘Armored Trooper VOTOMS: Die Graue Hexe’: Sci-fi franchise gets a stylish reboot",
+      "titleKo": "'장갑기병 보톰즈: 회색 마녀' SF 프랜차이즈, 세련된 리부트",
+      "url": "https://www.japantimes.co.jp/culture/2026/11/22/film/armored-trooper-votoms-die-graue-hexe",
+      "publishedAt": "2026-11-21T23:00:00.000Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "9b1614201d8ac8ae",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "A sweet, rolled omelet worthy of a samurai warlord",
+      "titleKo": "A sweet, rolled omelet worthy of a samurai warlord",
+      "url": "https://www.japantimes.co.jp/life/2026/11/22/food-drink/washoku-essentials-datemaki-sweet-omelet-osechi-new-year",
+      "publishedAt": "2026-11-21T23:00:00.000Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
+      "translationStatus": "fallback"
+    },
+    {
+      "id": "018db343dd209d23",
+      "sourceId": "timesofisrael",
+      "source": "The Times of Israel",
+      "sourceKo": "타임스오브이스라엘",
+      "regions": [
+        "middleeast"
+      ],
+      "titleOriginal": "Leadership vote poses early test for Democrats who swept into Senate pledging change",
+      "titleKo": "상원 장악하며 변화 약속한 민주당, 리더십 투표로 조기 시험대",
+      "url": "https://www.timesofisrael.com/leadership-vote-poses-early-test-for-democrats-who-swept-into-senate-pledging-change",
+      "publishedAt": "2026-11-21T22:53:45.000Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "e67510e730c1b384",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
+      "titleKo": "태즈메이니아 당국, 플린더스섬 사망 남성 경찰관 총격 사건과 연루 발표",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+      "publishedAt": "2026-11-21T22:41:36.000Z",
+      "collectedAt": "2026-11-22T02:27:32.344Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "7ebb78a44af814e2",
+      "sourceId": "japantimes",
+      "source": "The Japan Times",
+      "sourceKo": "재팬타임스",
+      "regions": [
+        "asia"
+      ],
+      "titleOriginal": "Mao Shimada wins Finlandia Trophy to book spot in Grand Prix Final",
+      "titleKo": "시마다 마오, 핀란디아 트로피 우승으로 그랑프리 파이널 진출 확정",
+      "url": "https://www.japantimes.co.jp/sports/2026/11/22/more-sports/mao-shimada-wins-finland",
+      "publishedAt": "2026-11-21T22:33:00.000Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
+      "translationStatus": "translated"
+    },
     {
       "id": "f3261774d4d9a9d1",
       "sourceId": "jpost",
@@ -28,7 +658,52 @@
       "titleKo": "이라크, 바그다드 권위 시험하며 카타이브 헤즈볼라 거점 탈환 움직임 - 분석",
       "url": "https://www.jpost.com/middle-east/article-915654",
       "publishedAt": "2026-11-21T22:31:30.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "db674300ea604425",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
+      "titleKo": "FBI 수배 마약왕 체포 후 멕시코서 폭력 사태 발생",
+      "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa",
+      "publishedAt": "2026-11-21T22:30:10.000Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "58e6e2f8f1eaa87c",
+      "sourceId": "nhk",
+      "source": "NHK",
+      "sourceKo": "NHK",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "ホテル更衣室で保育園児など盗撮疑い 福島県警の行政職員逮捕",
+      "titleKo": "후쿠시마현 경찰 행정직원, 호텔 탈의실서 유치원생 등 불법 촬영 혐의로 체포",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79820",
+      "publishedAt": "2026-11-21T22:29:44.000Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "46aae50e6b1afc42",
+      "sourceId": "france24",
+      "source": "France 24",
+      "sourceKo": "프랑스24",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "EU-Indonesia agreement sees the light after ten years of negotiations",
+      "titleKo": "EU-인도네시아 협정, 10년 협상 끝에 결실 맺어",
+      "url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
+      "publishedAt": "2026-11-21T22:23:03.000Z",
+      "collectedAt": "2026-11-22T02:27:32.527Z",
       "translationStatus": "translated"
     },
     {
@@ -43,7 +718,7 @@
       "titleKo": "화석연료 갈등으로 COP31 기후회담 교착 상태",
       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T22:19:43.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "translated"
     },
     {
@@ -58,22 +733,7 @@
       "titleKo": "사우디 주도 연합군, 서부 지역 겨냥한 후티 탄도미사일 요격했다고 밝혀",
       "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-targeting-western-region",
       "publishedAt": "2026-11-21T22:19:40.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "fea86d6d5c492734",
-      "sourceId": "jpost",
-      "source": "The Jerusalem Post",
-      "sourceKo": "예루살렘포스트",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "Israel's Ben-Gurion University launches competition to design next-generation nuclear reactor",
-      "titleKo": "이스라엘 벤구리온 대학, 차세대 원자로 설계 공모전 개최",
-      "url": "https://www.jpost.com/israel-news/article-915653",
-      "publishedAt": "2026-11-21T22:17:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
       "translationStatus": "translated"
     },
     {
@@ -88,7 +748,7 @@
       "titleKo": "조지 워싱턴 머리카락 한 뭉치, 경매에서 4,000달러에 낙찰",
       "url": "https://www.cbsnews.com/news/george-washington-lock-of-hair-auction",
       "publishedAt": "2026-11-21T22:10:36.000Z",
-      "collectedAt": "2026-11-21T22:23:00.738Z",
+      "collectedAt": "2026-11-22T02:27:32.998Z",
       "translationStatus": "translated"
     },
     {
@@ -102,8 +762,8 @@
       "titleOriginal": "COP31 会期延長し協議続く 化石燃料からの脱却などめぐり",
       "titleKo": "COP31, 회기 연장해 협의 계속…화석 연료 탈피 등 논의",
       "url": "https://news.web.nhk/newsweb/na/nd-20261122de79786",
-      "publishedAt": "2026-11-21T22:06:48.000Z",
-      "collectedAt": "2026-11-21T22:23:01.091Z",
+      "publishedAt": "2026-11-21T22:06:00.000Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "translated"
     },
     {
@@ -118,7 +778,7 @@
       "titleKo": "마에바시 시가지 출몰 곰 발견 못 해…아침부터 수색 재개 예정",
       "url": "https://news.web.nhk/newsweb/na/nd-20261122de79777",
       "publishedAt": "2026-11-21T22:05:21.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "translated"
     },
     {
@@ -133,7 +793,7 @@
       "titleKo": "중세 잉글랜드 링컨의 잊혀진 유대인 역사, 오늘날 유대인에게 경고 - 논평",
       "url": "https://www.jpost.com/opinion/article-915287",
       "publishedAt": "2026-11-21T22:02:54.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
       "translationStatus": "translated"
     },
     {
@@ -148,7 +808,7 @@
       "titleKo": "조지 워싱턴 전 미국 대통령 머리카락 한 뭉치, 4,000달러에 팔려",
       "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T22:01:19.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "translated"
     },
     {
@@ -163,37 +823,7 @@
       "titleKo": "프란체스카 알바네세 예우로 앰네스티는 창립 원칙을 저버렸다 - 논평",
       "url": "https://www.jpost.com/opinion/article-915486",
       "publishedAt": "2026-11-21T22:00:17.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "14c3d39ac791b7b3",
-      "sourceId": "abcnews",
-      "source": "ABC News",
-      "sourceKo": "ABC뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Cartel leader on FBI's most wanted list arrested",
-      "titleKo": "FBI 최상위 수배자 명단에 오른 카르텔 두목 체포",
-      "url": "https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100",
-      "publishedAt": "2026-11-21T22:00:02.000Z",
-      "collectedAt": "2026-11-21T22:23:00.814Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "39e5192456910de7",
-      "sourceId": "jpost",
-      "source": "The Jerusalem Post",
-      "sourceKo": "예루살렘포스트",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "'I came from the future': Man arrested over suspected threats against Bennett and his son",
-      "titleKo": "'나는 미래에서 왔다'…베넷과 아들에게 위협 혐의로 남성 체포",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-915648",
-      "publishedAt": "2026-11-21T21:58:03.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
       "translationStatus": "translated"
     },
     {
@@ -208,7 +838,7 @@
       "titleKo": "케이트 공주, 새 다큐멘터리서 치유 과정 언급 \"암은 당신을 변화시킨다\"",
       "url": "https://www.cbsnews.com/news/catherine-princess-of-wales-heal-documentary-cancer-healing",
       "publishedAt": "2026-11-21T21:57:14.000Z",
-      "collectedAt": "2026-11-21T22:23:00.722Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
       "translationStatus": "translated"
     },
     {
@@ -223,7 +853,7 @@
       "titleKo": "베넷, 아이젠코트 주도 통합 정부 지지…네타냐후 차기 총리 반대, 탈당은 배제",
       "url": "https://www.timesofisrael.com/bennett-backs-unity-government-under-eisenkot-nixes-netanyahu-as-next-pm-rules-out-defection",
       "publishedAt": "2026-11-21T21:55:29.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
       "translationStatus": "translated"
     },
     {
@@ -238,7 +868,7 @@
       "titleKo": "나이지리아서 장례식 가던 보트 전복…최소 24명 사망",
       "url": "https://abcnews.com/International/wireStory/24-dead-nigeria-boat-capsizes-carrying-people-funeral-138348287",
       "publishedAt": "2026-11-21T21:54:54.000Z",
-      "collectedAt": "2026-11-21T22:23:00.822Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
       "translationStatus": "translated"
     },
     {
@@ -253,7 +883,7 @@
       "titleKo": "'다리 건설 중단하라'…리치 사베츠키, 유대인 생존 새 접근법 촉구",
       "url": "https://www.jpost.com/diaspora/antisemitism/article-915533",
       "publishedAt": "2026-11-21T21:54:50.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
       "translationStatus": "translated"
     },
     {
@@ -268,7 +898,7 @@
       "titleKo": "아이젠코트 연정 협상 개시하자 리쿠드, 통합 정부 조건 제시",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915652",
       "publishedAt": "2026-11-21T21:54:03.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
       "translationStatus": "translated"
     },
     {
@@ -283,7 +913,7 @@
       "titleKo": "또 다른 무의미한 전쟁? 이스라엘인들은 기꺼이 응한다",
       "url": "https://www.haaretz.com/opinion/2026-11-21/ty-article-opinion/.premium/another-pointless-war-israelis-are-happy-to-oblige/000001a1-ff6e-d175-abf5-ff7edc7d0000",
       "publishedAt": "2026-11-21T21:50:56.000Z",
-      "collectedAt": "2026-11-21T22:23:00.850Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "translated"
     },
     {
@@ -298,7 +928,7 @@
       "titleKo": "크네세트 의장은 아랍계 의원들에 대한 선동을 중단해야 할 때",
       "url": "https://www.haaretz.com/opinion/editorial/2026-11-21/ty-article-opinion/its-time-for-the-knesset-speaker-to-stop-incitment-against-arab-lawmakers/000001a1-ffdc-dad7-a9fd-ffdf50970000",
       "publishedAt": "2026-11-21T21:49:59.000Z",
-      "collectedAt": "2026-11-21T22:23:00.850Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "translated"
     },
     {
@@ -313,7 +943,7 @@
       "titleKo": "레바논 아운 대통령, 이란에 '내정 간섭' 중단 요구…이스라엘 철수도 촉구",
       "url": "https://www.timesofisrael.com/lebanons-aoun-tells-iran-to-stop-interfering-in-its-affairs-demands-israeli-withdrawal",
       "publishedAt": "2026-11-21T21:39:53.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
       "translationStatus": "translated"
     },
     {
@@ -328,7 +958,7 @@
       "titleKo": "【영상】픽업 뉴스 (11월 22일)",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79711",
       "publishedAt": "2026-11-21T21:35:53.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "translated"
     },
     {
@@ -343,7 +973,7 @@
       "titleKo": "바레인, 오늘 밤 이란의 2차 공격 보고…이란 혁명수비대 \"미군 기지에 미사일·드론 복합 공격 감행\"",
       "url": "https://www.timesofisrael.com/liveblog_entry/bahrain-reports-2nd-iranian-attack-tonight-irgc-says-it-launched-combined-missile-and-drone-attack-on-us-bases",
       "publishedAt": "2026-11-21T21:33:07.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
       "translationStatus": "translated"
     },
     {
@@ -358,7 +988,7 @@
       "titleKo": "이란, 바레인 미군 기지 공격…유조선들은 미국 봉쇄 돌파 준비 중",
       "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
       "publishedAt": "2026-11-21T21:32:51.000Z",
-      "collectedAt": "2026-11-21T22:22:59.393Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "translated"
     },
     {
@@ -373,22 +1003,7 @@
       "titleKo": "가가와 JR 요산선 신호 문제로 특급열차 등 약 6시간 발 묶였으나 운행 재개",
       "url": "https://news.web.nhk/newsweb/na/nd-20261122de79790",
       "publishedAt": "2026-11-21T21:14:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "eb5e05bad0e99506",
-      "sourceId": "bbc",
-      "source": "BBC News",
-      "sourceKo": "BBC",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "titleKo": "FBI 수배 10대 명단에 오른 멕시코 마약왕, 총격전 끝에 체포",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T21:05:29.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "translated"
     },
     {
@@ -403,7 +1018,7 @@
       "titleKo": "AI 자율 무기 국제회의, 법적 구속력 있는 규칙 제정 합의 불발",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79771",
       "publishedAt": "2026-11-21T21:02:26.000Z",
-      "collectedAt": "2026-11-21T22:23:01.091Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "translated"
     },
     {
@@ -418,7 +1033,7 @@
       "titleKo": "암호화폐 이용자 신고 누락 많아…국세 당국, 조사 체제 강화 예정",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79765",
       "publishedAt": "2026-11-21T20:51:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "translated"
     },
     {
@@ -433,7 +1048,7 @@
       "titleKo": "바레인 \"이란 공격으로 산업 시설 피격, 화재 발생\"",
       "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-21/ty-article/bahrain-says-iranian-attack-hits-industrial-facility-causes-fire/000001a1-ffcb-d9ff-a7b5-ffeffe980000",
       "publishedAt": "2026-11-21T20:50:30.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "translated"
     },
     {
@@ -448,7 +1063,22 @@
       "titleKo": "대만, 캐나다 카니에 경고 \"중국과 관계 심화는 위험 수반\"",
       "url": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706",
       "publishedAt": "2026-11-21T20:50:14.000Z",
-      "collectedAt": "2026-11-21T22:23:00.822Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "4fd9c8fcb417b213",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "11 killed in burst of violence in northern Mexico after capture of cartel leader",
+      "titleKo": "카르텔 두목 체포 후 멕시코 북부서 폭력 사태 발생, 11명 사망",
+      "url": "https://abcnews.com/International/wireStory/mexico-detains-top-cartel-boss-el-chapo-isidro-138341584",
+      "publishedAt": "2026-11-21T20:50:13.000Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
       "translationStatus": "translated"
     },
     {
@@ -463,7 +1093,7 @@
       "titleKo": "아이젠코트, 네타냐후 당에 '마라톤' 이스라엘 연정 협상 제안",
       "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
       "publishedAt": "2026-11-21T20:49:04.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "translated"
     },
     {
@@ -478,7 +1108,7 @@
       "titleKo": "베넷, 리쿠드와 협상 진행 중 확인…네타냐후 총리 복귀 없을 것 맹세",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915647",
       "publishedAt": "2026-11-21T20:39:54.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
       "translationStatus": "translated"
     },
     {
@@ -493,7 +1123,7 @@
       "titleKo": "트럼프 지지 이라크 지도자, 이란에 맞서지만…테헤란 대리인들은 끈질기게 버텨",
       "url": "https://www.haaretz.com/middle-east-news/2026-11-21/ty-article/.premium/iraqs-trump-backed-leader-challenges-iran-but-tehrans-proxies-persevere/000001a1-ff51-da78-a9f9-ff513dc30000",
       "publishedAt": "2026-11-21T20:38:52.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "translated"
     },
     {
@@ -508,22 +1138,7 @@
       "titleKo": "트럼프, 연방 계약업체에 의회 질의 백악관 통보 명령",
       "url": "https://abcnews.com/Politics/trump-orders-federal-contractors-coordinate-white-house-congressional/story?id=138344717",
       "publishedAt": "2026-11-21T20:36:03.000Z",
-      "collectedAt": "2026-11-21T22:23:00.814Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "2f92585a6ea86a91",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Trump says he wants \"permanent\" deal with Iran",
-      "titleKo": "트럼프 \"이란과 '영구적' 합의 원해\" 밝혀",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons",
-      "publishedAt": "2026-11-21T20:30:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.723Z",
+      "collectedAt": "2026-11-22T02:27:32.897Z",
       "translationStatus": "translated"
     },
     {
@@ -538,7 +1153,7 @@
       "titleKo": "이란, 미 해군 봉쇄 뚫을 유조선 호송대 준비…걸프 시설 위협 - 보도",
       "url": "https://www.jpost.com/middle-east/iran-news/article-915644",
       "publishedAt": "2026-11-21T20:29:47.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
       "translationStatus": "translated"
     },
     {
@@ -553,7 +1168,7 @@
       "titleKo": "영상: 멕시코군, FBI 최상위 수배 카르텔 보스 '엘 차포 이시드로' 체포",
       "url": "https://www.euronews.com/2026/11/21/video-shows-mexican-forces-capturing-el-chapo-isidro-fbi-most-wanted-cartel-boss",
       "publishedAt": "2026-11-21T20:24:17.000Z",
-      "collectedAt": "2026-11-21T22:22:59.393Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "translated"
     },
     {
@@ -568,7 +1183,7 @@
       "titleKo": "프랑스 6주 연속 토요 시위, 참가자 수 감소",
       "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
       "publishedAt": "2026-11-21T20:20:37.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "translated"
     },
     {
@@ -577,13 +1192,13 @@
       "source": "The Guardian",
       "sourceKo": "가디언",
       "regions": [
-        "aitech"
+        "economy"
       ],
       "titleOriginal": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
       "titleKo": "두 단체, '클로드'가 수학 문제 증명 도왔다는 수학자 주장 검증",
       "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
       "publishedAt": "2026-11-21T20:15:57.000Z",
-      "collectedAt": "2026-11-21T22:23:00.301Z",
+      "collectedAt": "2026-11-22T02:27:32.387Z",
       "translationStatus": "translated"
     },
     {
@@ -598,7 +1213,7 @@
       "titleKo": "'역대 최악' COP 정상회의인가?",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20261121-worst-ever-cop-summit",
       "publishedAt": "2026-11-21T20:08:48.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "translated"
     },
     {
@@ -613,7 +1228,7 @@
       "titleKo": "10세 소년 살해 후 슈아파트서 복면 폭도들 주택 방화",
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-915645",
       "publishedAt": "2026-11-21T20:02:33.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
       "translationStatus": "translated"
     },
     {
@@ -628,22 +1243,7 @@
       "titleKo": "이스라엘 베테랑 TV 앵커, 인종차별 발언 후 친네타냐후 채널 14 합류",
       "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-21/ty-article/.premium/veteran-israeli-tv-anchor-joins-pro-netanyahu-channel-14-after-racist-remarks/000001a1-feff-d191-a7fd-ffff03f20000",
       "publishedAt": "2026-11-21T19:58:22.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "db674300ea604425",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
-      "titleKo": "FBI 수배 마약왕 체포 후 멕시코서 폭력 사태 발생",
-      "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa",
-      "publishedAt": "2026-11-21T19:58:01.000Z",
-      "collectedAt": "2026-11-21T22:23:00.723Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "translated"
     },
     {
@@ -658,7 +1258,7 @@
       "titleKo": "러시아, 젤렌스키 고향 공격… 우크라이나, NATO 가입 희망 재확인",
       "url": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
       "publishedAt": "2026-11-21T19:56:39.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "translated"
     },
     {
@@ -673,7 +1273,7 @@
       "titleKo": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
       "url": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
       "publishedAt": "2026-11-21T19:55:07.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "pending"
     },
     {
@@ -688,7 +1288,7 @@
       "titleKo": "沖縄 火災で焼失の首里城正殿 きょう国主催の「復元完成式」",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79741",
       "publishedAt": "2026-11-21T19:50:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "pending"
     },
     {
@@ -703,7 +1303,7 @@
       "titleKo": "Bahrain says Iranian strike hit civilian industrial facility, sparking fire; IRGC says US bases targeted",
       "url": "https://www.timesofisrael.com/liveblog_entry/bahrain-says-iranian-strike-hit-civilian-industrial-facility-sparking-fire-irgc-says-us-bases-targeted",
       "publishedAt": "2026-11-21T19:44:52.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
       "translationStatus": "pending"
     },
     {
@@ -718,7 +1318,7 @@
       "titleKo": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
       "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
       "publishedAt": "2026-11-21T19:43:52.000Z",
-      "collectedAt": "2026-11-21T22:23:00.094Z",
+      "collectedAt": "2026-11-22T02:27:32.363Z",
       "translationStatus": "pending"
     },
     {
@@ -733,7 +1333,7 @@
       "titleKo": "Hormuz tankers hit in apparent Iranian attacks as Qataris visit Tehran for mediation talks",
       "url": "https://www.timesofisrael.com/hormuz-tankers-hit-in-apparent-iranian-attacks-as-qataris-visit-tehran-for-mediation-talks",
       "publishedAt": "2026-11-21T19:30:50.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
       "translationStatus": "pending"
     },
     {
@@ -748,7 +1348,7 @@
       "titleKo": "山形新幹線 早朝の一部列車を除き通常運転の見通し",
       "url": "https://news.web.nhk/newsweb/na/nd-20261122de79780",
       "publishedAt": "2026-11-21T19:27:02.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "pending"
     },
     {
@@ -763,7 +1363,7 @@
       "titleKo": "In conditions for ‘unity’ coalition, Likud demands end to ‘political boycotts’ of Netanyahu, formal renunciation of ‘terror supporting’ parties",
       "url": "https://www.timesofisrael.com/liveblog_entry/in-conditions-for-unity-coalition-likud-demands-end-to-political-boycotts-of-netanyahu-formal-renunciation-of-terror-supporting-parties",
       "publishedAt": "2026-11-21T19:26:48.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
       "translationStatus": "pending"
     },
     {
@@ -778,7 +1378,22 @@
       "titleKo": "Tel Aviv resident arrested over post allegedly threatening to shoot Bennett and his son",
       "url": "https://www.timesofisrael.com/tel-aviv-resident-arrested-over-post-allegedly-threatening-to-shoot-bennett-and-his-son",
       "publishedAt": "2026-11-21T19:23:42.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
+      "translationStatus": "pending"
+    },
+    {
+      "id": "42f1afd68dbb98bf",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife",
+      "titleKo": "Athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife",
+      "url": "https://abcnews.com/International/wireStory/endurance-athlete-swims-strait-hormuz-highlight-iran-wars-138338972",
+      "publishedAt": "2026-11-21T19:22:13.000Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
       "translationStatus": "pending"
     },
     {
@@ -793,22 +1408,7 @@
       "titleKo": "Russia-bound ship attacked in Gulf of Finland",
       "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T19:20:22.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "dd06d6565cfdf999",
-      "sourceId": "jpost",
-      "source": "The Jerusalem Post",
-      "sourceKo": "예루살렘포스트",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "IDF confirms vehicle struck in Gaza was used by PIJ terrorists, after claims they were aid workers",
-      "titleKo": "IDF confirms vehicle struck in Gaza was used by PIJ terrorists, after claims they were aid workers",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-915643",
-      "publishedAt": "2026-11-21T19:15:57.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "pending"
     },
     {
@@ -823,7 +1423,7 @@
       "titleKo": "Eisenkot seeks &#x27;marathon&#x27; coalition talks with Likud as Bennett rules out Netanyahu",
       "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-21/ty-article/.premium/eisenkot-seeks-marathon-of-talks-with-likud-as-bennett-rules-out-netanyahu/000001a1-ff3d-d381-ade5-fffd68400000",
       "publishedAt": "2026-11-21T19:10:39.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "pending"
     },
     {
@@ -838,7 +1438,7 @@
       "titleKo": "DEA says new synthetic pills are deadlier than they&#039;ve seen before",
       "url": "https://www.cbsnews.com/video/dea-says-new-synthetic-pills-are-deadlier-than-theyve-seen-before",
       "publishedAt": "2026-11-21T19:10:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.738Z",
+      "collectedAt": "2026-11-22T02:27:32.998Z",
       "translationStatus": "pending"
     },
     {
@@ -853,37 +1453,7 @@
       "titleKo": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
       "url": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
       "publishedAt": "2026-11-21T19:00:08.000Z",
-      "collectedAt": "2026-11-21T22:22:59.930Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "d5d9cb68a2b902d2",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
-      "titleKo": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
-      "publishedAt": "2026-11-21T19:00:07.000Z",
-      "collectedAt": "2026-11-21T22:22:59.930Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "d6f86261916f60dd",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
-      "titleKo": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
-      "publishedAt": "2026-11-21T19:00:06.000Z",
-      "collectedAt": "2026-11-21T22:22:59.930Z",
+      "collectedAt": "2026-11-22T02:27:32.344Z",
       "translationStatus": "pending"
     },
     {
@@ -898,7 +1468,7 @@
       "titleKo": "Brazil ex-president Bolsonaro placed under intensive care for abdominal issue, hospital says",
       "url": "https://www.timesofisrael.com/liveblog_entry/brazil-ex-president-bolsonaro-placed-under-intensive-care-for-abdominal-issue-hospital-says",
       "publishedAt": "2026-11-21T18:58:06.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
       "translationStatus": "pending"
     },
     {
@@ -913,7 +1483,7 @@
       "titleKo": "Man killed in criminal shooting in northern Arab town of Reineh, first responders say",
       "url": "https://www.timesofisrael.com/liveblog_entry/man-killed-in-criminal-shooting-in-northern-arab-town-of-reineh-first-responders-say",
       "publishedAt": "2026-11-21T18:56:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
       "translationStatus": "pending"
     },
     {
@@ -928,7 +1498,7 @@
       "titleKo": "Golan says he won’t block coalition with Haredi parties; Abbas confident Eisenkot will form government",
       "url": "https://www.timesofisrael.com/liveblog_entry/golan-says-he-wont-block-coalition-with-haredi-parties-abbas-confident-eisenkot-will-form-government",
       "publishedAt": "2026-11-21T18:54:04.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
       "translationStatus": "pending"
     },
     {
@@ -943,7 +1513,7 @@
       "titleKo": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
       "publishedAt": "2026-11-21T18:50:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -958,7 +1528,7 @@
       "titleKo": "Trump signs executive order on federal workers&#039; responses to Congress",
       "url": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress",
       "publishedAt": "2026-11-21T18:33:46.000Z",
-      "collectedAt": "2026-11-21T22:23:00.738Z",
+      "collectedAt": "2026-11-22T02:27:32.998Z",
       "translationStatus": "pending"
     },
     {
@@ -973,7 +1543,7 @@
       "titleKo": "Israeli strike in Gaza City kills 3; IDF says it hit terrorists masquerading as aid workers",
       "url": "https://www.timesofisrael.com/israeli-strike-in-gaza-city-kills-3-idf-says-it-hit-terrorists-masquerading-as-aid-workers",
       "publishedAt": "2026-11-21T18:32:51.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
       "translationStatus": "pending"
     },
     {
@@ -988,7 +1558,7 @@
       "titleKo": "정정한 93세 예루살렘 주민의 메시지: '하나님의 가장 큰 선물은 운동' - 인터뷰",
       "url": "https://www.jpost.com/aliyah/article-915408",
       "publishedAt": "2026-11-21T18:29:13.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
       "translationStatus": "translated"
     },
     {
@@ -1003,7 +1573,7 @@
       "titleKo": "Trump vows to work with Democrats to cap credit card interest rates",
       "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics",
       "publishedAt": "2026-11-21T18:27:57.000Z",
-      "collectedAt": "2026-11-21T22:23:00.738Z",
+      "collectedAt": "2026-11-22T02:27:32.998Z",
       "translationStatus": "pending"
     },
     {
@@ -1018,7 +1588,7 @@
       "titleKo": "Bennett backs unity government under Eisenkot, says Netanyahu must not be next PM, rules out defection ‘under any circumstances’",
       "url": "https://www.timesofisrael.com/liveblog_entry/in-first-statement-since-netanyahu-meeting-bennett-backs-unity-government-under-eisenkot-rules-out-defection-under-any-circumstances",
       "publishedAt": "2026-11-21T18:15:02.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
       "translationStatus": "pending"
     },
     {
@@ -1033,7 +1603,7 @@
       "titleKo": "Trump orders contractors to check with White House over any congressional inquiries",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
       "publishedAt": "2026-11-21T18:08:30.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -1048,23 +1618,8 @@
       "titleKo": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
       "url": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
       "publishedAt": "2026-11-21T18:02:23.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "pending"
-    },
-    {
-      "id": "3bf07aff3e3b2bdd",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-      "titleKo": "이번 주 \"선데이 모닝\" (11월 22일): 음식 특집",
-      "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue",
-      "publishedAt": "2026-11-21T17:54:42.000Z",
-      "collectedAt": "2026-11-21T22:23:00.738Z",
-      "translationStatus": "translated"
     },
     {
       "id": "461e6d9c749c03e4",
@@ -1078,7 +1633,7 @@
       "titleKo": "Eisenkot invites Likud to marathon coalition talks in bid to form broad government",
       "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-invites-likud-to-marathon-coalition-talks-in-bid-to-form-broad-government",
       "publishedAt": "2026-11-21T17:50:46.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.484Z",
       "translationStatus": "pending"
     },
     {
@@ -1093,7 +1648,7 @@
       "titleKo": "A true government of change must ensure equal representation for women",
       "url": "https://www.haaretz.com/opinion/2026-11-21/ty-article-opinion/.premium/a-true-government-of-change-must-ensure-equal-representation-for-women/000001a1-feef-d381-ade5-ffefc6520000",
       "publishedAt": "2026-11-21T17:49:05.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "pending"
     },
     {
@@ -1108,53 +1663,8 @@
       "titleKo": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
       "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
       "publishedAt": "2026-11-21T17:46:55.000Z",
-      "collectedAt": "2026-11-21T22:22:59.930Z",
+      "collectedAt": "2026-11-22T02:27:32.344Z",
       "translationStatus": "pending"
-    },
-    {
-      "id": "68d524828341be11",
-      "sourceId": "timesofisrael",
-      "source": "The Times of Israel",
-      "sourceKo": "타임스오브이스라엘",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "Tel Aviv man arrested for post allegedly threatening to shoot Naftali Bennett",
-      "titleKo": "Tel Aviv man arrested for post allegedly threatening to shoot Naftali Bennett",
-      "url": "https://www.timesofisrael.com/liveblog_entry/tel-aviv-man-arrested-for-post-allegedly-threatening-to-shoot-naftali-bennett",
-      "publishedAt": "2026-11-21T17:45:41.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "d94c51abacd4425b",
-      "sourceId": "timesofisrael",
-      "source": "The Times of Israel",
-      "sourceKo": "타임스오브이스라엘",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "UTJ expects new Haredi enlistment proposal from Eisenkot amid coalition talks — report",
-      "titleKo": "UTJ expects new Haredi enlistment proposal from Eisenkot amid coalition talks — report",
-      "url": "https://www.timesofisrael.com/liveblog_entry/utj-expects-new-haredi-enlistment-proposal-from-eisenkot-amid-coalition-talks-report",
-      "publishedAt": "2026-11-21T17:37:49.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "a8adc2adad80d1f4",
-      "sourceId": "jpost",
-      "source": "The Jerusalem Post",
-      "sourceKo": "예루살렘포스트",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "German SPD figures afraid to speak out for Israel, former Bundestag member says - interview",
-      "titleKo": "전 독일 연방의원 '독일 사민당 인사들, 이스라엘 옹호 발언 두려워해' - 인터뷰",
-      "url": "https://www.jpost.com/diaspora/article-915641",
-      "publishedAt": "2026-11-21T17:31:44.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
-      "translationStatus": "translated"
     },
     {
       "id": "5541ef1b17c5b142",
@@ -1168,7 +1678,7 @@
       "titleKo": "COP31, 에너지·재정·과학 분야 깊은 의견 차이 지속",
       "url": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
       "publishedAt": "2026-11-21T17:26:47.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "translated"
     },
     {
@@ -1183,7 +1693,7 @@
       "titleKo": "밴스, '이란 핵무기 근접' 트럼프 주장 선뜻 지지하지 않아",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
       "publishedAt": "2026-11-21T17:24:51.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "translated"
     },
     {
@@ -1198,7 +1708,7 @@
       "titleKo": "트럼프, 이란 핵 협상 관련 '현 지도부 합리적일 수 있으나 다루기 매우 어려워'",
       "url": "https://www.jpost.com/international/article-915640",
       "publishedAt": "2026-11-21T17:24:17.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
       "translationStatus": "translated"
     },
     {
@@ -1213,7 +1723,7 @@
       "titleKo": "FBI 범죄 데이터베이스 해킹당해",
       "url": "https://www.france24.com/en/fbi-criminal-database-hacked",
       "publishedAt": "2026-11-21T17:23:18.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "translated"
     },
     {
@@ -1228,22 +1738,7 @@
       "titleKo": "팔리세이즈 화재 방화범 유죄 판결",
       "url": "https://www.france24.com/en/man-convicted-of-starting-palisades-fire",
       "publishedAt": "2026-11-21T17:21:55.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "f477ed23da5c274e",
-      "sourceId": "timesofisrael",
-      "source": "The Times of Israel",
-      "sourceKo": "타임스오브이스라엘",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "Lebanon’s Aoun tells Iran to stop ‘interfering’ in its affairs, insists that Israeli withdrawal is only path to peace",
-      "titleKo": "레바논 아운 대통령, 이란에 '내정 간섭' 중단 요구… \"이스라엘 철수만이 평화의 길\" 강조",
-      "url": "https://www.timesofisrael.com/liveblog_entry/lebanons-aoun-tells-iran-to-stop-interfering-in-its-affairs-insists-that-israeli-withdrawal-is-only-path-to-peace",
-      "publishedAt": "2026-11-21T17:18:20.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "translated"
     },
     {
@@ -1258,7 +1753,7 @@
       "titleKo": "러시아 헬기, 핀란드 영공 침범 의혹",
       "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-11-21T17:08:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.198Z",
+      "collectedAt": "2026-11-22T02:27:32.391Z",
       "translationStatus": "translated"
     },
     {
@@ -1273,7 +1768,7 @@
       "titleKo": "치명적 드론 공격 펜타곤 조사에 유가족들 불만 표출",
       "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families",
       "publishedAt": "2026-11-21T17:02:37.000Z",
-      "collectedAt": "2026-11-21T22:23:00.723Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
       "translationStatus": "translated"
     },
     {
@@ -1288,37 +1783,7 @@
       "titleKo": "최신 뉴스 속보 | 2026년 11월 21일 – 저녁",
       "url": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-evening",
       "publishedAt": "2026-11-21T17:00:26.000Z",
-      "collectedAt": "2026-11-21T22:22:59.393Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "a353ab46ab5890ae",
-      "sourceId": "timesofisrael",
-      "source": "The Times of Israel",
-      "sourceKo": "타임스오브이스라엘",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "IDF says targets of earlier Gaza City strike were PIJ operatives falsely presented as aid workers",
-      "titleKo": "IDF \"가자지구 공격 목표는 '구호 요원 위장' PIJ 대원\"",
-      "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-targets-of-earlier-gaza-city-strike-were-pij-operatives-falsely-presented-as-aid-workers",
-      "publishedAt": "2026-11-21T16:56:08.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "563ae65f7d5f4987",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Saturday Sessions: Mynd Reader plays \"Still Uncertain\"",
-      "titleKo": "Saturday Sessions: 마인드 리더, 'Still Uncertain' 연주",
-      "url": "https://www.cbsnews.com/video/saturday-sessions-mynd-reader-plays-still-uncertain",
-      "publishedAt": "2026-11-21T16:52:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.738Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "translated"
     },
     {
@@ -1333,68 +1798,8 @@
       "titleKo": "레알 마드리드, 수익 경쟁서 바이에른 뮌헨 추월…양 구단 모두 역대 최고 실적 기록",
       "url": "https://www.euronews.com/2026/11/21/real-madrid-outpace-bayern-munich-in-revenue-race-as-both-clubs-post-record-figures",
       "publishedAt": "2026-11-21T16:51:05.000Z",
-      "collectedAt": "2026-11-21T22:22:59.538Z",
+      "collectedAt": "2026-11-22T02:27:32.265Z",
       "translationStatus": "translated"
-    },
-    {
-      "id": "7f5fd2b19aceaa54",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Saturday Sessions: Mynd Reader plays \"Soundtrack of Life\"",
-      "titleKo": "Saturday Sessions: Mynd Reader plays \"Soundtrack of Life\"",
-      "url": "https://www.cbsnews.com/video/saturday-sessions-mynd-reader-plays-soundtrack-of-life",
-      "publishedAt": "2026-11-21T16:51:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.738Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "e7c8bd8d12450820",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "NYC&#039;s \"Wayan\" pairs Indonesian cuisine with French technique",
-      "titleKo": "뉴욕 '와얀', 인도네시아 요리에 프랑스 기법 접목",
-      "url": "https://www.cbsnews.com/video/nycs-wayan-pairs-indonesian-cuisine-with-french-technique",
-      "publishedAt": "2026-11-21T16:47:04.000Z",
-      "collectedAt": "2026-11-21T22:23:00.738Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "4e38b616df383c29",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Saturday Sessions: Mynd Reader plays \"Straight on Through\"",
-      "titleKo": "Saturday Sessions: 마인드 리더, 'Straight on Through' 연주",
-      "url": "https://www.cbsnews.com/video/saturday-sessions-mynd-reader-plays-straight-on-through",
-      "publishedAt": "2026-11-21T16:46:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.738Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "dfbc00f8316e7f82",
-      "sourceId": "jpost",
-      "source": "The Jerusalem Post",
-      "sourceKo": "예루살렘포스트",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "Bennett eyes Netanyahu's political legacy as Eisenkot's coalition clock ticks - analysis",
-      "titleKo": "Bennett eyes Netanyahu's political legacy as Eisenkot's coalition clock ticks - analysis",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915638",
-      "publishedAt": "2026-11-21T16:45:10.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
-      "translationStatus": "pending"
     },
     {
       "id": "9ce5bd9ff61f1c18",
@@ -1408,22 +1813,7 @@
       "titleKo": "프랑스 경찰관들, 인종차별 폭행 혐의로 유죄 판결",
       "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault",
       "publishedAt": "2026-11-21T16:41:49.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "6ae64fa86bac07c8",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Kelsey Grammer celebrates America&#039;s 250th birthday in \"The America Opus\"",
-      "titleKo": "켈시 그래머, '디 아메리카 오푸스'에서 미국 250주년 기념",
-      "url": "https://www.cbsnews.com/video/kelsey-grammer-celebrates-americas-250th-birthday-in-the-america-opus",
-      "publishedAt": "2026-11-21T16:41:33.000Z",
-      "collectedAt": "2026-11-21T22:23:00.738Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "translated"
     },
     {
@@ -1438,22 +1828,7 @@
       "titleKo": "'자율 무기 사용 통제' 국제 유엔 회담 결렬",
       "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
       "publishedAt": "2026-11-21T16:36:11.000Z",
-      "collectedAt": "2026-11-21T22:23:00.301Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "21b685d39633ff43",
-      "sourceId": "bbc",
-      "source": "BBC News",
-      "sourceKo": "BBC",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "FBI reportedly investigating apparent hack of its criminal database",
-      "titleKo": "FBI, 범죄 데이터베이스 해킹 의혹 조사 중인 것으로 알려져",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T16:35:15.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.409Z",
       "translationStatus": "translated"
     },
     {
@@ -1468,22 +1843,7 @@
       "titleKo": "제왕나비의 신비로운 이동",
       "url": "https://www.cbsnews.com/video/the-mysterious-migration-of-monarch-butterflies",
       "publishedAt": "2026-11-21T16:29:21.000Z",
-      "collectedAt": "2026-11-21T22:23:00.723Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "c0f97cfd224a938e",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Kansas City Current, Washington Spirit players excited for NWSL final",
-      "titleKo": "캔자스시티 커런트·워싱턴 스피릿 선수들, NWSL 결승전 앞두고 '들뜬' 분위기",
-      "url": "https://www.cbsnews.com/video/kansas-city-current-washington-spirit-players-excited-for-nwsl-final",
-      "publishedAt": "2026-11-21T16:20:47.000Z",
-      "collectedAt": "2026-11-21T22:23:00.739Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
       "translationStatus": "translated"
     },
     {
@@ -1497,8 +1857,8 @@
       "titleOriginal": "Bon Appétit&#039;s tips for a perfect Thanksgiving gathering",
       "titleKo": "본 아페티, 완벽한 추수감사절 모임을 위한 팁 공개",
       "url": "https://www.cbsnews.com/video/bon-apptits-tips-for-a-perfect-thanksgiving-gathering",
-      "publishedAt": "2026-11-21T16:13:56.000Z",
-      "collectedAt": "2026-11-21T22:23:00.739Z",
+      "publishedAt": "2026-11-21T16:13:00.000Z",
+      "collectedAt": "2026-11-22T02:27:32.998Z",
       "translationStatus": "translated"
     },
     {
@@ -1513,22 +1873,7 @@
       "titleKo": "뉴욕 맘다니 시장, 기자들과 축구 경기 중 골 넣고 아킬레스건 파열",
       "url": "https://www.jpost.com/american-politics/article-915636",
       "publishedAt": "2026-11-21T16:12:10.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "7f2a50c8d72b5fad",
-      "sourceId": "cbsnews",
-      "source": "CBS News",
-      "sourceKo": "CBS뉴스",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "Exclusive discounts from CBS Mornings Deals",
-      "titleKo": "CBS 모닝 딜스, 독점 할인 제공",
-      "url": "https://www.cbsnews.com/video/cbs-mornings-deals-112126",
-      "publishedAt": "2026-11-21T16:11:07.000Z",
-      "collectedAt": "2026-11-21T22:23:00.739Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
       "translationStatus": "translated"
     },
     {
@@ -1543,7 +1888,7 @@
       "titleKo": "'다리 절단 권고' 프로 선수, 재진단으로 선수 경력 구했다",
       "url": "https://www.cbsnews.com/news/henry-nell-knee-cancer-health-story",
       "publishedAt": "2026-11-21T16:11:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.739Z",
+      "collectedAt": "2026-11-22T02:27:32.998Z",
       "translationStatus": "translated"
     },
     {
@@ -1557,8 +1902,8 @@
       "titleOriginal": "More changes are coming for Southwest Airlines, CEO says",
       "titleKo": "사우스웨스트항공 CEO \"더 많은 변화 있을 것\"",
       "url": "https://www.cbsnews.com/video/more-changes-are-coming-for-southwest-airlines-ceo-says",
-      "publishedAt": "2026-11-21T16:09:10.000Z",
-      "collectedAt": "2026-11-21T22:23:00.739Z",
+      "publishedAt": "2026-11-21T16:09:00.000Z",
+      "collectedAt": "2026-11-22T02:27:32.998Z",
       "translationStatus": "translated"
     },
     {
@@ -1573,37 +1918,7 @@
       "titleKo": "인내력 운동선수, 호르무즈 해협 횡단 수영",
       "url": "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait",
       "publishedAt": "2026-11-21T16:02:59.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "1cf31f760483593f",
-      "sourceId": "timesofisrael",
-      "source": "The Times of Israel",
-      "sourceKo": "타임스오브이스라엘",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "IDF says Gaza City strike targeted terror operatives; witnesses say struck vehicle was carrying aid, 3 people killed",
-      "titleKo": "IDF \"가자지구 공격, 테러범 겨냥\"…목격자들 \"구호품 차량 피격, 3명 사망\"",
-      "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-gaza-city-strike-targeted-terror-operatives-witnesses-say-struck-vehicle-was-carrying-aid-3-people-killed",
-      "publishedAt": "2026-11-21T16:02:52.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "e56716bec9f173a1",
-      "sourceId": "timesofisrael",
-      "source": "The Times of Israel",
-      "sourceKo": "타임스오브이스라엘",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "Ramle crime families reach reconciliation deal after dozens killed in years-long feud",
-      "titleKo": "수십 명 사망한 라믈레 범죄 조직 간 수년간의 불화, 화해 합의 도달",
-      "url": "https://www.timesofisrael.com/ramle-crime-families-reach-reconciliation-deal-after-dozens-killed-in-years-long-feud",
-      "publishedAt": "2026-11-21T16:01:55.000Z",
-      "collectedAt": "2026-11-21T22:23:00.337Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "translated"
     },
     {
@@ -1618,7 +1933,22 @@
       "titleKo": "프랑스 시위, 6주째 접어들며 동력 잃어",
       "url": "https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
       "publishedAt": "2026-11-21T16:00:03.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
+      "translationStatus": "translated"
+    },
+    {
+      "id": "70d7e7d9ba844c27",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
+      "regions": [
+        "us"
+      ],
+      "titleOriginal": "Mamdani&#039;s plan to close Rikers Island, revamp NYC jails",
+      "titleKo": "맘다니의 리커스 아일랜드 폐쇄 및 뉴욕시 교도소 개편 계획",
+      "url": "https://www.cbsnews.com/video/mamdanis-plan-to-close-rikers-island-revamp-nyc-jails",
+      "publishedAt": "2026-11-21T15:53:00.000Z",
+      "collectedAt": "2026-11-22T02:27:32.998Z",
       "translationStatus": "translated"
     },
     {
@@ -1633,7 +1963,7 @@
       "titleKo": "Countries race to secure Cop31 deal",
       "url": "https://www.france24.com/en/countries-race-to-secure-cop31-deal",
       "publishedAt": "2026-11-21T15:52:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "pending"
     },
     {
@@ -1648,7 +1978,7 @@
       "titleKo": "New day of protests across France",
       "url": "https://www.france24.com/en/new-day-of-protests-across-france",
       "publishedAt": "2026-11-21T15:50:52.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "pending"
     },
     {
@@ -1663,7 +1993,7 @@
       "titleKo": "Princess Kate announces she&#039;s in remission from cancer",
       "url": "https://www.cbsnews.com/news/kate-princess-of-wales-remission-cancer",
       "publishedAt": "2026-11-21T15:43:46.000Z",
-      "collectedAt": "2026-11-21T22:23:00.723Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
       "translationStatus": "pending"
     },
     {
@@ -1677,8 +2007,8 @@
       "titleOriginal": "How China gets access to American AI chips",
       "titleKo": "How China gets access to American AI chips",
       "url": "https://www.cbsnews.com/video/how-china-gets-access-to-american-ai-chips",
-      "publishedAt": "2026-11-21T15:35:23.000Z",
-      "collectedAt": "2026-11-21T22:23:00.723Z",
+      "publishedAt": "2026-11-21T15:35:00.000Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
       "translationStatus": "pending"
     },
     {
@@ -1693,7 +2023,7 @@
       "titleKo": "Virginia child dies in state’s first measles-associated death of 2026",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
       "publishedAt": "2026-11-21T15:30:07.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -1708,7 +2038,7 @@
       "titleKo": "EU and Indonesia sign trade deal",
       "url": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-11-21T15:21:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.198Z",
+      "collectedAt": "2026-11-22T02:27:32.391Z",
       "translationStatus": "pending"
     },
     {
@@ -1723,7 +2053,7 @@
       "titleKo": "Trump defends Putin after trilateral with Xi",
       "url": "https://www.cbsnews.com/video/trump-defends-putin-after-trilateral-with-xi",
       "publishedAt": "2026-11-21T15:19:18.000Z",
-      "collectedAt": "2026-11-21T22:23:00.723Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
       "translationStatus": "pending"
     },
     {
@@ -1738,7 +2068,7 @@
       "titleKo": "金塊4億円相当や現金約2500万円など盗まれる 兵庫 西宮の住宅",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79776",
       "publishedAt": "2026-11-21T15:03:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "pending"
     },
     {
@@ -1753,7 +2083,7 @@
       "titleKo": "Mexico captures drug cartel boss ‘El Chapo Isidro’ after deadly firefight",
       "url": "https://www.france24.com/en/americas/20261121-mexico-captures-drug-cartel-boss-el-chapo-isidro-after-deadly-firefight",
       "publishedAt": "2026-11-21T15:00:15.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "pending"
     },
     {
@@ -1768,7 +2098,7 @@
       "titleKo": "Witness recounts a botched execution in Texas: ‘Just such horror and terror and pain’",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/texas-witness-botched-execution-reinaldo-dennes",
       "publishedAt": "2026-11-21T15:00:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -1783,7 +2113,7 @@
       "titleKo": "New EU budget proposal aims at tax gobal tech giants",
       "url": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-11-21T14:58:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.198Z",
+      "collectedAt": "2026-11-22T02:27:32.391Z",
       "translationStatus": "pending"
     },
     {
@@ -1798,7 +2128,7 @@
       "titleKo": "Federal judge denies request to release man shot by immigration agents in New York",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
       "publishedAt": "2026-11-21T14:52:30.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -1813,7 +2143,7 @@
       "titleKo": "Russia strikes Zelenskyy's hometown, killing 2",
       "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-11-21T14:44:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.198Z",
+      "collectedAt": "2026-11-22T02:27:32.391Z",
       "translationStatus": "pending"
     },
     {
@@ -1828,7 +2158,7 @@
       "titleKo": "Two oil tankers hit by unidentified projectiles near Strait of Hormuz, U.K. maritime organization says",
       "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-21/ty-article/two-oil-tankers-hit-by-unidentified-projectiles-near-strait-of-hormuz/000001a1-fe7c-dad7-a9fd-fe7f22a00000",
       "publishedAt": "2026-11-21T14:39:04.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "pending"
     },
     {
@@ -1843,7 +2173,7 @@
       "titleKo": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
       "publishedAt": "2026-11-21T14:38:58.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -1858,7 +2188,7 @@
       "titleKo": "Brazil ex-president Bolsonaro in intensive care over intestinal problem",
       "url": "https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest",
       "publishedAt": "2026-11-21T14:35:56.000Z",
-      "collectedAt": "2026-11-21T22:22:59.393Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "pending"
     },
     {
@@ -1873,7 +2203,22 @@
       "titleKo": "Mexico captures FBI’s most-wanted cartel boss ‘El Chapo Isidro’, triggering violence",
       "url": "https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence",
       "publishedAt": "2026-11-21T14:20:35.000Z",
-      "collectedAt": "2026-11-21T22:22:59.393Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
+      "translationStatus": "pending"
+    },
+    {
+      "id": "33d1e56d78b0a381",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceKo": "가디언",
+      "regions": [
+        "economy"
+      ],
+      "titleOriginal": "Elon Musk’s lawyer joining Tom Brady in buying Chelsea stake",
+      "titleKo": "Elon Musk’s lawyer joining Tom Brady in buying Chelsea stake",
+      "url": "https://www.theguardian.com/football/2026/nov/21/elon-musk-lawyer-tom-brady-nfl-chelsea-stake",
+      "publishedAt": "2026-11-21T14:20:05.000Z",
+      "collectedAt": "2026-11-22T02:27:32.387Z",
       "translationStatus": "pending"
     },
     {
@@ -1888,7 +2233,7 @@
       "titleKo": "'The Israel of Latin America': Guatemala presidential hopeful seeks Mossad's help to fight crime",
       "url": "https://www.jpost.com/international/article-915535",
       "publishedAt": "2026-11-21T14:13:04.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
       "translationStatus": "pending"
     },
     {
@@ -1903,7 +2248,7 @@
       "titleKo": "USDA, FBI breached by hackers amid spate of tech outages – reports",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
       "publishedAt": "2026-11-21T14:09:02.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -1918,7 +2263,7 @@
       "titleKo": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
       "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
       "publishedAt": "2026-11-21T14:00:01.000Z",
-      "collectedAt": "2026-11-21T22:23:00.301Z",
+      "collectedAt": "2026-11-22T02:27:32.409Z",
       "translationStatus": "pending"
     },
     {
@@ -1933,7 +2278,7 @@
       "titleKo": "11/21: CBS Saturday Morning",
       "url": "https://www.cbsnews.com/video/112126-cbs-saturday-morning",
       "publishedAt": "2026-11-21T14:00:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.723Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
       "translationStatus": "pending"
     },
     {
@@ -1948,7 +2293,7 @@
       "titleKo": "Denmark says Russia behind plot to kill U.S.-Ukrainian citizen on its soil",
       "url": "https://www.cbsnews.com/news/denmark-accuses-russia-assassination-plot-against-us-ukrainian-citizen",
       "publishedAt": "2026-11-21T13:21:35.000Z",
-      "collectedAt": "2026-11-21T22:23:00.723Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
       "translationStatus": "pending"
     },
     {
@@ -1963,7 +2308,7 @@
       "titleKo": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T13:17:38.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "pending"
     },
     {
@@ -1978,7 +2323,7 @@
       "titleKo": "Fiona the hippo’s death was tragic. But blaming a ‘bad mom’ is absurd | Arwa Mahdawi",
       "url": "https://www.theguardian.com/commentisfree/2026/nov/21/fiona-the-hippo-death-bad-mom-scapegoat",
       "publishedAt": "2026-11-21T13:00:01.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -1993,7 +2338,7 @@
       "titleKo": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
       "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
       "publishedAt": "2026-11-21T13:00:01.000Z",
-      "collectedAt": "2026-11-21T22:23:00.141Z",
+      "collectedAt": "2026-11-22T02:27:32.387Z",
       "translationStatus": "pending"
     },
     {
@@ -2008,7 +2353,7 @@
       "titleKo": "【詳細】ロシア ウクライナに軍事侵攻（11月21日の動き）",
       "url": "https://news.web.nhk/newsweb/na/nd-20261028de67165",
       "publishedAt": "2026-11-21T13:00:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.091Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "pending"
     },
     {
@@ -2023,7 +2368,7 @@
       "titleKo": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
       "publishedAt": "2026-11-21T13:00:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -2038,7 +2383,7 @@
       "titleKo": "Cargo ship runs aground off French coast",
       "url": "https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast",
       "publishedAt": "2026-11-21T12:52:27.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "pending"
     },
     {
@@ -2053,7 +2398,7 @@
       "titleKo": "Russia tests NATO’s eastern defences",
       "url": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
       "publishedAt": "2026-11-21T12:50:35.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "pending"
     },
     {
@@ -2068,7 +2413,7 @@
       "titleKo": "Thousands protest overs prices, education, military spending in France and Europe",
       "url": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
       "publishedAt": "2026-11-21T12:48:46.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "pending"
     },
     {
@@ -2083,7 +2428,22 @@
       "titleKo": "Missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
       "url": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723",
       "publishedAt": "2026-11-21T12:47:10.000Z",
-      "collectedAt": "2026-11-21T22:23:00.821Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
+      "translationStatus": "pending"
+    },
+    {
+      "id": "fa24ba88755c46c8",
+      "sourceId": "abcnews",
+      "source": "ABC News",
+      "sourceKo": "ABC뉴스",
+      "regions": [
+        "world"
+      ],
+      "titleOriginal": "Black music producer's lawyer hails landmark ruling as French court finds racist police violence",
+      "titleKo": "Black music producer's lawyer hails landmark ruling as French court finds racist police violence",
+      "url": "https://abcnews.com/International/wireStory/black-music-producers-lawyer-hails-landmark-ruling-french-138340923",
+      "publishedAt": "2026-11-21T12:45:56.000Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
       "translationStatus": "pending"
     },
     {
@@ -2098,7 +2458,7 @@
       "titleKo": "AI has entered Israel&#x27;s courtrooms. Will an algorithm soon deliver verdicts?",
       "url": "https://www.haaretz.com/israel-news/2026-11-21/ty-article-magazine/.highlight/ai-has-entered-israels-courtrooms-will-an-algorithm-soon-deliver-verdicts/000001a1-fd1e-dad7-a9fd-ff5f1d5e0000",
       "publishedAt": "2026-11-21T12:42:25.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "pending"
     },
     {
@@ -2113,7 +2473,7 @@
       "titleKo": "제설차에 치여 국도 횡단 중이던 여성 사망 (후쿠이 가쓰야마)",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79712",
       "publishedAt": "2026-11-21T12:38:33.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "translated"
     },
     {
@@ -2128,7 +2488,7 @@
       "titleKo": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
       "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
       "publishedAt": "2026-11-21T12:35:54.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:32.528Z",
       "translationStatus": "pending"
     },
     {
@@ -2143,7 +2503,7 @@
       "titleKo": "Germany's religious freedom report: Authoritarian regimes, holy wars, and spies abroad",
       "url": "https://www.dw.com/en/germany-s-religious-freedom-report-authoritarian-regimes-holy-wars-and-spies-abroad/a-79995216?maca=en-rss-en-ger-1023-rdf",
       "publishedAt": "2026-11-21T12:31:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.370Z",
+      "collectedAt": "2026-11-22T02:27:32.501Z",
       "translationStatus": "pending"
     },
     {
@@ -2158,22 +2518,7 @@
       "titleKo": "ウクライナ支援の有志連合 初の軍事演習をメディアに公開",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79750",
       "publishedAt": "2026-11-21T12:30:45.000Z",
-      "collectedAt": "2026-11-21T22:23:01.091Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "4499f4efe6b2c5c1",
-      "sourceId": "france24",
-      "source": "France 24",
-      "sourceKo": "프랑스24",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Ethiopia: Tackling period poverty and stigma",
-      "titleKo": "Ethiopia: Tackling period poverty and stigma",
-      "url": "https://www.france24.com/en/ethiopia-tackling-period-poverty-and-stigma",
-      "publishedAt": "2026-11-21T12:22:44.000Z",
-      "collectedAt": "2026-11-21T22:23:00.461Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "pending"
     },
     {
@@ -2188,7 +2533,7 @@
       "titleKo": "Strait of Hormuz: Athlete swims through war zone to expose war's environmental toll",
       "url": "https://www.euronews.com/video/2026/11/21/strait-of-hormuz-athlete-swims-through-war-zone-to-expose-wars-environmental-toll",
       "publishedAt": "2026-11-21T12:18:40.000Z",
-      "collectedAt": "2026-11-21T22:22:59.393Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "pending"
     },
     {
@@ -2203,22 +2548,7 @@
       "titleKo": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal",
       "url": "https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
       "publishedAt": "2026-11-21T12:00:58.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "febc455698f49d6b",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "economy"
-      ],
-      "titleOriginal": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
-      "titleKo": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
-      "url": "https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada",
-      "publishedAt": "2026-11-21T12:00:58.000Z",
-      "collectedAt": "2026-11-21T22:23:00.141Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -2233,7 +2563,7 @@
       "titleKo": "Race to lead Senate Democrats the latest battlefield in party’s tussle over Israel",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
       "publishedAt": "2026-11-21T12:00:57.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -2248,7 +2578,7 @@
       "titleKo": "前橋 市街地出没のクマ見つからず 22日朝から捜索再開",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79555",
       "publishedAt": "2026-11-21T11:56:09.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "pending"
     },
     {
@@ -2263,7 +2593,7 @@
       "titleKo": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
       "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
       "publishedAt": "2026-11-21T11:33:01.000Z",
-      "collectedAt": "2026-11-21T22:23:00.141Z",
+      "collectedAt": "2026-11-22T02:27:32.387Z",
       "translationStatus": "pending"
     },
     {
@@ -2278,7 +2608,7 @@
       "titleKo": "Ten-year-old boy shot dead in front of students while walking to school in Shuafat",
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-915631",
       "publishedAt": "2026-11-21T11:31:49.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
       "translationStatus": "pending"
     },
     {
@@ -2293,7 +2623,7 @@
       "titleKo": "将棋の福間香奈女流四冠 第2子の妊娠を公表",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79734",
       "publishedAt": "2026-11-21T11:13:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "pending"
     },
     {
@@ -2308,7 +2638,7 @@
       "titleKo": "Haitians excited but uneasy as El Salvador troops fight gangs",
       "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
       "publishedAt": "2026-11-21T11:00:57.000Z",
-      "collectedAt": "2026-11-21T22:22:59.930Z",
+      "collectedAt": "2026-11-22T02:27:32.344Z",
       "translationStatus": "pending"
     },
     {
@@ -2323,7 +2653,7 @@
       "titleKo": "Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
       "publishedAt": "2026-11-21T11:00:56.000Z",
-      "collectedAt": "2026-11-21T22:23:00.301Z",
+      "collectedAt": "2026-11-22T02:27:32.409Z",
       "translationStatus": "pending"
     },
     {
@@ -2338,7 +2668,7 @@
       "titleKo": "Latest news bulletin | November 21st, 2026 – Midday",
       "url": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-midday",
       "publishedAt": "2026-11-21T11:00:15.000Z",
-      "collectedAt": "2026-11-21T22:22:59.393Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "pending"
     },
     {
@@ -2353,7 +2683,7 @@
       "titleKo": "【動画】Pickup NEWS（11月21日）",
       "url": "https://news.web.nhk/newsweb/na/nd-20261120de79369",
       "publishedAt": "2026-11-21T10:42:19.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "pending"
     },
     {
@@ -2368,7 +2698,7 @@
       "titleKo": "Anthropic researcher uses AI to solve math's greatest riddle",
       "url": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-11-21T10:29:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.198Z",
+      "collectedAt": "2026-11-22T02:27:32.391Z",
       "translationStatus": "pending"
     },
     {
@@ -2383,7 +2713,7 @@
       "titleKo": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
       "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T10:26:36.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "pending"
     },
     {
@@ -2398,7 +2728,7 @@
       "titleKo": "Israeli envoy sparks backlash after saying U.S. troops will return home only when Iran is defeated",
       "url": "https://www.haaretz.com/us-news/2026-11-21/ty-article/.premium/israeli-envoy-sparks-backlash-by-linking-u-s-troop-withdrawal-to-irans-defeat/000001a1-fd62-d365-a5f7-ff665ecd0000",
       "publishedAt": "2026-11-21T10:22:03.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "pending"
     },
     {
@@ -2413,7 +2743,7 @@
       "titleKo": "Japan: Autonomous air taxi completes passenger flight without a pilot",
       "url": "https://www.euronews.com/video/2026/11/21/japan-autonomous-air-taxi-completes-passenger-flight-without-a-pilot",
       "publishedAt": "2026-11-21T10:20:25.000Z",
-      "collectedAt": "2026-11-21T22:22:59.393Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "pending"
     },
     {
@@ -2428,22 +2758,7 @@
       "titleKo": "Germany news: Support for Ukraine military aid waning, survey shows",
       "url": "https://www.dw.com/en/germany-news-support-for-ukraine-military-aid-waning-survey-shows/live-80008430?maca=en-rss-en-ger-1023-rdf",
       "publishedAt": "2026-11-21T10:10:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.370Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "f966784c35eed5a6",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "economy"
-      ],
-      "titleOriginal": "‘National scandal’: residents in England rally against surge in mega-warehouse developments",
-      "titleKo": "‘National scandal’: residents in England rally against surge in mega-warehouse developments",
-      "url": "https://www.theguardian.com/politics/2026/nov/21/national-scandal-residents-in-england-rally-against-surge-in-mega-warehouse-developments",
-      "publishedAt": "2026-11-21T10:00:54.000Z",
-      "collectedAt": "2026-11-21T22:23:00.141Z",
+      "collectedAt": "2026-11-22T02:27:32.501Z",
       "translationStatus": "pending"
     },
     {
@@ -2458,7 +2773,7 @@
       "titleKo": "아이코 공주, 싱가포르 방문 마치고 귀국",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79709",
       "publishedAt": "2026-11-21T09:50:26.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "translated"
     },
     {
@@ -2473,7 +2788,7 @@
       "titleKo": "리버만, 네타냐후 '우파적' 축출 위한 초정통파 합의 촉구…아랍 지지 거부",
       "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-21/ty-article/.premium/lieberman-netanyahu-can-only-be-replaced-from-the-right-not-with-arab-backing/000001a1-fd75-d9ff-a7b5-fdffc30b0000",
       "publishedAt": "2026-11-21T09:49:47.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "translated"
     },
     {
@@ -2488,7 +2803,7 @@
       "titleKo": "중국, 저탄소 전력화 및 타국 개선 지원 약속",
       "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
       "publishedAt": "2026-11-21T09:47:57.000Z",
-      "collectedAt": "2026-11-21T22:22:59.930Z",
+      "collectedAt": "2026-11-22T02:27:32.344Z",
       "translationStatus": "translated"
     },
     {
@@ -2503,7 +2818,7 @@
       "titleKo": "Deal with EU not dependent on tuition fees agreement, Miliband says",
       "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T09:40:55.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "pending"
     },
     {
@@ -2518,7 +2833,7 @@
       "titleKo": "트럼프 대통령, 중러 정상과의 3자 회담 의의 강조",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79489",
       "publishedAt": "2026-11-21T09:30:09.000Z",
-      "collectedAt": "2026-11-21T22:23:01.092Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "translated"
     },
     {
@@ -2533,7 +2848,7 @@
       "titleKo": "30대 이스라엘 여성, 2024년 이후 첫 광견병 사망 사례 발생",
       "url": "https://www.haaretz.com/israel-news/2026-11-21/ty-article/.premium/israeli-woman-in-her-30s-dies-of-rabies-in-first-case-since-2024/000001a1-fd3c-dad7-a9fd-ff7f49ed0000",
       "publishedAt": "2026-11-21T09:13:43.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "translated"
     },
     {
@@ -2548,7 +2863,7 @@
       "titleKo": "이스라엘 은행들, 제재 임박 우려…네타냐후 총리 위협 직면 거부",
       "url": "https://www.haaretz.com/israel-news/business/economy-finance/2026-11-21/ty-article/.premium/israeli-banks-fear-sanctions-are-closing-in-netanyahu-looks-away/000001a1-f967-d381-ade5-fbe7269d0000",
       "publishedAt": "2026-11-21T09:01:44.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "translated"
     },
     {
@@ -2563,7 +2878,7 @@
       "titleKo": "미 국방부, 미군 촬영 새 UFO 영상 기밀 해제",
       "url": "https://www.euronews.com/2026/11/21/pentagon-declassifies-new-ufo-footage-filmed-by-us-military",
       "publishedAt": "2026-11-21T09:01:41.000Z",
-      "collectedAt": "2026-11-21T22:22:59.393Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "translated"
     },
     {
@@ -2578,7 +2893,7 @@
       "titleKo": "화석 연료 갈등으로 COP31 회담, 예정 시간 넘겨 진행",
       "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime",
       "publishedAt": "2026-11-21T08:56:33.000Z",
-      "collectedAt": "2026-11-21T22:22:59.393Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "translated"
     },
     {
@@ -2593,7 +2908,7 @@
       "titleKo": "도쿄전력, 자본 제휴 후에도 중요 사안 결정에 국가 거부권 유지 제시",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79559",
       "publishedAt": "2026-11-21T08:28:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.104Z",
+      "collectedAt": "2026-11-22T02:27:34.312Z",
       "translationStatus": "translated"
     },
     {
@@ -2608,23 +2923,8 @@
       "titleKo": "영국 번햄 총리의 큰 걱정은 브렉시트나 복지 아닌 트럼프와 이란",
       "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/uk-burnham-brexit-welfare-trump-iran",
       "publishedAt": "2026-11-21T08:27:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
       "translationStatus": "translated"
-    },
-    {
-      "id": "953be900c1930f9b",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "U.S. Agriculture Department and FBI breached by hackers, reports say",
-      "titleKo": "U.S. Agriculture Department and FBI breached by hackers, reports say",
-      "url": "https://www.japantimes.co.jp/news/2026/11/21/world/crime-legal/us-fbi-usda-cyberattacks",
-      "publishedAt": "2026-11-21T08:13:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
-      "translationStatus": "pending"
     },
     {
       "id": "e69c5dda62f70ac5",
@@ -2638,7 +2938,7 @@
       "titleKo": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
       "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T08:10:25.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "pending"
     },
     {
@@ -2653,7 +2953,7 @@
       "titleKo": "트라팔가 광장 크리스마스트리, 노르웨이에서 벌목",
       "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T08:10:03.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "translated"
     },
     {
@@ -2668,7 +2968,7 @@
       "titleKo": "두 번째 판사, 트럼프의 거대한 '개선문' 건설 저지",
       "url": "https://www.euronews.com/2026/11/21/second-judge-blocks-construction-of-trumps-massive-triumphal-arch",
       "publishedAt": "2026-11-21T08:01:28.000Z",
-      "collectedAt": "2026-11-21T22:22:59.393Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "translated"
     },
     {
@@ -2683,7 +2983,7 @@
       "titleKo": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
       "url": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
       "publishedAt": "2026-11-21T08:00:53.000Z",
-      "collectedAt": "2026-11-21T22:23:00.141Z",
+      "collectedAt": "2026-11-22T02:27:32.387Z",
       "translationStatus": "pending"
     },
     {
@@ -2698,7 +2998,7 @@
       "titleKo": "The Israeli army razed a settler outpost, then left Palestinians to face a pogrom",
       "url": "https://www.haaretz.com/israel-news/twilight-zone/2026-11-21/ty-article-magazine/.highlight/israeli-army-razed-a-settler-outpost-then-left-palestinians-to-face-a-pogrom/000001a1-fce4-d02c-a7eb-fde6565c0000",
       "publishedAt": "2026-11-21T07:56:43.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "pending"
     },
     {
@@ -2713,7 +3013,7 @@
       "titleKo": "Anthropic researcher says Claude solved math’s greatest riddle",
       "url": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/ai-anthropic-claude-riemann-hypothesis",
       "publishedAt": "2026-11-21T07:46:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
       "translationStatus": "pending"
     },
     {
@@ -2728,7 +3028,7 @@
       "titleKo": "Countries open path towards ‘killer robots’ pact",
       "url": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/killer-robots-pact",
       "publishedAt": "2026-11-21T07:41:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
       "translationStatus": "pending"
     },
     {
@@ -2743,7 +3043,7 @@
       "titleKo": "Palestinian shot dead by security coordinator at Israeli settlement in West Bank",
       "url": "https://www.haaretz.com/west-bank/2026-11-21/ty-article/.premium/palestinian-shot-dead-by-security-coordinator-at-israeli-settlement-in-west-bank/000001a1-fcff-d9ff-a7b5-fdff8c040000",
       "publishedAt": "2026-11-21T07:36:10.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "pending"
     },
     {
@@ -2758,7 +3058,7 @@
       "titleKo": "Susumu Hirasawa’s ‘Paprika’ score is the perfect ‘retrofuturist’ sound for today",
       "url": "https://www.japantimes.co.jp/culture/2026/11/21/music/susumu-hirasawa-paprika-soundtrack",
       "publishedAt": "2026-11-21T07:30:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
       "translationStatus": "pending"
     },
     {
@@ -2773,7 +3073,7 @@
       "titleKo": "15-year-old boy shot dead in East Jerusalem&#x27;s Shuafat refugee camp",
       "url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-21/ty-article/.premium/15-year-old-boy-shot-dead-in-east-jerusalem-refugee-camp/000001a1-fced-d175-abf5-fefd31890000",
       "publishedAt": "2026-11-21T07:18:10.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "pending"
     },
     {
@@ -2788,7 +3088,7 @@
       "titleKo": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
       "url": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-11-21T07:10:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.198Z",
+      "collectedAt": "2026-11-22T02:27:32.391Z",
       "translationStatus": "pending"
     },
     {
@@ -2803,7 +3103,7 @@
       "titleKo": "Putin a 'killer,' Zelenskyy says after Trump calls Russian leader his 'friend'",
       "url": "https://www.euronews.com/2026/11/21/putin-a-killer-zelenskyy-says-after-trump-calls-russian-leader-his-friend",
       "publishedAt": "2026-11-21T07:07:09.000Z",
-      "collectedAt": "2026-11-21T22:22:59.394Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "pending"
     },
     {
@@ -2818,7 +3118,7 @@
       "titleKo": "I hated life as a Neet. But now I’ve found a job, life is just as precarious | Emilija Morrison",
       "url": "https://www.theguardian.com/commentisfree/2026/nov/21/hated-life-neet-found-job-life-precarious-government-young-people",
       "publishedAt": "2026-11-21T07:00:51.000Z",
-      "collectedAt": "2026-11-21T22:23:00.141Z",
+      "collectedAt": "2026-11-22T02:27:32.387Z",
       "translationStatus": "pending"
     },
     {
@@ -2833,7 +3133,7 @@
       "titleKo": "An Israeli historian&#x27;s unsettling explanation for the rise of fascism: It&#x27;s fun!",
       "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-21/ty-article-magazine/.highlight/an-israeli-historians-unsettling-explanation-for-the-rise-of-fascism-its-fun/000001a1-fc5f-d175-abf5-fe7f3b3e0000",
       "publishedAt": "2026-11-21T06:53:13.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "pending"
     },
     {
@@ -2848,7 +3148,7 @@
       "titleKo": "Russia dusts off its prewar demands as the US raises discussing European security at Ukraine talks",
       "url": "https://abcnews.com/International/wireStory/russia-dusts-off-prewar-demands-us-raises-discussing-138338870",
       "publishedAt": "2026-11-21T06:39:23.000Z",
-      "collectedAt": "2026-11-21T22:23:00.822Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
       "translationStatus": "pending"
     },
     {
@@ -2863,7 +3163,7 @@
       "titleKo": "自民 鈴木幹事長 関文科相問責対応“消費税法案など成立優先”",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79553",
       "publishedAt": "2026-11-21T06:08:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.119Z",
+      "collectedAt": "2026-11-22T02:27:34.340Z",
       "translationStatus": "pending"
     },
     {
@@ -2878,7 +3178,7 @@
       "titleKo": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
       "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
       "publishedAt": "2026-11-21T06:00:52.000Z",
-      "collectedAt": "2026-11-21T22:23:00.301Z",
+      "collectedAt": "2026-11-22T02:27:32.409Z",
       "translationStatus": "pending"
     },
     {
@@ -2893,7 +3193,7 @@
       "titleKo": "Latest news bulletin | November 21st, 2026 – Morning",
       "url": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-morning",
       "publishedAt": "2026-11-21T06:00:32.000Z",
-      "collectedAt": "2026-11-21T22:22:59.394Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "pending"
     },
     {
@@ -2908,7 +3208,7 @@
       "titleKo": "メルカリ AIに入力した個人情報漏えいか「リスト型攻撃」も",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79616",
       "publishedAt": "2026-11-21T05:33:40.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "pending"
     },
     {
@@ -2923,7 +3223,7 @@
       "titleKo": "‘We ​are tired from all this suffering’: displaced families in Gaza brace for another winter of misery",
       "url": "https://www.theguardian.com/world/2026/nov/21/displaced-families-gaza-winter-misery",
       "publishedAt": "2026-11-21T05:00:49.000Z",
-      "collectedAt": "2026-11-21T22:23:00.094Z",
+      "collectedAt": "2026-11-22T02:27:32.363Z",
       "translationStatus": "pending"
     },
     {
@@ -2938,7 +3238,7 @@
       "titleKo": "Tourists are throwing fewer coins into Rome’s Trevi fountain – is €2 entry fee to blame?",
       "url": "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
       "publishedAt": "2026-11-21T05:00:49.000Z",
-      "collectedAt": "2026-11-21T22:23:00.141Z",
+      "collectedAt": "2026-11-22T02:27:32.387Z",
       "translationStatus": "pending"
     },
     {
@@ -2953,22 +3253,7 @@
       "titleKo": "The far right is menacing Europe – but it is fragile. What the extremists and voters want isn’t the same | Gordon Brown",
       "url": "https://www.theguardian.com/commentisfree/2026/nov/21/far-right-menacing-europe-extremists-voters-spain-election-gordon-brown",
       "publishedAt": "2026-11-21T05:00:48.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "68f37992aedb54da",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
-      "titleKo": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
-      "publishedAt": "2026-11-21T04:44:00.000Z",
-      "collectedAt": "2026-11-21T22:22:59.930Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -2983,7 +3268,7 @@
       "titleKo": "As Trump courts Xi and Putin, middle powers make their own moves",
       "url": "https://www.japantimes.co.jp/news/2026/11/21/japan/politics/trump-xi-putin-middle-powers-analysis",
       "publishedAt": "2026-11-21T04:42:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
       "translationStatus": "pending"
     },
     {
@@ -2998,7 +3283,7 @@
       "titleKo": "Man convicted of starting Palisades fire in Los Angeles",
       "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T04:34:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "pending"
     },
     {
@@ -3013,7 +3298,7 @@
       "titleKo": "ナスダック株価指数急落 今週4兆ドル時価総額が消失",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79604",
       "publishedAt": "2026-11-21T04:33:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.091Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "pending"
     },
     {
@@ -3028,7 +3313,7 @@
       "titleKo": "ゼレンスキー大統領「私たちにとってプーチンは殺人者」",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79605",
       "publishedAt": "2026-11-21T04:22:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.091Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "pending"
     },
     {
@@ -3043,7 +3328,7 @@
       "titleKo": "Anthropic’s post-debut stumble delivers reality check for AI trade",
       "url": "https://www.japantimes.co.jp/business/2026/11/21/markets/anthropic-ai-stocks",
       "publishedAt": "2026-11-21T04:19:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
       "translationStatus": "pending"
     },
     {
@@ -3058,7 +3343,7 @@
       "titleKo": "Why Kim didn’t meet Trump, despite the hype",
       "url": "https://www.japantimes.co.jp/news/2026/11/21/asia-pacific/politics/why-kim-didnt-meet-trump",
       "publishedAt": "2026-11-21T04:15:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
       "translationStatus": "pending"
     },
     {
@@ -3073,7 +3358,7 @@
       "titleKo": "Magnitude 6.7 earthquake shakes Peru's Andes",
       "url": "https://abcnews.com/International/wireStory/magnitude-67-earthquake-shakes-perus-andes-damage-casualties-138334341",
       "publishedAt": "2026-11-21T03:53:18.000Z",
-      "collectedAt": "2026-11-21T22:23:00.822Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
       "translationStatus": "pending"
     },
     {
@@ -3088,7 +3373,7 @@
       "titleKo": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
       "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
       "publishedAt": "2026-11-21T03:51:03.000Z",
-      "collectedAt": "2026-11-21T22:23:00.141Z",
+      "collectedAt": "2026-11-22T02:27:32.387Z",
       "translationStatus": "pending"
     },
     {
@@ -3103,7 +3388,7 @@
       "titleKo": "Trump ousts cyber director after tech outages spark criticism",
       "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/us-cyber-director-ousted",
       "publishedAt": "2026-11-21T03:48:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
+      "collectedAt": "2026-11-22T02:27:35.183Z",
       "translationStatus": "pending"
     },
     {
@@ -3118,7 +3403,7 @@
       "titleKo": "All 146 Air Niugini plane passengers and crew safe after an emergency landing in Philippines",
       "url": "https://abcnews.com/International/wireStory/146-air-niugini-plane-passengers-crew-safe-after-138336593",
       "publishedAt": "2026-11-21T03:43:44.000Z",
-      "collectedAt": "2026-11-21T22:23:00.822Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
       "translationStatus": "pending"
     },
     {
@@ -3133,37 +3418,7 @@
       "titleKo": "Phumzile Mlambo-Ngcuka, former South Africa deputy president and UN Women chief, dies at 71",
       "url": "https://abcnews.com/International/wireStory/phumzile-mlambo-ngcuka-former-south-africa-deputy-president-138337313",
       "publishedAt": "2026-11-21T03:43:29.000Z",
-      "collectedAt": "2026-11-21T22:23:00.822Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "dd6dea3240672ade",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "From Hong Kong to Africa: Humble bag carries history of migration",
-      "titleKo": "From Hong Kong to Africa: Humble bag carries history of migration",
-      "url": "https://www.japantimes.co.jp/news/2026/11/21/world/humble-bag-migration-history",
-      "publishedAt": "2026-11-21T03:23:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "be2f121ccd68f117",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "Iran foreign minister wants diplomacy to end war; Trump says terms unacceptable",
-      "titleKo": "Iran foreign minister wants diplomacy to end war; Trump says terms unacceptable",
-      "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/iran-diplomacy-terms-unacceptable",
-      "publishedAt": "2026-11-21T03:20:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
       "translationStatus": "pending"
     },
     {
@@ -3178,22 +3433,22 @@
       "titleKo": "Brazil ex-President Jair Bolsonaro taken to hospital over abdominal pain",
       "url": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-11-21T03:16:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.199Z",
+      "collectedAt": "2026-11-22T02:27:32.391Z",
       "translationStatus": "pending"
     },
     {
-      "id": "c1de514cdd672ad2",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
+      "id": "4e414c4d0995d945",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
       "regions": [
-        "asia"
+        "us"
       ],
-      "titleOriginal": "Mao Shimada grabs lead at Finlandia Trophy after short program",
-      "titleKo": "Mao Shimada grabs lead at Finlandia Trophy after short program",
-      "url": "https://www.japantimes.co.jp/sports/2026/11/21/more-sports/mao-shimada-finlandia-trophy",
-      "publishedAt": "2026-11-21T03:10:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
+      "titleOriginal": "Stocks enter correction territory, driven by deepening tech rout",
+      "titleKo": "Stocks enter correction territory, driven by deepening tech rout",
+      "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears",
+      "publishedAt": "2026-11-21T02:25:00.000Z",
+      "collectedAt": "2026-11-22T02:27:32.998Z",
       "translationStatus": "pending"
     },
     {
@@ -3208,7 +3463,7 @@
       "titleKo": "프랑스 대선, 전 총리 출마 선언…극우 르펜 지지율 1위",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79545",
       "publishedAt": "2026-11-21T02:18:47.000Z",
-      "collectedAt": "2026-11-21T22:23:01.091Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "translated"
     },
     {
@@ -3223,22 +3478,7 @@
       "titleKo": "리니어 공사 현장 인근 강에서 물 솟아올라…JR 도카이 관련 조사 착수 (가와사키)",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79560",
       "publishedAt": "2026-11-21T02:13:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "77a1c6e418070702",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "Japan attempts to revive an American industrial icon",
-      "titleKo": "일본, '미국 산업의 상징' 부활 시도",
-      "url": "https://www.japantimes.co.jp/business/2026/11/21/japan-us-industrial-icon-revive",
-      "publishedAt": "2026-11-21T02:03:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "translated"
     },
     {
@@ -3253,23 +3493,8 @@
       "titleKo": "아이코 공주, 머라이언 공원 시찰 후 귀국길에",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79551",
       "publishedAt": "2026-11-21T02:00:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "translated"
-    },
-    {
-      "id": "0f3943399e3ab30b",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "Myanmar genocide judgment may bolster Gaza case against Israel",
-      "titleKo": "Myanmar genocide judgment may bolster Gaza case against Israel",
-      "url": "https://www.japantimes.co.jp/news/2026/11/21/world/crime-legal/myanmar-ruling-bolster-gaza-case",
-      "publishedAt": "2026-11-21T01:17:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
-      "translationStatus": "pending"
     },
     {
       "id": "115e3abc5d0fe772",
@@ -3283,7 +3508,7 @@
       "titleKo": "트럼프 대통령, 미국 외 데이터센터 건설 불허…벌칙도",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79543",
       "publishedAt": "2026-11-21T01:16:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.091Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "translated"
     },
     {
@@ -3298,7 +3523,7 @@
       "titleKo": "사이타마 미사토 분기점 인근 물류시설 화재…진화 작업 계속",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79548",
       "publishedAt": "2026-11-21T01:14:09.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
+      "collectedAt": "2026-11-22T02:27:34.354Z",
       "translationStatus": "translated"
     },
     {
@@ -3313,7 +3538,7 @@
       "titleKo": "신축 맨션 투기 거래 억제 검토…내년도 세제 개정",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79532",
       "publishedAt": "2026-11-21T01:05:48.000Z",
-      "collectedAt": "2026-11-21T22:23:01.119Z",
+      "collectedAt": "2026-11-22T02:27:34.340Z",
       "translationStatus": "translated"
     },
     {
@@ -3328,53 +3553,8 @@
       "titleKo": "Administration tries to intervene after Kalshi is threatened with restraining order",
       "url": "https://abcnews.com/US/kalshi-prediction-market-crippled-judge-grants-restraining-order/story?id=138329957",
       "publishedAt": "2026-11-21T00:49:33.000Z",
-      "collectedAt": "2026-11-21T22:23:00.815Z",
+      "collectedAt": "2026-11-22T02:27:32.897Z",
       "translationStatus": "pending"
-    },
-    {
-      "id": "ea339e98a5df2bfb",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
-      "titleKo": "혼다·도요타, 다카타 에어백 파열 위험으로 160만 대 리콜",
-      "url": "https://www.japantimes.co.jp/business/2026/11/21/honda-toyota-us-airbag-recall",
-      "publishedAt": "2026-11-21T00:36:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "5ecab20cb86985fe",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "Fresh off China trip, Trump bobs and weaves in freewheeling news conference",
-      "titleKo": "중국 방문 마친 트럼프, 자유분방한 기자회견서 오락가락",
-      "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/trump-freewheeling-news-conference",
-      "publishedAt": "2026-11-21T00:34:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
-      "translationStatus": "translated"
-    },
-    {
-      "id": "0bce2596af1b3210",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
-      "titleKo": "빅토리아 녹색당, 당 브랜드 모방·최하위 선호 투표 안내 카드에 긴급 금지 명령 신청",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-      "publishedAt": "2026-11-21T00:26:56.000Z",
-      "collectedAt": "2026-11-21T22:22:59.930Z",
-      "translationStatus": "translated"
     },
     {
       "id": "8af7606dcc978d28",
@@ -3388,7 +3568,7 @@
       "titleKo": "WATCH: Tips for hosting Friendsgiving this year",
       "url": "https://abcnews.com/video/138331305",
       "publishedAt": "2026-11-21T00:26:17.000Z",
-      "collectedAt": "2026-11-21T22:23:00.814Z",
+      "collectedAt": "2026-11-22T02:27:32.897Z",
       "translationStatus": "pending"
     },
     {
@@ -3403,7 +3583,7 @@
       "titleKo": "Haiti strikes deal with El Salvador to build new prisons after minister visit",
       "url": "https://abcnews.com/International/wireStory/haiti-strikes-deal-el-salvador-build-new-prisons-138332512",
       "publishedAt": "2026-11-21T00:17:44.000Z",
-      "collectedAt": "2026-11-21T22:23:00.822Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
       "translationStatus": "pending"
     },
     {
@@ -3418,22 +3598,7 @@
       "titleKo": "Bolivian festival seeks to return guinea pig to nations' rituals",
       "url": "https://abcnews.com/International/wireStory/bolivian-festival-seeks-return-guinea-pig-nations-rituals-138333056",
       "publishedAt": "2026-11-21T00:17:04.000Z",
-      "collectedAt": "2026-11-21T22:23:00.822Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "6014dda3f4202c54",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "Japan wary of U.S., Russia and China holding regular summits",
-      "titleKo": "Japan wary of U.S., Russia and China holding regular summits",
-      "url": "https://www.japantimes.co.jp/news/2026/11/21/japan/us-china-russia-summits-japan-wary",
-      "publishedAt": "2026-11-21T00:04:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
       "translationStatus": "pending"
     },
     {
@@ -3448,7 +3613,7 @@
       "titleKo": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
       "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T00:01:39.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "pending"
     },
     {
@@ -3463,7 +3628,7 @@
       "titleKo": "Republican senator blocks Trump cyber nominee over January 6 denial",
       "url": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
       "publishedAt": "2026-11-20T23:48:38.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -3478,7 +3643,7 @@
       "titleKo": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
       "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
       "publishedAt": "2026-11-20T23:42:43.000Z",
-      "collectedAt": "2026-11-21T22:23:00.141Z",
+      "collectedAt": "2026-11-22T02:27:32.387Z",
       "translationStatus": "pending"
     },
     {
@@ -3493,22 +3658,7 @@
       "titleKo": "11/20: CBS Evening News",
       "url": "https://www.cbsnews.com/video/112026-cbs-evening-news",
       "publishedAt": "2026-11-20T23:30:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.723Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "5966702efcbe8e6b",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "Tokyo is being reshaped by a historic real estate boom",
-      "titleKo": "Tokyo is being reshaped by a historic real estate boom",
-      "url": "https://www.japantimes.co.jp/business/2026/11/21/tokyo-real-estate-boom",
-      "publishedAt": "2026-11-20T23:30:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
       "translationStatus": "pending"
     },
     {
@@ -3523,7 +3673,7 @@
       "titleKo": "US declassifies more UFO footage filmed in the Middle East",
       "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T23:15:20.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.834Z",
       "translationStatus": "pending"
     },
     {
@@ -3538,38 +3688,23 @@
       "titleKo": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
       "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T23:08:57.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "pending"
     },
     {
-      "id": "c3c5d022ba4058d9",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
+      "id": "3540f70669a0d50b",
+      "sourceId": "cbsnews",
+      "source": "CBS News",
+      "sourceKo": "CBS뉴스",
       "regions": [
-        "asia"
+        "us"
       ],
-      "titleOriginal": "China’s summit snub could strengthen Takaichi’s standing at home",
-      "titleKo": "China’s summit snub could strengthen Takaichi’s standing at home",
-      "url": "https://www.japantimes.co.jp/news/2026/11/21/japan/politics/china-snub-boost-takaichi-base",
-      "publishedAt": "2026-11-20T23:07:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "36d5046f716c40a4",
-      "sourceId": "japantimes",
-      "source": "The Japan Times",
-      "sourceKo": "재팬타임스",
-      "regions": [
-        "asia"
-      ],
-      "titleOriginal": "Takaichi to meet ICC president on Tuesday",
-      "titleKo": "Takaichi to meet ICC president on Tuesday",
-      "url": "https://www.japantimes.co.jp/news/2026/11/21/japan/takaichi-akane-meeting-tuesday",
-      "publishedAt": "2026-11-20T23:01:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.510Z",
-      "translationStatus": "pending"
+      "titleOriginal": "Marine Corps hero under federal investigation",
+      "titleKo": "해병대 영웅, 연방 수사 대상에 올라",
+      "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation",
+      "publishedAt": "2026-11-20T23:00:50.000Z",
+      "collectedAt": "2026-11-22T02:27:32.998Z",
+      "translationStatus": "translated"
     },
     {
       "id": "271514fce0e518e3",
@@ -3583,7 +3718,7 @@
       "titleKo": "Germany: Berlin student protest targets rearmament and compulsory service",
       "url": "https://www.euronews.com/video/2026/11/20/germany-berlin-student-protest-targets-rearmament-and-compulsory-service",
       "publishedAt": "2026-11-20T22:54:22.000Z",
-      "collectedAt": "2026-11-21T22:22:59.394Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "pending"
     },
     {
@@ -3598,7 +3733,7 @@
       "titleKo": "国連事務総長は9回目の投票も決まらず",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79510",
       "publishedAt": "2026-11-20T22:51:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.091Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "pending"
     },
     {
@@ -3613,7 +3748,7 @@
       "titleKo": "米財務長官 米中で「軍事決定はAIでなく人間が関与」合意",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79483",
       "publishedAt": "2026-11-20T22:44:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.091Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "pending"
     },
     {
@@ -3628,7 +3763,7 @@
       "titleKo": "Tech stock sell-off drags markets down as Anthropic shares slide",
       "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T22:42:47.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "pending"
     },
     {
@@ -3643,7 +3778,7 @@
       "titleKo": "英王立音楽大学が久石譲さんに名誉学位 日本人では初",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79509",
       "publishedAt": "2026-11-20T22:40:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.091Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "pending"
     },
     {
@@ -3658,7 +3793,7 @@
       "titleKo": "French police officers sentenced for beating of music producer Michel Zecler",
       "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T22:37:09.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "pending"
     },
     {
@@ -3673,7 +3808,7 @@
       "titleKo": "英EU首脳会談 輸出入手続きの簡素化で合意 離脱後の関係強化",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79488",
       "publishedAt": "2026-11-20T22:35:11.000Z",
-      "collectedAt": "2026-11-21T22:23:01.091Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "pending"
     },
     {
@@ -3688,7 +3823,7 @@
       "titleKo": "Car explosion kills woman, wounds her two children in central Israel",
       "url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-21/ty-article/.premium/car-explosion-kills-woman-wounds-her-two-children-in-central-israel/000001a1-fb04-d175-abf5-ff34fd7d0000",
       "publishedAt": "2026-11-20T22:28:07.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "pending"
     },
     {
@@ -3703,7 +3838,7 @@
       "titleKo": "WATCH: Is travel insurance worth it after the FAA ground stop?",
       "url": "https://abcnews.com/video/138330689",
       "publishedAt": "2026-11-20T22:18:54.000Z",
-      "collectedAt": "2026-11-21T22:23:00.814Z",
+      "collectedAt": "2026-11-22T02:27:32.897Z",
       "translationStatus": "pending"
     },
     {
@@ -3718,7 +3853,7 @@
       "titleKo": "Trump touts relationships with Putin and Xi after historic Asia trip",
       "url": "https://abcnews.com/Politics/trump-hold-news-conference-friday-asia-trip/story?id=138307456",
       "publishedAt": "2026-11-20T22:09:39.000Z",
-      "collectedAt": "2026-11-21T22:23:00.815Z",
+      "collectedAt": "2026-11-22T02:27:32.897Z",
       "translationStatus": "pending"
     },
     {
@@ -3727,13 +3862,13 @@
       "source": "NHK",
       "sourceKo": "NHK",
       "regions": [
-        "world"
+        "economy"
       ],
       "titleOriginal": "ナスダック指数が一時5%超の急落 AIブーム持続性に疑問符",
       "titleKo": "ナスダック指数が一時5%超の急落 AIブーム持続性に疑問符",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79481",
       "publishedAt": "2026-11-20T22:01:32.000Z",
-      "collectedAt": "2026-11-21T22:23:01.092Z",
+      "collectedAt": "2026-11-22T02:27:34.312Z",
       "translationStatus": "pending"
     },
     {
@@ -3748,7 +3883,7 @@
       "titleKo": "11/20: The Takeout with Major Garrett",
       "url": "https://www.cbsnews.com/video/112026-the-takeout-with-major-garrett",
       "publishedAt": "2026-11-20T22:00:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.723Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
       "translationStatus": "pending"
     },
     {
@@ -3763,7 +3898,7 @@
       "titleKo": "サウジ側がフーシ派実効支配の首都攻撃 フーシ派は報復主張",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79487",
       "publishedAt": "2026-11-20T21:59:00.000Z",
-      "collectedAt": "2026-11-21T22:23:01.091Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "pending"
     },
     {
@@ -3778,7 +3913,7 @@
       "titleKo": "COP31会期を延長 化石燃料からの脱却めぐり対立",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79485",
       "publishedAt": "2026-11-20T21:48:20.000Z",
-      "collectedAt": "2026-11-21T22:23:01.092Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "pending"
     },
     {
@@ -3793,7 +3928,7 @@
       "titleKo": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
       "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
       "publishedAt": "2026-11-20T21:47:41.000Z",
-      "collectedAt": "2026-11-21T22:22:59.930Z",
+      "collectedAt": "2026-11-22T02:27:32.344Z",
       "translationStatus": "pending"
     },
     {
@@ -3808,7 +3943,7 @@
       "titleKo": "ウクライナ“ロシアから最大規模攻撃 8人死亡約30人けが”",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79482",
       "publishedAt": "2026-11-20T21:46:14.000Z",
-      "collectedAt": "2026-11-21T22:23:01.092Z",
+      "collectedAt": "2026-11-22T02:27:34.450Z",
       "translationStatus": "pending"
     },
     {
@@ -3823,7 +3958,7 @@
       "titleKo": "What the new UK-EU deal could mean for future post-Brexit relations",
       "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T21:43:22.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.834Z",
       "translationStatus": "pending"
     },
     {
@@ -3838,7 +3973,7 @@
       "titleKo": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
       "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "publishedAt": "2026-11-20T21:38:17.000Z",
-      "collectedAt": "2026-11-21T22:22:59.930Z",
+      "collectedAt": "2026-11-22T02:27:32.344Z",
       "translationStatus": "pending"
     },
     {
@@ -3853,7 +3988,7 @@
       "titleKo": "関文科相 政治資金パーティーめぐり 野党から辞任要求相次ぐ",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79475",
       "publishedAt": "2026-11-20T21:30:58.000Z",
-      "collectedAt": "2026-11-21T22:23:01.119Z",
+      "collectedAt": "2026-11-22T02:27:34.340Z",
       "translationStatus": "pending"
     },
     {
@@ -3868,7 +4003,7 @@
       "titleKo": "Comedian Bowen Yang apologizes for antisemitic slur against Regina Spektor",
       "url": "https://www.haaretz.com/us-news/2026-11-20/ty-article/.premium/comedian-bowen-yang-apologizes-for-antisemitic-slur-against-regina-spektor/000001a1-faa4-d381-ade5-fbe57d580000",
       "publishedAt": "2026-11-20T21:18:46.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "pending"
     },
     {
@@ -3883,7 +4018,7 @@
       "titleKo": "영상 공개: 홍수로 고립된 여성의 극적인 헬기 구조",
       "url": "https://www.euronews.com/2026/11/20/video-shows-dramatic-helicopter-rescue-of-woman-trapped-in-flood-channel",
       "publishedAt": "2026-11-20T21:18:14.000Z",
-      "collectedAt": "2026-11-21T22:22:59.394Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "translated"
     },
     {
@@ -3898,7 +4033,7 @@
       "titleKo": "Trump threatens ban on US firms building AI data centres overseas",
       "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T20:54:12.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "pending"
     },
     {
@@ -3913,7 +4048,7 @@
       "titleKo": "러시아 조류학자, 나발니 재단 소액 기부로 투옥",
       "url": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-11-20T20:45:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.199Z",
+      "collectedAt": "2026-11-22T02:27:32.392Z",
       "translationStatus": "translated"
     },
     {
@@ -3928,7 +4063,7 @@
       "titleKo": "둠스크롤링 새 건강 경고: 알아야 할 것과 습관 끊는 팁",
       "url": "https://abcnews.com/video/138324954",
       "publishedAt": "2026-11-20T20:39:45.000Z",
-      "collectedAt": "2026-11-21T22:23:00.814Z",
+      "collectedAt": "2026-11-22T02:27:32.897Z",
       "translationStatus": "translated"
     },
     {
@@ -3943,7 +4078,7 @@
       "titleKo": "한나 릴리스 아사디 전미 도서상, 팔레스타인 망명 조명",
       "url": "https://www.haaretz.com/us-news/2026-11-20/ty-article/.premium/a-palestinian-story-of-exile-takes-one-of-americas-top-literary-prizes/000001a1-fa94-d381-ade5-fbf511090000",
       "publishedAt": "2026-11-20T20:37:01.000Z",
-      "collectedAt": "2026-11-21T22:23:00.851Z",
+      "collectedAt": "2026-11-22T02:27:32.826Z",
       "translationStatus": "translated"
     },
     {
@@ -3958,7 +4093,7 @@
       "titleKo": "이란 변호사 탄압 증가",
       "url": "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-world-4025-rdf",
       "publishedAt": "2026-11-20T20:36:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.199Z",
+      "collectedAt": "2026-11-22T02:27:32.392Z",
       "translationStatus": "translated"
     },
     {
@@ -3973,7 +4108,7 @@
       "titleKo": "일본 기업 등에서 고액 수입 얻는 해외 거주자, 과세 강화 추진",
       "url": "https://news.web.nhk/newsweb/na/nd-20261120de79460",
       "publishedAt": "2026-11-20T20:33:28.000Z",
-      "collectedAt": "2026-11-21T22:23:01.119Z",
+      "collectedAt": "2026-11-22T02:27:34.340Z",
       "translationStatus": "translated"
     },
     {
@@ -3988,7 +4123,7 @@
       "titleKo": "안보 3문서, 여당 내에서 방위비 대폭 증액 요구 목소리 커져",
       "url": "https://news.web.nhk/newsweb/na/nd-20261121de79473",
       "publishedAt": "2026-11-20T20:30:23.000Z",
-      "collectedAt": "2026-11-21T22:23:01.119Z",
+      "collectedAt": "2026-11-22T02:27:34.340Z",
       "translationStatus": "translated"
     },
     {
@@ -4003,7 +4138,7 @@
       "titleKo": "Russian missiles pummel Ukraine and hit NATO soil in Poland",
       "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato",
       "publishedAt": "2026-11-20T20:28:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.723Z",
+      "collectedAt": "2026-11-22T02:27:32.962Z",
       "translationStatus": "pending"
     },
     {
@@ -4018,7 +4153,7 @@
       "titleKo": "다카이치 총리, 다음 주 ICC 아카네 소장과 면담…지지 방침 전달할까",
       "url": "https://news.web.nhk/newsweb/na/nd-20261120de79444",
       "publishedAt": "2026-11-20T20:26:38.000Z",
-      "collectedAt": "2026-11-21T22:23:01.092Z",
+      "collectedAt": "2026-11-22T02:27:34.340Z",
       "translationStatus": "translated"
     },
     {
@@ -4033,7 +4168,7 @@
       "titleKo": "We’ve tried everything to get off our phones. These 11 things work (and make great gifts)",
       "url": "https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
       "publishedAt": "2026-11-20T20:15:38.000Z",
-      "collectedAt": "2026-11-21T22:23:00.301Z",
+      "collectedAt": "2026-11-22T02:27:32.409Z",
       "translationStatus": "pending"
     },
     {
@@ -4048,7 +4183,7 @@
       "titleKo": "라이브: ABC 뉴스 라이브",
       "url": "https://abcnews.com/video/41463246",
       "publishedAt": "2026-11-20T20:15:26.000Z",
-      "collectedAt": "2026-11-21T22:23:00.814Z",
+      "collectedAt": "2026-11-22T02:27:32.897Z",
       "translationStatus": "translated"
     },
     {
@@ -4063,7 +4198,7 @@
       "titleKo": "IDF, 수년간 추적 끝에 서안 지구 북부 최고 수배 테러리스트 항복 받아",
       "url": "https://www.jpost.com/israel-news/defense-news/article-915603",
       "publishedAt": "2026-11-20T20:10:08.000Z",
-      "collectedAt": "2026-11-21T22:23:00.569Z",
+      "collectedAt": "2026-11-22T02:27:32.561Z",
       "translationStatus": "translated"
     },
     {
@@ -4078,7 +4213,7 @@
       "titleKo": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
       "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
       "publishedAt": "2026-11-20T19:38:59.000Z",
-      "collectedAt": "2026-11-21T22:23:00.141Z",
+      "collectedAt": "2026-11-22T02:27:32.387Z",
       "translationStatus": "pending"
     },
     {
@@ -4093,7 +4228,7 @@
       "titleKo": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
       "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T19:27:49.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.833Z",
       "translationStatus": "pending"
     },
     {
@@ -4108,7 +4243,7 @@
       "titleKo": "Germany intensifies engagement with South Caucasus as 'region of opportunities'",
       "url": "https://www.euronews.com/2026/11/20/germany-intensifies-engagement-with-south-caucasus-as-region-of-opportunities",
       "publishedAt": "2026-11-20T19:24:23.000Z",
-      "collectedAt": "2026-11-21T22:22:59.394Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "pending"
     },
     {
@@ -4123,7 +4258,7 @@
       "titleKo": "Forget rogue robots, it’s tech billionaires and AI cricket that should really terrify us | Barney Ronay",
       "url": "https://www.theguardian.com/sport/2026/nov/20/cricket-rogue-robots-tech-billionaires-artificial-intelligence",
       "publishedAt": "2026-11-20T19:00:36.000Z",
-      "collectedAt": "2026-11-21T22:23:00.141Z",
+      "collectedAt": "2026-11-22T02:27:32.387Z",
       "translationStatus": "pending"
     },
     {
@@ -4138,7 +4273,7 @@
       "titleKo": "Trump defends Putin ties and accuses Iran of dishonesty in negotiations",
       "url": "https://www.euronews.com/2026/11/20/trump-accuses-iran-of-dishonesty-while-defending-putin-ties",
       "publishedAt": "2026-11-20T18:55:06.000Z",
-      "collectedAt": "2026-11-21T22:22:59.394Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "pending"
     },
     {
@@ -4153,7 +4288,7 @@
       "titleKo": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
       "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
       "publishedAt": "2026-11-20T18:51:16.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
+      "collectedAt": "2026-11-22T02:27:32.420Z",
       "translationStatus": "pending"
     },
     {
@@ -4168,7 +4303,7 @@
       "titleKo": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
       "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T18:48:48.000Z",
-      "collectedAt": "2026-11-21T22:23:00.586Z",
+      "collectedAt": "2026-11-22T02:27:32.834Z",
       "translationStatus": "pending"
     },
     {
@@ -4183,7 +4318,7 @@
       "titleKo": "The Guardian view on Britain and Europe: Burnham’s reset cannot be the final destination | Editorial",
       "url": "https://www.theguardian.com/commentisfree/2026/nov/20/the-guardian-view-on-britain-and-europe-burnhams-reset-cannot-be-the-final-destination",
       "publishedAt": "2026-11-20T18:13:24.000Z",
-      "collectedAt": "2026-11-21T22:23:00.141Z",
+      "collectedAt": "2026-11-22T02:27:32.387Z",
       "translationStatus": "pending"
     },
     {
@@ -4198,7 +4333,7 @@
       "titleKo": "‘The greatest game ever made’: readers and Guardian staff on Grand Theft Auto VI",
       "url": "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review",
       "publishedAt": "2026-11-20T18:04:15.000Z",
-      "collectedAt": "2026-11-21T22:23:00.302Z",
+      "collectedAt": "2026-11-22T02:27:32.410Z",
       "translationStatus": "pending"
     },
     {
@@ -4213,7 +4348,7 @@
       "titleKo": "Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil",
       "url": "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
       "publishedAt": "2026-11-20T17:59:38.000Z",
-      "collectedAt": "2026-11-21T22:23:00.822Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
       "translationStatus": "pending"
     },
     {
@@ -4228,7 +4363,7 @@
       "titleKo": "Trump says he plans to penalize companies that build data centers in other countries",
       "url": "https://abcnews.com/Technology/wireStory/trump-plans-penalize-us-tech-companies-build-ai-138323831",
       "publishedAt": "2026-11-20T17:57:52.000Z",
-      "collectedAt": "2026-11-21T22:23:00.815Z",
+      "collectedAt": "2026-11-22T02:27:32.897Z",
       "translationStatus": "pending"
     },
     {
@@ -4243,7 +4378,7 @@
       "titleKo": "Germany news: Kids take to streets over school, climate and costs",
       "url": "https://www.dw.com/en/germany-news-kids-take-to-streets-over-school-climate-and-costs/live-79998529?maca=en-rss-en-ger-1023-rdf",
       "publishedAt": "2026-11-20T17:43:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.370Z",
+      "collectedAt": "2026-11-22T02:27:32.501Z",
       "translationStatus": "pending"
     },
     {
@@ -4258,7 +4393,7 @@
       "titleKo": "Better educated than ever — yet Germany's Gen Z is being shut out of its own future",
       "url": "https://www.dw.com/en/better-educated-than-ever-yet-germany-s-gen-z-is-being-shut-out-of-its-own-future/a-80005823?maca=en-rss-en-ger-1023-rdf",
       "publishedAt": "2026-11-20T17:09:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.370Z",
+      "collectedAt": "2026-11-22T02:27:32.501Z",
       "translationStatus": "pending"
     },
     {
@@ -4273,7 +4408,7 @@
       "titleKo": "The best dehumidifiers: 14 favourites to beat damp and cut bills, tested",
       "url": "https://www.theguardian.com/thefilter/2025/oct/21/best-dehumidifiers-tested-uk",
       "publishedAt": "2026-11-20T17:08:04.000Z",
-      "collectedAt": "2026-11-21T22:23:00.301Z",
+      "collectedAt": "2026-11-22T02:27:32.409Z",
       "translationStatus": "pending"
     },
     {
@@ -4288,7 +4423,7 @@
       "titleKo": "Latest news bulletin | November 20th, 2026 – Evening",
       "url": "https://www.euronews.com/video/2026/11/20/latest-news-bulletin-november-20th-2026-evening",
       "publishedAt": "2026-11-20T17:00:26.000Z",
-      "collectedAt": "2026-11-21T22:22:59.394Z",
+      "collectedAt": "2026-11-22T02:27:32.144Z",
       "translationStatus": "pending"
     },
     {
@@ -4303,22 +4438,7 @@
       "titleKo": "Morocco commits €366 million to build a national defence industry by 2035",
       "url": "https://www.euronews.com/2026/11/20/morocco-commits-366-million-to-build-a-national-defence-industry-by-2035",
       "publishedAt": "2026-11-20T16:43:13.000Z",
-      "collectedAt": "2026-11-21T22:22:59.394Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "098942a14145120a",
-      "sourceId": "euronews",
-      "source": "Euronews",
-      "sourceKo": "유로뉴스",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Deepening EU–Canada ties: From critical minerals and defence to erasmus+",
-      "titleKo": "Deepening EU–Canada ties: From critical minerals and defence to erasmus+",
-      "url": "https://www.euronews.com/2026/11/20/deepening-eucanada-ties-from-critical-minerals-and-defence-to-erasmus",
-      "publishedAt": "2026-11-20T16:21:57.000Z",
-      "collectedAt": "2026-11-21T22:22:59.394Z",
+      "collectedAt": "2026-11-22T02:27:32.145Z",
       "translationStatus": "pending"
     },
     {
@@ -4333,7 +4453,7 @@
       "titleKo": "WATCH: Reporter goes undercover as porch pirate",
       "url": "https://abcnews.com/video/138316025",
       "publishedAt": "2026-11-20T16:12:56.000Z",
-      "collectedAt": "2026-11-21T22:23:00.814Z",
+      "collectedAt": "2026-11-22T02:27:32.897Z",
       "translationStatus": "pending"
     },
     {
@@ -4348,7 +4468,7 @@
       "titleKo": "Workers and students protest across Europe as a strike in Italy disrupts services",
       "url": "https://abcnews.com/International/wireStory/italy-strike-draws-workers-students-nationwide-protests-wages-138314660",
       "publishedAt": "2026-11-20T15:43:51.000Z",
-      "collectedAt": "2026-11-21T22:23:00.822Z",
+      "collectedAt": "2026-11-22T02:27:32.891Z",
       "translationStatus": "pending"
     },
     {
@@ -4363,7 +4483,7 @@
       "titleKo": "Can German auto manufacturing recover after Mercedes and VW cuts?",
       "url": "https://www.dw.com/en/can-german-auto-manufacturing-recover-after-mercedes-and-vw-cuts/a-79946928?maca=en-rss-en-bus-2091-rdf",
       "publishedAt": "2026-11-20T15:36:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.204Z",
+      "collectedAt": "2026-11-22T02:27:32.370Z",
       "translationStatus": "pending"
     },
     {
@@ -4378,7 +4498,7 @@
       "titleKo": "Can German auto manufacturing recover after Mercedes and VW cuts?",
       "url": "https://www.dw.com/en/can-german-auto-manufacturing-recover-after-mercedes-and-vw-cuts/a-79946928?maca=en-rss-en-ger-1023-rdf",
       "publishedAt": "2026-11-20T15:36:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.370Z",
+      "collectedAt": "2026-11-22T02:27:32.502Z",
       "translationStatus": "pending"
     },
     {
@@ -4393,127 +4513,7 @@
       "titleKo": "White House replaces national cyber director amid widespread tech outages",
       "url": "https://abcnews.com/Politics/white-house-replaces-national-cyber-director-amid-widespread/story?id=138310514",
       "publishedAt": "2026-11-20T15:16:47.000Z",
-      "collectedAt": "2026-11-21T22:23:00.815Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "00e2ecf13c8a628a",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceKo": "도이체벨레",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "Is Pakistan backing anti-Taliban groups in Afghanistan?",
-      "titleKo": "Is Pakistan backing anti-Taliban groups in Afghanistan?",
-      "url": "https://www.dw.com/en/is-pakistan-backing-anti-taliban-groups-in-afghanistan/a-80004814?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-11-20T15:02:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.199Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "24e345b04575b1d0",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "us"
-      ],
-      "titleOriginal": "If Democrats want to win, blue-collar populists are the key | Dustin Guastella and Jared Abbott",
-      "titleKo": "If Democrats want to win, blue-collar populists are the key | Dustin Guastella and Jared Abbott",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/20/democrats-blue-collar-populists",
-      "publishedAt": "2026-11-20T15:00:33.000Z",
-      "collectedAt": "2026-11-21T22:23:00.117Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "80027ed06e843c75",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceKo": "도이체벨레",
-      "regions": [
-        "europe"
-      ],
-      "titleOriginal": "Germany face Belgium in Nations League quarterfinals — Klopp plays down favorites tag",
-      "titleKo": "Germany face Belgium in Nations League quarterfinals — Klopp plays down favorites tag",
-      "url": "https://www.dw.com/en/germany-face-belgium-in-nations-league-quarterfinals-klopp-plays-down-favorites-tag/a-80004794?maca=en-rss-en-ger-1023-rdf",
-      "publishedAt": "2026-11-20T14:53:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.371Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "e24ded2d5b273c19",
-      "sourceId": "nhk",
-      "source": "NHK",
-      "sourceKo": "NHK",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "東京消防庁 職員5人をわいせつ行為などで懲戒処分",
-      "titleKo": "東京消防庁 職員5人をわいせつ行為などで懲戒処分",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79455",
-      "publishedAt": "2026-11-20T14:51:29.000Z",
-      "collectedAt": "2026-11-21T22:23:01.113Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "1623612d207c8baf",
-      "sourceId": "nhk",
-      "source": "NHK",
-      "sourceKo": "NHK",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "トランプ大統領がMLB選手のピート・ローズ氏に恩赦",
-      "titleKo": "トランプ大統領がMLB選手のピート・ローズ氏に恩赦",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79436",
-      "publishedAt": "2026-11-20T14:44:09.000Z",
-      "collectedAt": "2026-11-21T22:23:01.092Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "15de9ca7a0142dfe",
-      "sourceId": "dw",
-      "source": "DW",
-      "sourceKo": "도이체벨레",
-      "regions": [
-        "world"
-      ],
-      "titleOriginal": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
-      "titleKo": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
-      "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
-      "publishedAt": "2026-11-20T14:30:00.000Z",
-      "collectedAt": "2026-11-21T22:23:00.199Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "d6eac4cd1033254c",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceKo": "가디언",
-      "regions": [
-        "middleeast"
-      ],
-      "titleOriginal": "I’m an Australian-Palestinian doctor who was turned away at the West Bank border. The stigma of being born in Gaza stands in the way of peace",
-      "titleKo": "I’m an Australian-Palestinian doctor who was turned away at the West Bank border. The stigma of being born in Gaza stands in the way of peace",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/21/im-an-australian-palestinian-doctor-who-was-turned-away-at-the-west-bank-border-the-stigma-of-being-born-in-gaza-stands-in-the-way-of-peace-ntwnfb",
-      "publishedAt": "2026-11-20T14:00:32.000Z",
-      "collectedAt": "2026-11-21T22:23:00.094Z",
-      "translationStatus": "pending"
-    },
-    {
-      "id": "0fa1d0014d9fd0f6",
-      "sourceId": "euronews",
-      "source": "Euronews",
-      "sourceKo": "유로뉴스",
-      "regions": [
-        "economy"
-      ],
-      "titleOriginal": "Norway signs carbon credit deals with Indonesia and Morocco to help fund renewable energy",
-      "titleKo": "Norway signs carbon credit deals with Indonesia and Morocco to help fund renewable energy",
-      "url": "https://www.euronews.com/2026/11/20/norway-signs-carbon-credit-deals-with-indonesia-and-morocco-to-help-fund-renewable-energy",
-      "publishedAt": "2026-11-20T13:55:52.000Z",
-      "collectedAt": "2026-11-21T22:22:59.538Z",
+      "collectedAt": "2026-11-22T02:27:32.897Z",
       "translationStatus": "pending"
     }
   ]
